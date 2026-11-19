@@ -1,0 +1,21 @@
+{
+ "news_queries": [
+  {"q": "mortgage rates", "cat": "Mortgage"},
+  {"q": "housing market home prices", "cat": "Market"},
+  {"q": "home improvement renovation costs", "cat": "Home improvement"},
+  {"q": "homeowners insurance premiums", "cat": "Insurance"},
+  {"q": "selling a home sellers buyers", "cat": "Market"},
+  {"q": "Canada housing market mortgage", "cat": "Canada", "hl": "en-CA", "gl": "CA", "ceid": "CA:en"}
+ ],
+ "news_block_words": ["sponsored", "casino", "betting", "crypto presale"],
+ "youtube_channels": [
+  {"name": "This Old House", "handle": "@thisoldhouse", "id": "UCUtWNBWbFL9We-cdXkiAuJA", "max": 8},
+  {"name": "Home RenoVision DIY", "handle": "@HomeRenoVisionDIY", "max": 5},
+  {"name": "Essential Craftsman", "handle": "@EssentialCraftsman", "max": 4},
+  {"name": "Matt Risinger", "handle": "@MattRisinger", "max": 4},
+  {"name": "Family Handyman", "handle": "@familyhandyman", "max": 4},
+  {"name": "See Jane Drill", "handle": "@seejanedrill", "max": 3},
+  {"name": "Bob Vila", "handle": "@BobVila", "max": 3}
+ ],
+ "video_skip_words": ["#shorts", "live stream", "livestream", "giveaway"]
+}

@@ -1,0 +1,2870 @@
+[
+ {
+  "slug": "roof-replacement",
+  "name": "Roof Replacement",
+  "cat": "exterior",
+  "icon": "roof",
+  "service": "roofing",
+  "low": 8500,
+  "high": 25000,
+  "avg": 13500,
+  "size_label": "Roof area",
+  "size_unit": "sq ft",
+  "size_min": 800,
+  "size_max": 6000,
+  "size_step": 50,
+  "default_size": 2000,
+  "unit_low": 4.5,
+  "unit_high": 7.5,
+  "fixed_low": 1000,
+  "fixed_high": 2500,
+  "min_job": 6000,
+  "lifespan": "20–30 yrs (asphalt), 40–70 yrs (metal)",
+  "duration": "1–3 days",
+  "diy": "Pro only",
+  "diy_text": "Tear-off, decking repair, ice-and-water shield and flashing are where roofs fail. Falls are the leading cause of construction deaths, and most shingle warranties require a certified installer — hire a pro.",
+  "video": [
+   "IbqgYq_77Po",
+   "How to replace a roof in 5 essential steps"
+  ],
+  "intro": "A full roof replacement is one of the largest checks a homeowner writes. Most U.S. homes with architectural asphalt shingles land between $9,000 and $17,000; metal, tile and steep or cut-up roofs push the bill past $25,000. Price is driven by roof area (measured in 100-sq-ft 'squares'), material, pitch and how many layers must come off.",
+  "rows": [
+   [
+    "Architectural asphalt shingles",
+    "$4.50 – $7.50 / sq ft"
+   ],
+   [
+    "3-tab asphalt shingles",
+    "$3.75 – $5.50 / sq ft"
+   ],
+   [
+    "Standing-seam metal",
+    "$9 – $16 / sq ft"
+   ],
+   [
+    "Concrete or clay tile",
+    "$12 – $25 / sq ft"
+   ],
+   [
+    "Natural slate",
+    "$15 – $30+ / sq ft"
+   ],
+   [
+    "Tear-off & disposal (per layer)",
+    "$1.00 – $2.00 / sq ft"
+   ],
+   [
+    "Decking replacement (per sheet)",
+    "$70 – $120"
+   ]
+  ],
+  "factors": [
+   [
+    "Pitch and stories",
+    "Roofs steeper than 8/12 or above two stories need extra fall protection and staging, adding 15–30% to labor."
+   ],
+   [
+    "Layers to remove",
+    "Every existing layer adds tear-off labor and dump fees. Most codes allow only two layers, so a re-cover is rarely an option."
+   ],
+   [
+    "Complexity",
+    "Valleys, dormers, skylights and chimneys each require custom flashing — the most leak-prone details on any roof."
+   ],
+   [
+    "Material grade",
+    "Impact-resistant (Class 4) shingles cost 10–25% more but can earn insurance discounts in hail states."
+   ],
+   [
+    "Hidden rot",
+    "Soft decking is only discovered after tear-off; get the per-sheet replacement price in writing before work starts."
+   ]
+  ],
+  "signs": [
+   "Shingles curling, cracking or missing after storms",
+   "Granules collecting in gutters and downspouts",
+   "Daylight or water stains in the attic",
+   "Roof is past 20 years old (asphalt)",
+   "Sagging ridge lines or soft spots underfoot"
+  ],
+  "tips": [
+   "Get at least three bids that quote the same shingle line, underlayment and ventilation so they are comparable.",
+   "Schedule in late fall or winter when roofers are slower — many discount 5–10%.",
+   "If damage is storm-related, document it and call your insurer before signing a contractor's 'assignment of benefits'.",
+   "Ask for the manufacturer's enhanced warranty, which is only available through certified installers."
+  ],
+  "questions": [
+   "Is the price per square or a lump sum, and does it include tear-off, disposal and permits?",
+   "What is the per-sheet charge if rotted decking is found?",
+   "Which underlayment, drip edge and ventilation are included?",
+   "Are you certified by the shingle manufacturer, and which warranty will I receive?",
+   "Who carries workers' compensation and liability insurance on the crew?"
+  ],
+  "faq": [
+   [
+    "Can I put new shingles over old ones?",
+    "Sometimes — most codes allow two layers. A re-cover saves $1–$2 per sq ft but hides deck damage, adds weight and often shortens the new roof's life and warranty."
+   ],
+   [
+    "Does homeowners insurance pay for a new roof?",
+    "Only for sudden damage such as hail or wind, minus your deductible. Wear and age are not covered."
+   ],
+   [
+    "How long does a roof replacement take?",
+    "Most single-family roofs are torn off and re-shingled in one to three days, weather permitting."
+   ]
+  ],
+  "related": [
+   "gutter-installation",
+   "insulation",
+   "siding-replacement"
+  ],
+  "roi": "Typically recovers 55–65% of cost at resale"
+ },
+ {
+  "slug": "siding-replacement",
+  "name": "Siding Replacement",
+  "cat": "exterior",
+  "icon": "layers",
+  "service": "siding",
+  "low": 8000,
+  "high": 25000,
+  "avg": 15000,
+  "size_label": "Wall area to side",
+  "size_unit": "sq ft",
+  "size_min": 500,
+  "size_max": 5000,
+  "size_step": 50,
+  "default_size": 1800,
+  "unit_low": 4.5,
+  "unit_high": 9.0,
+  "fixed_low": 800,
+  "fixed_high": 2000,
+  "min_job": 3000,
+  "lifespan": "30–50 yrs (fiber cement), 20–40 yrs (vinyl)",
+  "duration": "1–2 weeks",
+  "diy": "Skilled DIY",
+  "diy_text": "Vinyl is DIY-able on single-story homes if you can work safely on ladders and handle J-channel details. Fiber cement is heavy, needs silica-dust control and is best left to crews.",
+  "video": [
+   "bz9JoJGWvI4",
+   "How to replace damaged vinyl siding"
+  ],
+  "intro": "New siding changes curb appeal more than almost any other project and protects the wall assembly behind it. A typical 1,800-sq-ft exterior costs $10,000–$18,000 in vinyl and $14,000–$25,000 in fiber cement. Removal of old siding, house wrap, trim and the number of corners and openings decide where you land.",
+  "rows": [
+   [
+    "Vinyl",
+    "$4 – $8 / sq ft"
+   ],
+   [
+    "Insulated vinyl",
+    "$6 – $10 / sq ft"
+   ],
+   [
+    "Fiber cement (e.g., lap plank)",
+    "$6 – $13 / sq ft"
+   ],
+   [
+    "Engineered wood",
+    "$5 – $10 / sq ft"
+   ],
+   [
+    "Cedar or natural wood",
+    "$7 – $14 / sq ft"
+   ],
+   [
+    "Old siding removal",
+    "$1 – $2 / sq ft"
+   ],
+   [
+    "House wrap",
+    "$0.40 – $0.90 / sq ft"
+   ]
+  ],
+  "factors": [
+   [
+    "Material",
+    "Fiber cement and wood cost more but resist fire and impact better; vinyl wins on price and maintenance."
+   ],
+   [
+    "Tear-off",
+    "Removing old siding exposes sheathing; budget 5–10% for rot repair on older homes."
+   ],
+   [
+    "Architectural detail",
+    "Gables, bump-outs and many windows add trim and labor time."
+   ],
+   [
+    "Stories",
+    "Second- and third-story walls require staging or lifts."
+   ],
+   [
+    "Season",
+    "Vinyl must be installed with expansion gaps calibrated to temperature — reputable crews schedule carefully."
+   ]
+  ],
+  "signs": [
+   "Warping, buckling or loose panels",
+   "Soft or rotting boards when pressed",
+   "Peeling interior paint or wallpaper on exterior walls",
+   "Rising heating and cooling bills",
+   "Fading so severe the color no longer matches repairs"
+  ],
+  "tips": [
+   "Replace siding and windows together — trim details tie in cleanly and you pay for staging once.",
+   "Ask for a line-item price for rot repair per sheet of sheathing.",
+   "Choose mid-tone colors on vinyl; very dark vinyl can warp from reflected sunlight.",
+   "Get the manufacturer's installation warranty, not only the material warranty."
+  ],
+  "questions": [
+   "Is removal and disposal of the old siding included?",
+   "Which house wrap and flashing tape will you use around windows?",
+   "How are corners, J-channel and trim finished?",
+   "What is the warranty on labor versus material?",
+   "Do you pull the permit?"
+  ],
+  "faq": [
+   [
+    "Is fiber cement worth the extra cost?",
+    "In wildfire, hail or high-humidity regions, often yes — it is non-combustible, rot-resistant and holds paint for 10–15 years."
+   ],
+   [
+    "Can siding go over existing siding?",
+    "Sometimes, but it hides moisture damage and can void warranties. Most pros recommend a full tear-off."
+   ],
+   [
+    "How long does new siding last?",
+    "Vinyl typically lasts 20–40 years; fiber cement 30–50 years with periodic repainting."
+   ]
+  ],
+  "related": [
+   "window-replacement",
+   "exterior-painting",
+   "gutter-installation"
+  ],
+  "roi": "Typically recovers 70–85% of cost at resale"
+ },
+ {
+  "slug": "window-replacement",
+  "name": "Window Replacement",
+  "cat": "exterior",
+  "icon": "window",
+  "service": "windows",
+  "low": 4500,
+  "high": 18000,
+  "avg": 9500,
+  "size_label": "Number of windows",
+  "size_unit": "windows",
+  "size_min": 1,
+  "size_max": 40,
+  "size_step": 1,
+  "default_size": 10,
+  "unit_low": 450,
+  "unit_high": 1250,
+  "fixed_low": 0,
+  "fixed_high": 500,
+  "min_job": 600,
+  "lifespan": "20–40 yrs",
+  "duration": "1–3 days for 10 windows",
+  "diy": "Skilled DIY",
+  "diy_text": "Insert (pocket) replacements are manageable for a careful DIYer; full-frame installs with new flashing and exterior trim are better left to pros so the water barrier stays intact.",
+  "video": [
+   "s8Rlfs7gZOo",
+   "How to install a replacement window"
+  ],
+  "intro": "Replacing windows cuts drafts, noise and maintenance. Standard vinyl double-hung windows run $450–$1,250 each installed, so a 10-window project typically costs $6,000–$13,000. Wood, fiberglass, custom shapes and full-frame installs cost more. Note: the federal 25C energy-efficiency tax credit ended for windows installed after December 31, 2025, so check state and utility rebates instead.",
+  "rows": [
+   [
+    "Vinyl double-hung (insert)",
+    "$450 – $1,000 each"
+   ],
+   [
+    "Fiberglass",
+    "$750 – $1,600 each"
+   ],
+   [
+    "Wood or wood-clad",
+    "$900 – $2,200 each"
+   ],
+   [
+    "Casement",
+    "$600 – $1,500 each"
+   ],
+   [
+    "Bay or bow",
+    "$2,500 – $7,500 each"
+   ],
+   [
+    "Full-frame upgrade",
+    "+$200 – $500 per window"
+   ],
+   [
+    "Egress window (basement, cut-in)",
+    "$3,000 – $6,500"
+   ]
+  ],
+  "factors": [
+   [
+    "Insert vs. full-frame",
+    "Inserts sit in the existing frame; full-frame removes everything to the studs and lets the installer fix rot and flashing."
+   ],
+   [
+    "Glass package",
+    "Triple-pane and low-E coatings add 10–20% but matter most in cold climates."
+   ],
+   [
+    "Size and shape",
+    "Arches, oversized and custom units are made to order and cost far more."
+   ],
+   [
+    "Access",
+    "Upper-floor windows need ladders or staging."
+   ],
+   [
+    "Lead paint",
+    "Homes built before 1978 require EPA RRP lead-safe practices, adding cost."
+   ]
+  ],
+  "signs": [
+   "Fog between panes (failed seal)",
+   "Drafts or frost on the inside of the glass",
+   "Sashes that won't stay open or lock",
+   "Soft or rotting sills",
+   "Noticeable street noise"
+  ],
+  "tips": [
+   "Replace the worst windows first — the payback on a few failed units beats a whole-house job.",
+   "Compare U-factor and SHGC ratings, not brand names.",
+   "Ask installers about off-season pricing (late winter).",
+   "Check your utility for window rebates now that the federal credit is gone."
+  ],
+  "questions": [
+   "Is this an insert or full-frame installation?",
+   "What U-factor and SHGC does the quoted glass have?",
+   "How do you flash and seal the opening?",
+   "Is interior and exterior trim included?",
+   "What do the product and installation warranties cover?"
+  ],
+  "faq": [
+   [
+    "Do new windows pay for themselves in energy savings?",
+    "Rarely on savings alone — expect 10–15% lower heating and cooling bills when replacing single-pane units. Comfort, noise and resale are the bigger wins."
+   ],
+   [
+    "How long does installation take?",
+    "A crew usually installs 8–12 insert windows per day."
+   ],
+   [
+    "Is the window tax credit still available?",
+    "The federal 25C credit ended for property placed in service after December 31, 2025. Some states and utilities still offer rebates."
+   ]
+  ],
+  "related": [
+   "siding-replacement",
+   "insulation",
+   "exterior-painting"
+  ],
+  "roi": "Typically recovers 60–70% of cost at resale"
+ },
+ {
+  "slug": "gutter-installation",
+  "name": "Gutter Installation",
+  "cat": "exterior",
+  "icon": "droplet",
+  "service": "gutters",
+  "low": 1200,
+  "high": 4500,
+  "avg": 2200,
+  "size_label": "Gutter length",
+  "size_unit": "linear ft",
+  "size_min": 40,
+  "size_max": 500,
+  "size_step": 5,
+  "default_size": 160,
+  "unit_low": 8,
+  "unit_high": 15,
+  "fixed_low": 150,
+  "fixed_high": 400,
+  "min_job": 600,
+  "lifespan": "20–30 yrs (aluminum), 50+ yrs (copper)",
+  "duration": "1 day",
+  "diy": "Skilled DIY",
+  "diy_text": "Sectional vinyl gutters are a weekend DIY on a one-story house. Seamless aluminum is formed on-site by a machine, so it is a pro-only product.",
+  "video": [
+   "Oo_GXULZl8I",
+   "How to install aluminum gutters"
+  ],
+  "intro": "Gutters are cheap insurance for your foundation, siding and landscaping. Seamless 5-inch aluminum gutters cost $8–$15 per linear foot installed, so most homes pay $1,400–$3,200. Copper, 6-inch commercial profiles and gutter guards raise the price.",
+  "rows": [
+   [
+    "Seamless aluminum (5\")",
+    "$8 – $13 / linear ft"
+   ],
+   [
+    "Seamless aluminum (6\")",
+    "$10 – $15 / linear ft"
+   ],
+   [
+    "Vinyl sectional",
+    "$4 – $8 / linear ft"
+   ],
+   [
+    "Steel",
+    "$10 – $20 / linear ft"
+   ],
+   [
+    "Copper half-round",
+    "$25 – $40 / linear ft"
+   ],
+   [
+    "Downspouts",
+    "$8 – $15 / linear ft"
+   ],
+   [
+    "Gutter guards",
+    "$7 – $25 / linear ft"
+   ]
+  ],
+  "factors": [
+   [
+    "Material",
+    "Aluminum is the value standard; copper lasts generations but costs 3–4× as much."
+   ],
+   [
+    "Size",
+    "6-inch gutters move about 40% more water — worth it on large or steep roofs."
+   ],
+   [
+    "Height",
+    "Second-story runs need taller ladders and more time."
+   ],
+   [
+    "Fascia condition",
+    "Rotted fascia must be replaced before new gutters can hang."
+   ],
+   [
+    "Guards",
+    "Micro-mesh guards cut cleaning but add significantly to cost."
+   ]
+  ],
+  "signs": [
+   "Water spilling over during rain",
+   "Sagging or pulling away from the fascia",
+   "Peeling paint or rot behind gutters",
+   "Pooling water or erosion near the foundation",
+   "Rust spots or leaking seams"
+  ],
+  "tips": [
+   "Extend downspouts at least 4–6 feet from the foundation.",
+   "Bundle gutters with a roof replacement to share setup costs.",
+   "Ask for hidden hangers every 24 inches (closer in snow country).",
+   "Skip cheap guards — mesh quality determines whether they work."
+  ],
+  "questions": [
+   "What gauge aluminum is quoted (0.027\" or heavier)?",
+   "How far apart are the hangers?",
+   "Is fascia repair included or priced separately?",
+   "How many downspouts and where?",
+   "What warranty covers leaks at seams and corners?"
+  ],
+  "faq": [
+   [
+    "Are seamless gutters better?",
+    "Yes — fewer joints mean fewer leaks. Seams are only at corners and downspouts."
+   ],
+   [
+    "Do I need gutter guards?",
+    "If you have overhanging trees, guards can pay for themselves in cleaning costs within a few years."
+   ],
+   [
+    "How often should gutters be cleaned?",
+    "Twice a year, and after storms if trees are nearby."
+   ]
+  ],
+  "related": [
+   "roof-replacement",
+   "basement-waterproofing",
+   "foundation-repair"
+  ],
+  "roi": "Protects value; prevents costly water damage"
+ },
+ {
+  "slug": "exterior-painting",
+  "name": "Exterior House Painting",
+  "cat": "exterior",
+  "icon": "roller",
+  "service": "painting",
+  "low": 3000,
+  "high": 9500,
+  "avg": 5200,
+  "size_label": "Paintable wall area",
+  "size_unit": "sq ft",
+  "size_min": 600,
+  "size_max": 5000,
+  "size_step": 50,
+  "default_size": 2000,
+  "unit_low": 1.75,
+  "unit_high": 4.25,
+  "fixed_low": 300,
+  "fixed_high": 800,
+  "min_job": 1500,
+  "lifespan": "7–15 yrs",
+  "duration": "3–7 days",
+  "diy": "DIY-friendly",
+  "diy_text": "A single-story home is a realistic DIY with a sprayer and solid prep. Two-story homes, lead paint (pre-1978) and heavy scraping are where pros earn their fee.",
+  "video": [
+   "emGj5oYbz2s",
+   "How to paint a house exterior"
+  ],
+  "intro": "Fresh exterior paint protects wood and boosts curb appeal for the price of a modest remodel. Professional painters charge about $1.75–$4.25 per square foot of paintable surface, or $3,500–$8,000 for a typical two-story home. Prep — scraping, sanding, caulking and priming — is 60% of the job and the main price driver.",
+  "rows": [
+   [
+    "Single-story home",
+    "$2,500 – $5,000"
+   ],
+   [
+    "Two-story home",
+    "$4,000 – $9,500"
+   ],
+   [
+    "Trim and doors only",
+    "$1,000 – $3,000"
+   ],
+   [
+    "Brick painting",
+    "$2.50 – $5 / sq ft"
+   ],
+   [
+    "Pressure washing",
+    "$250 – $600"
+   ],
+   [
+    "Lead-safe prep (pre-1978)",
+    "+10% – 25%"
+   ]
+  ],
+  "factors": [
+   [
+    "Surface condition",
+    "Peeling paint needs scraping and priming; failed areas can double labor."
+   ],
+   [
+    "Siding type",
+    "Rough cedar and stucco soak up more paint than smooth vinyl or fiber cement."
+   ],
+   [
+    "Height and access",
+    "Steep yards, dormers and three stories need staging."
+   ],
+   [
+    "Paint quality",
+    "Premium 100% acrylic costs more per gallon but lasts years longer."
+   ],
+   [
+    "Colors",
+    "Dramatic color changes often require an extra coat."
+   ]
+  ],
+  "signs": [
+   "Peeling, blistering or chalking paint",
+   "Bare wood visible on trim or sills",
+   "Faded or uneven color",
+   "Caulk cracking around windows and doors",
+   "Mildew that returns after washing"
+  ],
+  "tips": [
+   "Paint in late spring or early fall — mild, dry weather lets paint cure properly.",
+   "Ask for two finish coats on the sun-facing sides.",
+   "Buy the paint yourself through a pro account only if the painter agrees; otherwise let them warranty it.",
+   "Get the prep steps written into the contract."
+  ],
+  "questions": [
+   "How many coats are included, and on which surfaces?",
+   "What prep is included (wash, scrape, sand, caulk, prime)?",
+   "Which paint line and sheen?",
+   "Are you EPA lead-safe certified (for pre-1978 homes)?",
+   "What does your warranty cover and for how long?"
+  ],
+  "faq": [
+   [
+    "How long does exterior paint last?",
+    "7–10 years on wood siding, up to 15 years on fiber cement or stucco with quality paint."
+   ],
+   [
+    "Can you paint vinyl siding?",
+    "Yes, with vinyl-safe paint that is no darker than the original color, to avoid heat warping."
+   ],
+   [
+    "When is the best time to paint?",
+    "Temperatures between 50°F and 85°F with low humidity and no rain for 24 hours."
+   ]
+  ],
+  "related": [
+   "siding-replacement",
+   "interior-painting",
+   "window-replacement"
+  ],
+  "roi": "Typically recovers 50–60% of cost; strong pre-sale move"
+ },
+ {
+  "slug": "deck-building",
+  "name": "Deck Building",
+  "cat": "outdoor",
+  "icon": "deck",
+  "service": "decks",
+  "low": 6000,
+  "high": 30000,
+  "avg": 14000,
+  "size_label": "Deck size",
+  "size_unit": "sq ft",
+  "size_min": 80,
+  "size_max": 1000,
+  "size_step": 10,
+  "default_size": 320,
+  "unit_low": 28,
+  "unit_high": 60,
+  "fixed_low": 500,
+  "fixed_high": 1500,
+  "min_job": 3000,
+  "lifespan": "15–20 yrs (wood), 25–30+ yrs (composite)",
+  "duration": "1–3 weeks",
+  "diy": "Skilled DIY",
+  "diy_text": "Ground-level decks are a classic DIY. Raised decks attached to the house need a permit, a correctly flashed ledger and footings below the frost line — mistakes here cause collapses.",
+  "video": [
+   "vhUO_NTx574",
+   "How to build a deck, part 1"
+  ],
+  "intro": "A new deck adds usable living space for far less than an addition. Pressure-treated wood decks run about $28–$45 per square foot built, while composite boards push that to $40–$60+. A 320-sq-ft deck typically costs $9,000–$19,000 depending on height, railings and stairs.",
+  "rows": [
+   [
+    "Pressure-treated pine",
+    "$28 – $45 / sq ft"
+   ],
+   [
+    "Cedar or redwood",
+    "$35 – $55 / sq ft"
+   ],
+   [
+    "Composite",
+    "$40 – $60 / sq ft"
+   ],
+   [
+    "PVC",
+    "$45 – $70 / sq ft"
+   ],
+   [
+    "Railing",
+    "$30 – $110 / linear ft"
+   ],
+   [
+    "Stairs",
+    "$1,000 – $3,500 per flight"
+   ],
+   [
+    "Permit & plans",
+    "$300 – $1,500"
+   ]
+  ],
+  "factors": [
+   [
+    "Decking material",
+    "Composite costs more up front but needs no staining."
+   ],
+   [
+    "Height",
+    "Second-story decks need larger posts, beams and bracing."
+   ],
+   [
+    "Railings",
+    "Cable or glass rail systems can cost as much as the decking."
+   ],
+   [
+    "Footings",
+    "Frost depth and soil determine footing size and labor."
+   ],
+   [
+    "Extras",
+    "Built-in benches, lighting and pergolas add quickly."
+   ]
+  ],
+  "signs": [
+   "Soft or rotting boards and joists",
+   "Wobbly railings or posts",
+   "Rusted or missing ledger flashing and fasteners",
+   "Deck pulling away from the house",
+   "Splinters and cupped boards that won't hold stain"
+  ],
+  "tips": [
+   "Keep the footprint rectangular — angles and curves add labor fast.",
+   "Use hidden fasteners only where they matter; face screws are cheaper.",
+   "Build in late fall or winter for better contractor availability.",
+   "Ask for a ledger detail drawing on the permit set."
+  ],
+  "questions": [
+   "How is the ledger attached and flashed to the house?",
+   "What footing depth and post size are specified?",
+   "Is the permit and inspection included?",
+   "Which decking and railing products are quoted?",
+   "Who handles final inspection sign-off?"
+  ],
+  "faq": [
+   [
+    "Do I need a permit for a deck?",
+    "Almost always for decks attached to the house or more than 30 inches above grade."
+   ],
+   [
+    "Is composite worth it?",
+    "If you'd otherwise stain every 2–3 years, composite usually breaks even within about 8–10 years."
+   ],
+   [
+    "How long does a wood deck last?",
+    "15–20 years with regular sealing; composite 25–30+ years."
+   ]
+  ],
+  "related": [
+   "fence-installation",
+   "concrete-driveway",
+   "tree-removal"
+  ],
+  "roi": "Typically recovers 65–90% of cost at resale"
+ },
+ {
+  "slug": "fence-installation",
+  "name": "Fence Installation",
+  "cat": "outdoor",
+  "icon": "fence",
+  "service": "fencing",
+  "low": 2000,
+  "high": 9000,
+  "avg": 4800,
+  "size_label": "Fence length",
+  "size_unit": "linear ft",
+  "size_min": 20,
+  "size_max": 600,
+  "size_step": 5,
+  "default_size": 150,
+  "unit_low": 22,
+  "unit_high": 48,
+  "fixed_low": 200,
+  "fixed_high": 600,
+  "min_job": 1200,
+  "lifespan": "15–20 yrs (wood), 20–30 yrs (vinyl)",
+  "duration": "2–4 days",
+  "diy": "DIY-friendly",
+  "diy_text": "Fences are one of the most DIY-friendly projects, especially pre-built panels. The hard parts are setting posts plumb and deep enough — and calling 811 before you dig.",
+  "video": [
+   "OPf6Ed9NqMw",
+   "How to install a vinyl privacy fence"
+  ],
+  "intro": "A new fence adds privacy, keeps pets in and defines your property line. Expect $22–$48 per linear foot installed for most wood and vinyl privacy fences, so a 150-foot backyard run typically costs $3,500–$7,500. Chain link is cheaper; ornamental aluminum and masonry cost more.",
+  "rows": [
+   [
+    "Chain link (4 ft)",
+    "$15 – $30 / linear ft"
+   ],
+   [
+    "Wood privacy (6 ft)",
+    "$25 – $50 / linear ft"
+   ],
+   [
+    "Vinyl privacy (6 ft)",
+    "$30 – $60 / linear ft"
+   ],
+   [
+    "Aluminum ornamental",
+    "$30 – $70 / linear ft"
+   ],
+   [
+    "Split rail",
+    "$12 – $30 / linear ft"
+   ],
+   [
+    "Gate (walk / drive)",
+    "$300 – $1,500 / $1,000 – $4,000"
+   ],
+   [
+    "Old fence removal",
+    "$3 – $6 / linear ft"
+   ]
+  ],
+  "factors": [
+   [
+    "Material and height",
+    "Taller fences need deeper posts and more material."
+   ],
+   [
+    "Terrain",
+    "Slopes need stepped or racked panels."
+   ],
+   [
+    "Soil and rock",
+    "Rocky ground can double post-setting time."
+   ],
+   [
+    "Gates",
+    "Each gate adds hardware and reinforced posts."
+   ],
+   [
+    "Local rules",
+    "HOAs and zoning limit height and style; get approval first."
+   ]
+  ],
+  "signs": [
+   "Leaning posts or sagging sections",
+   "Rot at the base of posts",
+   "Broken pickets or panels",
+   "Gates that drag or won't latch",
+   "Property line disputes or new pets"
+  ],
+  "tips": [
+   "Confirm your property line with a survey before installing.",
+   "Share costs with neighbors on a shared line — many agree to split.",
+   "Use pressure-treated or galvanized steel posts even for wood fences.",
+   "Buy materials in winter when fence companies run promotions."
+  ],
+  "questions": [
+   "How deep are posts set, and in concrete or gravel?",
+   "Is old fence removal and haul-away included?",
+   "Who pulls permits and handles HOA approval?",
+   "What warranty covers posts and workmanship?",
+   "Will you call 811 to locate utilities?"
+  ],
+  "faq": [
+   [
+    "How long does a wood fence last?",
+    "15–20 years with sealing every few years; vinyl lasts 20–30 years with almost no maintenance."
+   ],
+   [
+    "Do I need a permit?",
+    "Many towns require one for fences over 6 feet or in front yards."
+   ],
+   [
+    "Which side faces out?",
+    "Local rules and courtesy usually put the finished side facing the neighbor and street."
+   ]
+  ],
+  "related": [
+   "deck-building",
+   "concrete-driveway",
+   "tree-removal"
+  ],
+  "roi": "Recovers 50–70%; adds appeal for families and pet owners"
+ },
+ {
+  "slug": "concrete-driveway",
+  "name": "Concrete Driveway",
+  "cat": "outdoor",
+  "icon": "road",
+  "service": "concrete",
+  "low": 3500,
+  "high": 12000,
+  "avg": 7000,
+  "size_label": "Driveway area",
+  "size_unit": "sq ft",
+  "size_min": 150,
+  "size_max": 2000,
+  "size_step": 10,
+  "default_size": 600,
+  "unit_low": 7,
+  "unit_high": 13,
+  "fixed_low": 500,
+  "fixed_high": 1500,
+  "min_job": 2000,
+  "lifespan": "25–40 yrs",
+  "duration": "3–5 days + 7-day cure",
+  "diy": "Pro only",
+  "diy_text": "Pouring a driveway means grading, forming, reinforcing and finishing several cubic yards before it sets. One mistake is permanent, so this is a pro job.",
+  "video": [
+   "fvz_22dpteg",
+   "How to pour a concrete driveway"
+  ],
+  "intro": "Concrete driveways last decades with little maintenance. Installed costs run about $7–$13 per square foot including base and reinforcement, so a two-car 600-sq-ft driveway costs roughly $4,500–$9,000. Removing an old driveway, decorative finishes and thicker slabs for trucks increase the price.",
+  "rows": [
+   [
+    "Standard broom-finish concrete",
+    "$7 – $10 / sq ft"
+   ],
+   [
+    "Stamped or colored concrete",
+    "$12 – $20 / sq ft"
+   ],
+   [
+    "Asphalt (for comparison)",
+    "$4 – $8 / sq ft"
+   ],
+   [
+    "Pavers",
+    "$15 – $35 / sq ft"
+   ],
+   [
+    "Old driveway removal",
+    "$2 – $6 / sq ft"
+   ],
+   [
+    "Rebar or wire mesh",
+    "$0.50 – $1.50 / sq ft"
+   ]
+  ],
+  "factors": [
+   [
+    "Demolition",
+    "Breaking out and hauling old concrete is labor- and dump-fee heavy."
+   ],
+   [
+    "Base preparation",
+    "Poor soil needs more gravel and compaction."
+   ],
+   [
+    "Thickness",
+    "5–6 inches is recommended if you park trucks or RVs."
+   ],
+   [
+    "Finish",
+    "Stamping and color add artisan labor."
+   ],
+   [
+    "Access",
+    "Pump trucks are needed when a mixer can't reach the pour."
+   ]
+  ],
+  "signs": [
+   "Wide or spreading cracks",
+   "Heaving or sinking slabs",
+   "Potholes and crumbling edges",
+   "Water pooling against the garage",
+   "Spalling surface flakes"
+  ],
+  "tips": [
+   "Ask for control joints every 10 feet or less to manage cracking.",
+   "Seal the surface after curing and every 2–3 years.",
+   "Avoid de-icing salts for the first winter.",
+   "Compare to asphalt if your budget is tight and you live in a cold climate."
+  ],
+  "questions": [
+   "What thickness and PSI mix will you pour?",
+   "What base depth and compaction are included?",
+   "Is removal and disposal included?",
+   "How will drainage be handled near the garage?",
+   "What does the warranty cover regarding cracking?"
+  ],
+  "faq": [
+   [
+    "How long before I can drive on new concrete?",
+    "Usually 7 days for cars and 28 days for heavy vehicles."
+   ],
+   [
+    "Concrete or asphalt?",
+    "Concrete lasts longer and needs less upkeep; asphalt is cheaper and handles freeze-thaw well."
+   ],
+   [
+    "Will it crack?",
+    "All concrete cracks; proper joints, base and reinforcement keep cracks small and controlled."
+   ]
+  ],
+  "related": [
+   "fence-installation",
+   "deck-building",
+   "foundation-repair"
+  ],
+  "roi": "Recovers 50–75%; big curb-appeal upgrade"
+ },
+ {
+  "slug": "solar-panels",
+  "name": "Solar Panel Installation",
+  "cat": "systems",
+  "icon": "sun",
+  "service": "solar",
+  "low": 15000,
+  "high": 35000,
+  "avg": 21000,
+  "size_label": "System size",
+  "size_unit": "kW",
+  "size_min": 3,
+  "size_max": 20,
+  "size_step": 0.5,
+  "default_size": 7,
+  "unit_low": 2500,
+  "unit_high": 3600,
+  "fixed_low": 500,
+  "fixed_high": 1500,
+  "min_job": 8000,
+  "lifespan": "25–30 yrs (panels), 10–15 yrs (inverters)",
+  "duration": "1–3 days install; 1–3 months permits",
+  "diy": "Pro only",
+  "diy_text": "Grid-tied systems require electrical permits, utility interconnection agreements and rooftop work. Hire a licensed installer.",
+  "video": [
+   "IGZHLim6_DU",
+   "How to avoid solar panel scams"
+  ],
+  "intro": "Rooftop solar costs about $2.50–$3.60 per watt installed before incentives, or roughly $17,000–$25,000 for a typical 7 kW system. Important for 2026: the 30% federal Residential Clean Energy Credit (Section 25D) ended for homeowner-owned systems installed after December 31, 2025, so payback now depends on your electricity rates, net-metering rules and any state or utility incentives.",
+  "rows": [
+   [
+    "Installed cost per watt",
+    "$2.50 – $3.60"
+   ],
+   [
+    "5 kW system",
+    "$12,500 – $18,000"
+   ],
+   [
+    "7 kW system",
+    "$17,500 – $25,000"
+   ],
+   [
+    "10 kW system",
+    "$25,000 – $36,000"
+   ],
+   [
+    "Battery storage (10–13 kWh)",
+    "$10,000 – $16,000"
+   ],
+   [
+    "Main panel upgrade (if needed)",
+    "$1,800 – $4,500"
+   ]
+  ],
+  "factors": [
+   [
+    "Incentives",
+    "With 25D gone, state rebates, SRECs and utility programs make or break the economics."
+   ],
+   [
+    "Electric rates",
+    "The higher your $/kWh, the faster solar pays back."
+   ],
+   [
+    "Roof",
+    "Replace an aging roof first — removing and reinstalling panels later costs thousands."
+   ],
+   [
+    "Equipment",
+    "Microinverters and premium panels raise cost but improve shade performance."
+   ],
+   [
+    "Financing",
+    "Loans and leases add interest or hand tax benefits to the leasing company."
+   ]
+  ],
+  "signs": [
+   "Electric bills over $150/month",
+   "Unshaded south-, west- or east-facing roof",
+   "Roof less than 10 years old",
+   "Local net metering at or near retail rates",
+   "Plans to stay 8+ years"
+  ],
+  "tips": [
+   "Get three quotes and compare cost per watt, not monthly payment.",
+   "Avoid door-to-door pitches promising 'free solar' — read the lease terms.",
+   "Ask whether the system size matches 12 months of your actual usage.",
+   "Check if a lease/PPA (whose owner may still claim business credits) beats buying in your state."
+  ],
+  "questions": [
+   "What is the total cost per watt after all fees?",
+   "Which panels, inverters and racking are included?",
+   "What production (kWh/year) do you guarantee?",
+   "Who handles permits, inspection and utility interconnection?",
+   "What happens to the warranty if your company closes?"
+  ],
+  "faq": [
+   [
+    "Is the 30% solar tax credit still available?",
+    "Not for homeowner-owned systems: Section 25D ended for installations completed after December 31, 2025. Leased and PPA systems may still benefit indirectly because their commercial owners can claim business credits."
+   ],
+   [
+    "How long is the payback?",
+    "Commonly 8–14 years in 2026 without the federal credit, shorter in high-rate states."
+   ],
+   [
+    "Do panels work in snow and cold?",
+    "Yes — panels are more efficient in cold temperatures; snow slides off tilted panels."
+   ]
+  ],
+  "related": [
+   "roof-replacement",
+   "electrical-panel-upgrade",
+   "insulation"
+  ],
+  "roi": "Owned systems can add value in high-rate markets; leases can complicate a sale"
+ },
+ {
+  "slug": "hvac-replacement",
+  "name": "HVAC Replacement",
+  "cat": "systems",
+  "icon": "fan",
+  "service": "hvac",
+  "low": 6000,
+  "high": 20000,
+  "avg": 11500,
+  "size_label": "System size",
+  "size_unit": "tons",
+  "size_min": 1.5,
+  "size_max": 5,
+  "size_step": 0.5,
+  "default_size": 3,
+  "unit_low": 2200,
+  "unit_high": 3800,
+  "fixed_low": 1500,
+  "fixed_high": 3000,
+  "min_job": 4000,
+  "lifespan": "15–20 yrs (furnace), 12–17 yrs (AC/heat pump)",
+  "duration": "1–3 days",
+  "diy": "Pro only",
+  "diy_text": "Refrigerant handling requires EPA certification, and gas, electrical and venting work requires permits. Hire a licensed HVAC contractor.",
+  "video": [
+   "JCsRqLYptMA",
+   "HVAC furnace and AC replacement: what to expect"
+  ],
+  "intro": "Replacing a furnace and central air conditioner together typically costs $8,000–$16,000; a cold-climate heat pump system runs $9,000–$20,000. Price depends on tonnage, efficiency (SEER2/AFUE), ductwork condition and installation complexity. The federal 25C credit for heat pumps ended after December 31, 2025, so look for utility rebates.",
+  "rows": [
+   [
+    "Central AC only (3 ton)",
+    "$4,500 – $8,500"
+   ],
+   [
+    "Gas furnace only",
+    "$3,500 – $7,500"
+   ],
+   [
+    "AC + furnace",
+    "$8,000 – $16,000"
+   ],
+   [
+    "Air-source heat pump",
+    "$7,000 – $16,000"
+   ],
+   [
+    "Ductless mini-split (per zone)",
+    "$3,000 – $6,500"
+   ],
+   [
+    "New ductwork",
+    "$35 – $65 / linear ft"
+   ]
+  ],
+  "factors": [
+   [
+    "Sizing",
+    "A Manual J load calculation prevents oversized equipment that short-cycles and wastes money."
+   ],
+   [
+    "Efficiency",
+    "Higher SEER2/HSPF2 units cost more but cut operating costs."
+   ],
+   [
+    "Ductwork",
+    "Leaky or undersized ducts can erase the efficiency of new equipment."
+   ],
+   [
+    "Fuel switch",
+    "Converting from oil or adding a heat pump may require electrical upgrades."
+   ],
+   [
+    "Season",
+    "Emergency replacements in heat waves or cold snaps cost more."
+   ]
+  ],
+  "signs": [
+   "System older than 15 years",
+   "Repairs costing more than 30% of replacement",
+   "Uneven temperatures room to room",
+   "Rising energy bills",
+   "R-22 refrigerant in an older AC"
+  ],
+  "tips": [
+   "Insist on a written Manual J load calculation.",
+   "Replace in spring or fall when contractors offer off-season pricing.",
+   "Check utility rebates for heat pumps and smart thermostats.",
+   "Compare total installed price and warranty length, not just equipment brand."
+  ],
+  "questions": [
+   "Did you perform a load calculation, and what size did it recommend?",
+   "What SEER2/AFUE/HSPF2 ratings are quoted?",
+   "Is duct sealing or modification included?",
+   "Who registers the manufacturer warranty?",
+   "What labor warranty do you provide?"
+  ],
+  "faq": [
+   [
+    "Repair or replace?",
+    "Use the 5,000 rule: multiply repair cost by system age. If it exceeds $5,000, replacement usually makes more sense."
+   ],
+   [
+    "Are heat pumps good in cold climates?",
+    "Modern cold-climate heat pumps work efficiently down to −5°F to −15°F."
+   ],
+   [
+    "How long does installation take?",
+    "A like-for-like swap takes one day; new ductwork can take three or more."
+   ]
+  ],
+  "related": [
+   "insulation",
+   "electrical-panel-upgrade",
+   "water-heater-replacement"
+  ],
+  "roi": "Expected by buyers; an old system lowers offers"
+ },
+ {
+  "slug": "water-heater-replacement",
+  "name": "Water Heater Replacement",
+  "cat": "systems",
+  "icon": "flame",
+  "service": "plumbing",
+  "low": 1300,
+  "high": 5500,
+  "avg": 2200,
+  "size_label": "Number of units",
+  "size_unit": "units",
+  "size_min": 1,
+  "size_max": 3,
+  "size_step": 1,
+  "default_size": 1,
+  "unit_low": 1200,
+  "unit_high": 3200,
+  "fixed_low": 100,
+  "fixed_high": 400,
+  "min_job": 900,
+  "lifespan": "8–12 yrs (tank), 20 yrs (tankless)",
+  "duration": "3–6 hours",
+  "diy": "Skilled DIY",
+  "diy_text": "Like-for-like electric tank swaps are DIY-able for experienced homeowners. Gas units involve gas lines and venting where mistakes risk carbon monoxide — most areas require a permit and many require a licensed plumber.",
+  "video": [
+   "W6A8c2eZodo",
+   "How to replace a tank-type water heater"
+  ],
+  "intro": "A standard 40–50 gallon tank water heater costs $1,300–$3,000 to replace, including haul-away. Tankless gas units run $2,800–$5,500 because of venting and gas-line upgrades, and heat-pump water heaters land between $2,500 and $5,000.",
+  "rows": [
+   [
+    "Electric tank (40–50 gal)",
+    "$1,200 – $2,400"
+   ],
+   [
+    "Gas tank (40–50 gal)",
+    "$1,500 – $3,000"
+   ],
+   [
+    "Tankless gas",
+    "$2,800 – $5,500"
+   ],
+   [
+    "Tankless electric",
+    "$1,500 – $3,500"
+   ],
+   [
+    "Heat-pump (hybrid) tank",
+    "$2,500 – $5,000"
+   ],
+   [
+    "Expansion tank / code updates",
+    "$150 – $500"
+   ]
+  ],
+  "factors": [
+   [
+    "Type and fuel",
+    "Tankless and heat-pump units cost more up front but use less energy."
+   ],
+   [
+    "Code upgrades",
+    "Expansion tanks, seismic straps, drain pans and venting may be required."
+   ],
+   [
+    "Location",
+    "Attic or tight closet installs add labor."
+   ],
+   [
+    "Capacity",
+    "Larger households need bigger tanks or higher-flow tankless units."
+   ],
+   [
+    "Emergency timing",
+    "Same-day replacement after a leak usually costs more."
+   ]
+  ],
+  "signs": [
+   "Tank older than 10 years",
+   "Rusty or discolored hot water",
+   "Rumbling or popping noises",
+   "Water pooling around the base",
+   "Hot water running out faster than before"
+  ],
+  "tips": [
+   "Replace proactively around year 10 to avoid flood damage.",
+   "Flush the tank yearly to extend life.",
+   "Check the anode rod every 3–5 years.",
+   "Ask your utility about heat-pump water heater rebates."
+  ],
+  "questions": [
+   "Does the price include permit, haul-away and code upgrades?",
+   "Will my gas line and venting support a tankless unit?",
+   "What is the first-hour rating of the quoted model?",
+   "What warranty covers the tank versus labor?",
+   "Can you install today if needed?"
+  ],
+  "faq": [
+   [
+    "Tank or tankless?",
+    "Tankless saves space and energy and lasts longer, but costs 2–3× more to install. Payback is best for gas households with high usage."
+   ],
+   [
+    "How long does a water heater last?",
+    "Tanks last 8–12 years; tankless units can reach 20 years with descaling."
+   ],
+   [
+    "Do I need a permit?",
+    "Most jurisdictions require one, especially for gas units."
+   ]
+  ],
+  "related": [
+   "hvac-replacement",
+   "water-damage-restoration",
+   "electrical-panel-upgrade"
+  ],
+  "roi": "Neutral at resale; prevents water damage"
+ },
+ {
+  "slug": "electrical-panel-upgrade",
+  "name": "Electrical Panel Upgrade",
+  "cat": "systems",
+  "icon": "bolt",
+  "service": "electrical",
+  "low": 1500,
+  "high": 6000,
+  "avg": 2800,
+  "size_label": "New service size",
+  "size_unit": "amps",
+  "size_min": 100,
+  "size_max": 400,
+  "size_step": 50,
+  "default_size": 200,
+  "unit_low": 9,
+  "unit_high": 20,
+  "fixed_low": 300,
+  "fixed_high": 800,
+  "min_job": 1200,
+  "lifespan": "25–40 yrs",
+  "duration": "1 day (power off 4–8 hrs)",
+  "diy": "Pro only",
+  "diy_text": "Panel and service work is lethal if done wrong and requires a permit and utility coordination. Always hire a licensed electrician.",
+  "video": [
+   "KbO-4k6IaUs",
+   "How to upgrade an electrical panel to 200-amp service"
+  ],
+  "intro": "Upgrading from a 100-amp to a 200-amp panel typically costs $1,800–$4,500. If the utility service drop, meter base or underground feed must also be upgraded, total cost can reach $6,000 or more. EV chargers, heat pumps and kitchen remodels are the usual triggers.",
+  "rows": [
+   [
+    "Panel replacement (same amperage)",
+    "$1,200 – $2,500"
+   ],
+   [
+    "100A → 200A upgrade",
+    "$1,800 – $4,500"
+   ],
+   [
+    "200A → 400A upgrade",
+    "$3,500 – $8,000"
+   ],
+   [
+    "Subpanel",
+    "$600 – $1,800"
+   ],
+   [
+    "Meter base replacement",
+    "$300 – $1,200"
+   ],
+   [
+    "EV charger circuit (Level 2)",
+    "$600 – $2,000"
+   ]
+  ],
+  "factors": [
+   [
+    "Utility work",
+    "Some utilities charge to upgrade the service drop or transformer."
+   ],
+   [
+    "Panel location",
+    "Moving the panel adds wiring and wall repair."
+   ],
+   [
+    "Code corrections",
+    "Grounding, bonding and AFCI/GFCI updates are often required at inspection."
+   ],
+   [
+    "Permit fees",
+    "Vary widely by city."
+   ],
+   [
+    "Recall-era panels",
+    "Federal Pacific and Zinsco panels should be replaced regardless of capacity."
+   ]
+  ],
+  "signs": [
+   "Breakers tripping frequently",
+   "Flickering lights when appliances start",
+   "Fuses instead of breakers",
+   "Federal Pacific, Zinsco or Challenger brand panel",
+   "Planning an EV charger, heat pump or major remodel"
+  ],
+  "tips": [
+   "Do a load calculation first — a smart load manager can sometimes avoid a full upgrade.",
+   "Bundle EV charger and panel work in one permit.",
+   "Ask the utility about free service upgrades.",
+   "Schedule early; utility disconnect appointments book out."
+  ],
+  "questions": [
+   "Is utility coordination and the permit included?",
+   "Does the quote cover meter base and grounding upgrades?",
+   "What brand panel and how many spaces?",
+   "How long will power be off?",
+   "Will you label every circuit?"
+  ],
+  "faq": [
+   [
+    "Do I need 200 amps?",
+    "If you plan an EV charger plus electric heat or cooking, usually yes. A load calculation decides."
+   ],
+   [
+    "How long does it take?",
+    "Usually one day, with power off for 4–8 hours."
+   ],
+   [
+    "Is a Federal Pacific panel dangerous?",
+    "Many electricians and insurers consider them a fire risk due to breakers that may fail to trip."
+   ]
+  ],
+  "related": [
+   "solar-panels",
+   "hvac-replacement",
+   "water-heater-replacement"
+  ],
+  "roi": "Removes a buyer and insurer red flag"
+ },
+ {
+  "slug": "foundation-repair",
+  "name": "Foundation Repair",
+  "cat": "restoration",
+  "icon": "foundation",
+  "service": "foundation",
+  "low": 2000,
+  "high": 12000,
+  "avg": 5200,
+  "size_label": "Piers or repair points",
+  "size_unit": "repair points",
+  "size_min": 1,
+  "size_max": 20,
+  "size_step": 1,
+  "default_size": 3,
+  "unit_low": 1100,
+  "unit_high": 2600,
+  "fixed_low": 600,
+  "fixed_high": 1800,
+  "min_job": 500,
+  "lifespan": "Lifetime of home (piers)",
+  "duration": "1–5 days",
+  "diy": "Pro only",
+  "diy_text": "Hairline crack sealing is DIY-able, but anything structural — settling, bowing walls, sticking doors — needs a structural engineer's assessment before any contractor quote.",
+  "video": [
+   "HjHKV2lCLQs",
+   "How to fix a concrete foundation crack"
+  ],
+  "intro": "Most foundation repairs cost $2,500–$9,500. Simple crack injection can be under $1,000, while steel piering for a settling corner costs $1,100–$2,600 per pier. Severe structural work — wall bracing, slab jacking across a whole house — can exceed $20,000.",
+  "rows": [
+   [
+    "Crack injection (epoxy/polyurethane)",
+    "$400 – $1,000 per crack"
+   ],
+   [
+    "Steel push or helical piers",
+    "$1,100 – $2,600 each"
+   ],
+   [
+    "Wall anchors / carbon-fiber straps",
+    "$400 – $1,200 each"
+   ],
+   [
+    "Slab jacking / mudjacking",
+    "$600 – $2,500"
+   ],
+   [
+    "Structural engineer report",
+    "$400 – $900"
+   ],
+   [
+    "Major structural repair",
+    "$10,000 – $30,000+"
+   ]
+  ],
+  "factors": [
+   [
+    "Cause",
+    "Soil movement, poor drainage or plumbing leaks must be fixed or repairs will fail."
+   ],
+   [
+    "Method",
+    "Piers lift and stabilize; injections only seal."
+   ],
+   [
+    "Soil type",
+    "Expansive clay and deep load-bearing strata need more piers."
+   ],
+   [
+    "Access",
+    "Interior piers mean cutting slab and finishes."
+   ],
+   [
+    "Engineering",
+    "An independent engineer prevents overselling."
+   ]
+  ],
+  "signs": [
+   "Stair-step cracks in brick or block",
+   "Doors and windows sticking or misaligned",
+   "Sloping or bouncy floors",
+   "Gaps between walls and ceiling or floor",
+   "Horizontal cracks or bowing basement walls"
+  ],
+  "tips": [
+   "Hire an independent structural engineer before calling repair companies.",
+   "Fix gutters and grading first — water is the root cause of most damage.",
+   "Ask for transferable lifetime warranties on piers.",
+   "Get the repair plan stamped by the engineer for resale disclosure."
+  ],
+  "questions": [
+   "What is causing the movement, and how will you address it?",
+   "How many piers, at what depth, and is lift guaranteed?",
+   "Is the warranty transferable to a buyer?",
+   "Will an engineer sign off on the completed work?",
+   "What restoration (landscaping, slab patch) is included?"
+  ],
+  "faq": [
+   [
+    "Are all foundation cracks serious?",
+    "No. Hairline vertical cracks from curing are common. Horizontal cracks, widening cracks and cracks with displacement need attention."
+   ],
+   [
+    "Does insurance cover foundation repair?",
+    "Usually not, unless caused by a covered event such as a sudden plumbing leak."
+   ],
+   [
+    "Will foundation repair hurt resale?",
+    "Documented, engineered repairs with a transferable warranty reassure buyers far more than an unrepaired issue."
+   ]
+  ],
+  "related": [
+   "basement-waterproofing",
+   "gutter-installation",
+   "water-damage-restoration"
+  ],
+  "roi": "Restores value; unrepaired issues can cut offers 10–15%"
+ },
+ {
+  "slug": "water-damage-restoration",
+  "name": "Water Damage Restoration",
+  "cat": "restoration",
+  "icon": "droplet",
+  "service": "water-damage",
+  "low": 1500,
+  "high": 8000,
+  "avg": 3800,
+  "size_label": "Affected area",
+  "size_unit": "sq ft",
+  "size_min": 25,
+  "size_max": 2500,
+  "size_step": 25,
+  "default_size": 400,
+  "unit_low": 3.75,
+  "unit_high": 7.5,
+  "fixed_low": 400,
+  "fixed_high": 1200,
+  "min_job": 800,
+  "lifespan": "—",
+  "duration": "3–5 days to dry; 1–3 weeks to rebuild",
+  "diy": "Skilled DIY",
+  "diy_text": "Small, clean-water spills caught within 24 hours can be dried with fans and a dehumidifier. Sewage, flooding or water inside walls needs professional extraction, moisture mapping and antimicrobial treatment.",
+  "video": [
+   "Ouqk4b54oBo",
+   "Water damage? Do this before mold takes over"
+  ],
+  "intro": "Water damage restoration usually costs $1,500–$8,000. Clean water from a supply line costs $3.75–$7.50 per affected square foot to extract and dry, while gray or black water (appliance or sewage) costs significantly more because materials must be removed and disinfected. Speed matters: mold can start within 24–48 hours.",
+  "rows": [
+   [
+    "Clean water (Category 1)",
+    "$3.75 – $7.50 / sq ft"
+   ],
+   [
+    "Gray water (Category 2)",
+    "$4.50 – $9 / sq ft"
+   ],
+   [
+    "Black water / sewage (Category 3)",
+    "$7 – $15 / sq ft"
+   ],
+   [
+    "Emergency extraction call-out",
+    "$300 – $1,000"
+   ],
+   [
+    "Drywall replacement",
+    "$2 – $4 / sq ft"
+   ],
+   [
+    "Flooring replacement",
+    "$3 – $12 / sq ft"
+   ]
+  ],
+  "factors": [
+   [
+    "Water category",
+    "Contaminated water requires removal of porous materials."
+   ],
+   [
+    "Time elapsed",
+    "The longer water sits, the more materials must be replaced."
+   ],
+   [
+    "Materials",
+    "Hardwood, insulation and carpet pad absorb water and often can't be saved."
+   ],
+   [
+    "Hidden moisture",
+    "Thermal imaging and moisture meters find water inside walls."
+   ],
+   [
+    "Insurance",
+    "Sudden leaks are usually covered; gradual leaks and floods often are not."
+   ]
+  ],
+  "signs": [
+   "Musty smell or visible staining",
+   "Warped floors or bubbling paint",
+   "Soft drywall at the base of walls",
+   "Spike in water bill",
+   "Standing water after storms or appliance failures"
+  ],
+  "tips": [
+   "Stop the source and shut off power to wet areas first.",
+   "Photograph everything before cleanup for your insurer.",
+   "Call your insurer within 24 hours and ask what they require.",
+   "Insist on documented moisture readings before walls are closed."
+  ],
+  "questions": [
+   "Are you IICRC-certified?",
+   "Will you work directly with my insurance company?",
+   "How will you document dry-out with moisture readings?",
+   "Is reconstruction included or a separate contract?",
+   "What antimicrobial treatments do you use?"
+  ],
+  "faq": [
+   [
+    "Does homeowners insurance cover water damage?",
+    "Sudden, accidental discharge (a burst pipe) usually is; gradual leaks, maintenance issues and outside flooding usually are not without flood insurance."
+   ],
+   [
+    "How long does drying take?",
+    "Three to five days with commercial dehumidifiers and air movers."
+   ],
+   [
+    "Can I stay in the house?",
+    "Usually yes for clean-water losses; sewage losses may require temporary relocation."
+   ]
+  ],
+  "related": [
+   "mold-remediation",
+   "basement-waterproofing",
+   "flooring-installation"
+  ],
+  "roi": "Proper documentation protects value and insurability"
+ },
+ {
+  "slug": "mold-remediation",
+  "name": "Mold Remediation",
+  "cat": "restoration",
+  "icon": "shield",
+  "service": "mold",
+  "low": 1200,
+  "high": 6500,
+  "avg": 3000,
+  "size_label": "Affected area",
+  "size_unit": "sq ft",
+  "size_min": 10,
+  "size_max": 1000,
+  "size_step": 10,
+  "default_size": 150,
+  "unit_low": 12,
+  "unit_high": 25,
+  "fixed_low": 300,
+  "fixed_high": 900,
+  "min_job": 500,
+  "lifespan": "—",
+  "duration": "1–5 days",
+  "diy": "Skilled DIY",
+  "diy_text": "The EPA suggests homeowners can usually handle mold under about 10 square feet on hard surfaces with proper protection. Larger areas, HVAC contamination or health concerns call for a certified remediator.",
+  "video": [
+   "S9VUBsoMTjU",
+   "How a mold remediation is done"
+  ],
+  "intro": "Professional mold remediation typically costs $1,500–$6,000, or about $12–$25 per affected square foot. Attics, crawl spaces and HVAC ducts cost more because of containment and access. Fixing the moisture source is the step that keeps mold from returning.",
+  "rows": [
+   [
+    "Small area (<50 sq ft)",
+    "$500 – $1,500"
+   ],
+   [
+    "Bathroom or room",
+    "$1,500 – $3,500"
+   ],
+   [
+    "Basement",
+    "$2,500 – $6,500"
+   ],
+   [
+    "Attic",
+    "$2,000 – $7,000"
+   ],
+   [
+    "HVAC / duct cleaning",
+    "$600 – $2,000"
+   ],
+   [
+    "Mold testing / inspection",
+    "$300 – $900"
+   ]
+  ],
+  "factors": [
+   [
+    "Size and location",
+    "Containment and negative air pressure drive labor."
+   ],
+   [
+    "Materials affected",
+    "Drywall and insulation are removed; framing is cleaned and treated."
+   ],
+   [
+    "Moisture source",
+    "Leaks, condensation or poor ventilation must be corrected."
+   ],
+   [
+    "Testing",
+    "Post-remediation clearance testing adds cost but documents success."
+   ],
+   [
+    "Rebuild",
+    "Replacing removed drywall and finishes is often a separate bill."
+   ]
+  ],
+  "signs": [
+   "Musty odors",
+   "Visible black, green or white growth",
+   "Recurring condensation on windows or walls",
+   "Past leaks or flooding",
+   "Allergy symptoms that improve when away from home"
+  ],
+  "tips": [
+   "Use separate companies for testing and remediation to avoid conflicts of interest.",
+   "Fix ventilation — bath fans, dryer vents and dehumidifiers — afterward.",
+   "Keep indoor humidity between 30% and 50%.",
+   "Ask for a written protocol and clearance criteria."
+  ],
+  "questions": [
+   "What containment and air filtration will you use?",
+   "Which materials will be removed versus cleaned?",
+   "Do you offer post-remediation clearance testing?",
+   "How will you address the moisture source?",
+   "Are you certified (e.g., IICRC AMRT)?"
+  ],
+  "faq": [
+   [
+    "Is black mold more dangerous?",
+    "Color doesn't determine risk; any significant mold growth should be removed safely."
+   ],
+   [
+    "Can I just paint over mold?",
+    "No. It continues growing beneath the paint and returns."
+   ],
+   [
+    "Does insurance cover mold?",
+    "Only when caused by a covered sudden event, and often with low sublimits."
+   ]
+  ],
+  "related": [
+   "water-damage-restoration",
+   "basement-waterproofing",
+   "insulation"
+  ],
+  "roi": "Required for clean inspections and smooth sales"
+ },
+ {
+  "slug": "basement-waterproofing",
+  "name": "Basement Waterproofing",
+  "cat": "restoration",
+  "icon": "basement",
+  "service": "waterproofing",
+  "low": 2500,
+  "high": 15000,
+  "avg": 7500,
+  "size_label": "Perimeter to treat",
+  "size_unit": "linear ft",
+  "size_min": 20,
+  "size_max": 300,
+  "size_step": 5,
+  "default_size": 120,
+  "unit_low": 45,
+  "unit_high": 95,
+  "fixed_low": 600,
+  "fixed_high": 1800,
+  "min_job": 600,
+  "lifespan": "20+ yrs (drainage systems)",
+  "duration": "1–3 days interior; 1–2 weeks exterior",
+  "diy": "Skilled DIY",
+  "diy_text": "Sealing cracks, adding downspout extensions and regrading are smart DIY first steps. Interior drain tile, sump systems and exterior excavation are pro jobs.",
+  "video": [
+   "6Q6go57ySqs",
+   "How to waterproof a basement"
+  ],
+  "intro": "Basement waterproofing ranges from a $600 sealant job to $15,000+ for an interior drainage system with a sump pump. Interior perimeter drains typically cost $45–$95 per linear foot; full exterior excavation and membrane can reach $100–$250 per linear foot. Start with gutters and grading — they solve many wet basements for a few hundred dollars.",
+  "rows": [
+   [
+    "Interior sealant / crack repair",
+    "$600 – $2,500"
+   ],
+   [
+    "Interior drain tile + sump",
+    "$45 – $95 / linear ft"
+   ],
+   [
+    "Sump pump install (new pit)",
+    "$1,200 – $3,500"
+   ],
+   [
+    "Battery backup sump",
+    "$900 – $2,000"
+   ],
+   [
+    "Exterior excavation + membrane",
+    "$100 – $250 / linear ft"
+   ],
+   [
+    "Crawl space encapsulation",
+    "$5,000 – $15,000"
+   ]
+  ],
+  "factors": [
+   [
+    "Water source",
+    "Surface water, groundwater and condensation have different fixes."
+   ],
+   [
+    "Method",
+    "Interior drains manage water; exterior membranes stop it at the wall."
+   ],
+   [
+    "Finished basement",
+    "Removing and rebuilding finishes adds cost."
+   ],
+   [
+    "Discharge",
+    "Pump discharge must exit away from the home and per local code."
+   ],
+   [
+    "Soil",
+    "Clay and high water tables need robust systems."
+   ]
+  ],
+  "signs": [
+   "Water seeping where wall meets floor",
+   "Efflorescence (white chalky deposits) on walls",
+   "Musty odors and high humidity",
+   "Cracks that leak after rain",
+   "Rust on appliances or posts in the basement"
+  ],
+  "tips": [
+   "Fix grading and downspouts first — slope soil away 6 inches over 10 feet.",
+   "Add a battery backup to any sump pump.",
+   "Get a lifetime transferable warranty for drainage systems.",
+   "Run a dehumidifier to keep humidity under 50%."
+  ],
+  "questions": [
+   "Where is the water coming from, in your assessment?",
+   "Is the system interior, exterior or both?",
+   "What pump, pit liner and discharge route are included?",
+   "Is the warranty transferable?",
+   "What happens to finished walls and floors?"
+  ],
+  "faq": [
+   [
+    "Do waterproofing paints work?",
+    "They can reduce dampness on unfinished walls but won't stop water under pressure."
+   ],
+   [
+    "Interior or exterior waterproofing?",
+    "Exterior stops water at the source but is expensive; interior drainage is the most common cost-effective fix."
+   ],
+   [
+    "Will it stop all moisture?",
+    "It manages liquid water; a dehumidifier handles humidity."
+   ]
+  ],
+  "related": [
+   "foundation-repair",
+   "gutter-installation",
+   "basement-finishing"
+  ],
+  "roi": "Pre-requisite before finishing a basement"
+ },
+ {
+  "slug": "kitchen-remodel",
+  "name": "Kitchen Remodel",
+  "cat": "interior",
+  "icon": "kitchen",
+  "service": "remodeling",
+  "low": 15000,
+  "high": 85000,
+  "avg": 42000,
+  "size_label": "Kitchen size",
+  "size_unit": "sq ft",
+  "size_min": 60,
+  "size_max": 500,
+  "size_step": 5,
+  "default_size": 180,
+  "unit_low": 130,
+  "unit_high": 420,
+  "fixed_low": 2000,
+  "fixed_high": 6000,
+  "min_job": 8000,
+  "lifespan": "15–25 yrs",
+  "duration": "6–12 weeks",
+  "diy": "Skilled DIY",
+  "diy_text": "Demo, painting, backsplash tile and cabinet hardware are DIY-friendly. Moving plumbing, gas or electrical, and countertop fabrication need licensed trades.",
+  "video": [
+   "zCTAW2qQar4",
+   "How to replace a small kitchen"
+  ],
+  "intro": "A midrange kitchen remodel typically costs $25,000–$60,000; a cosmetic refresh (paint, counters, hardware) can be done for $15,000, and high-end gut renovations exceed $85,000. Cabinets usually eat 30–35% of the budget, and moving walls or plumbing is what turns a remodel into a major project.",
+  "rows": [
+   [
+    "Cosmetic refresh",
+    "$15,000 – $30,000"
+   ],
+   [
+    "Midrange full remodel",
+    "$30,000 – $60,000"
+   ],
+   [
+    "High-end remodel",
+    "$60,000 – $150,000+"
+   ],
+   [
+    "Cabinets (installed)",
+    "$300 – $1,200 / linear ft"
+   ],
+   [
+    "Quartz countertops",
+    "$70 – $150 / sq ft"
+   ],
+   [
+    "Appliance package",
+    "$4,000 – $15,000"
+   ],
+   [
+    "Designer / architect",
+    "5% – 15% of project"
+   ]
+  ],
+  "factors": [
+   [
+    "Layout changes",
+    "Moving sinks, ranges or walls adds plumbing, gas, electrical and permits."
+   ],
+   [
+    "Cabinet grade",
+    "Stock, semi-custom and custom cabinets differ by 2–4×."
+   ],
+   [
+    "Counters",
+    "Laminate, quartz and natural stone vary widely."
+   ],
+   [
+    "Appliances",
+    "Pro-style ranges and panel-ready fridges add thousands."
+   ],
+   [
+    "Structural surprises",
+    "Old wiring, rot and asbestos appear once walls open."
+   ]
+  ],
+  "signs": [
+   "Not enough storage or counter space",
+   "Cabinets with failing hinges or water damage",
+   "Outdated wiring or too few outlets",
+   "Inefficient layout for how you cook",
+   "Planning to sell in a competitive market"
+  ],
+  "tips": [
+   "Keep plumbing in place to save $5,000–$15,000.",
+   "Reface cabinets instead of replacing if boxes are solid.",
+   "Hold a 10–15% contingency for surprises.",
+   "Order cabinets and appliances before demolition to avoid delays."
+  ],
+  "questions": [
+   "Is this a fixed-price or cost-plus contract?",
+   "Who manages the schedule and subcontractors?",
+   "Which allowances (tile, fixtures, counters) are included?",
+   "How are change orders priced?",
+   "Who pulls permits and schedules inspections?"
+  ],
+  "faq": [
+   [
+    "How long does a kitchen remodel take?",
+    "Plan on 6–12 weeks of construction, plus design and ordering time."
+   ],
+   [
+    "What recoups the most at resale?",
+    "Minor, midrange updates typically recover more (around 70–90%) than luxury overhauls (around 40–55%)."
+   ],
+   [
+    "Can I live at home during the remodel?",
+    "Yes — set up a temporary kitchen with a microwave, kettle and fridge."
+   ]
+  ],
+  "related": [
+   "bathroom-remodel",
+   "flooring-installation",
+   "electrical-panel-upgrade"
+  ],
+  "roi": "Minor remodels recover ~70–90%; major remodels ~40–55%"
+ },
+ {
+  "slug": "bathroom-remodel",
+  "name": "Bathroom Remodel",
+  "cat": "interior",
+  "icon": "bath",
+  "service": "remodeling",
+  "low": 7000,
+  "high": 35000,
+  "avg": 14500,
+  "size_label": "Bathroom size",
+  "size_unit": "sq ft",
+  "size_min": 20,
+  "size_max": 200,
+  "size_step": 5,
+  "default_size": 50,
+  "unit_low": 140,
+  "unit_high": 380,
+  "fixed_low": 1500,
+  "fixed_high": 4000,
+  "min_job": 4000,
+  "lifespan": "15–25 yrs",
+  "duration": "2–5 weeks",
+  "diy": "Skilled DIY",
+  "diy_text": "Vanity swaps, toilets, paint and lighting fixtures are DIY-friendly. Shower waterproofing is where DIY fails most often — a leaking pan can rot the subfloor for years before you notice.",
+  "video": [
+   "Q0-4iRH-2Nc",
+   "How to update a vintage bathroom"
+  ],
+  "intro": "Most bathroom remodels cost $8,000–$25,000. A small guest bath refresh can stay under $10,000, while a primary bath with a custom tile shower and double vanity often reaches $25,000–$35,000+. Tile labor and waterproofing are the biggest variables.",
+  "rows": [
+   [
+    "Cosmetic update",
+    "$4,000 – $10,000"
+   ],
+   [
+    "Full remodel (5×8 bath)",
+    "$10,000 – $20,000"
+   ],
+   [
+    "Primary bath remodel",
+    "$20,000 – $45,000"
+   ],
+   [
+    "Tub-to-shower conversion",
+    "$6,000 – $15,000"
+   ],
+   [
+    "Tile installation",
+    "$12 – $30 / sq ft"
+   ],
+   [
+    "Vanity (installed)",
+    "$800 – $4,500"
+   ],
+   [
+    "Walk-in tub / accessibility",
+    "$5,000 – $15,000"
+   ]
+  ],
+  "factors": [
+   [
+    "Tile scope",
+    "Floor-to-ceiling tile and niches add labor."
+   ],
+   [
+    "Plumbing moves",
+    "Relocating toilets and drains is expensive, especially on slabs."
+   ],
+   [
+    "Fixtures",
+    "Thermostatic valves and frameless glass add cost."
+   ],
+   [
+    "Ventilation",
+    "Code requires adequate exhaust fans."
+   ],
+   [
+    "Accessibility",
+    "Curbless showers and grab-bar blocking need planning."
+   ]
+  ],
+  "signs": [
+   "Soft floors around the toilet or tub",
+   "Cracked or missing grout and caulk",
+   "Mold that returns quickly",
+   "Outdated fixtures and poor lighting",
+   "Aging-in-place needs"
+  ],
+  "tips": [
+   "Keep the toilet and shower drain where they are.",
+   "Use large-format tile to reduce grout lines and labor.",
+   "Spend on waterproofing (e.g., membrane systems), save on decorative tile.",
+   "Buy fixtures yourself only if the contractor agrees to install and warranty them."
+  ],
+  "questions": [
+   "Which shower waterproofing system will you use?",
+   "Is subfloor repair priced separately?",
+   "Are fixtures and tile allowances included?",
+   "How will ventilation be vented outside?",
+   "What is the timeline from demo to final?"
+  ],
+  "faq": [
+   [
+    "How long does a bathroom remodel take?",
+    "Two to five weeks of construction for most bathrooms."
+   ],
+   [
+    "What's the best ROI bathroom upgrade?",
+    "Midrange updates — new vanity, tile, fixtures and lighting — typically recover 60–75% at resale."
+   ],
+   [
+    "Can a tub be removed if it's the only one?",
+    "Keeping at least one tub in the home is often recommended for families with young children."
+   ]
+  ],
+  "related": [
+   "kitchen-remodel",
+   "flooring-installation",
+   "mold-remediation"
+  ],
+  "roi": "Typically recovers 60–75% at resale"
+ },
+ {
+  "slug": "flooring-installation",
+  "name": "Flooring Installation",
+  "cat": "interior",
+  "icon": "floor",
+  "service": "flooring",
+  "low": 2000,
+  "high": 12000,
+  "avg": 4800,
+  "size_label": "Floor area",
+  "size_unit": "sq ft",
+  "size_min": 50,
+  "size_max": 3000,
+  "size_step": 10,
+  "default_size": 500,
+  "unit_low": 3.5,
+  "unit_high": 11,
+  "fixed_low": 200,
+  "fixed_high": 600,
+  "min_job": 800,
+  "lifespan": "15–25 yrs (LVP), 50+ yrs (hardwood)",
+  "duration": "1–4 days",
+  "diy": "DIY-friendly",
+  "diy_text": "Click-lock luxury vinyl plank and laminate are among the most DIY-friendly upgrades. Nail-down hardwood, tile and stairs are better left to installers.",
+  "video": [
+   "WqyKhSYkpRQ",
+   "How to install vinyl plank flooring"
+  ],
+  "intro": "New flooring typically costs $3.50–$11 per square foot installed. Luxury vinyl plank (LVP) is the value leader at $3.50–$7, engineered and solid hardwood run $8–$18, and tile ranges from $9–$20. For 500 square feet, most homeowners pay $2,000–$6,000.",
+  "rows": [
+   [
+    "Luxury vinyl plank (LVP)",
+    "$3.50 – $7 / sq ft"
+   ],
+   [
+    "Laminate",
+    "$3 – $8 / sq ft"
+   ],
+   [
+    "Engineered hardwood",
+    "$7 – $14 / sq ft"
+   ],
+   [
+    "Solid hardwood",
+    "$8 – $18 / sq ft"
+   ],
+   [
+    "Porcelain / ceramic tile",
+    "$9 – $20 / sq ft"
+   ],
+   [
+    "Carpet (with pad)",
+    "$3 – $8 / sq ft"
+   ],
+   [
+    "Old flooring removal",
+    "$1 – $3 / sq ft"
+   ]
+  ],
+  "factors": [
+   [
+    "Material",
+    "Product cost varies 4–5× between LVP and premium hardwood."
+   ],
+   [
+    "Subfloor prep",
+    "Leveling, moisture barriers and repairs add $1–$5 per sq ft."
+   ],
+   [
+    "Layout",
+    "Herringbone and diagonal patterns add 15–30% waste and labor."
+   ],
+   [
+    "Stairs",
+    "Each stair tread costs $75–$200 to cover."
+   ],
+   [
+    "Furniture moving",
+    "Some installers charge to move furniture and appliances."
+   ]
+  ],
+  "signs": [
+   "Squeaky, sagging or soft spots",
+   "Water-damaged or warped boards",
+   "Worn carpet and persistent odors",
+   "Cracked tiles or grout",
+   "Dated look before listing a home"
+  ],
+  "tips": [
+   "Buy 10% extra for waste (15% for patterns).",
+   "Let flooring acclimate 48–72 hours before installation.",
+   "Choose waterproof LVP for kitchens, baths and basements.",
+   "Refinish existing hardwood instead of replacing — often $3–$8 per sq ft."
+  ],
+  "questions": [
+   "Is subfloor preparation included?",
+   "What underlayment and moisture barrier will you use?",
+   "How are transitions and baseboards handled?",
+   "Is old flooring removal and disposal included?",
+   "What is the installation warranty?"
+  ],
+  "faq": [
+   [
+    "What's the most durable flooring?",
+    "Porcelain tile and quality LVP resist water and scratches best."
+   ],
+   [
+    "Can flooring go over existing floors?",
+    "Floating floors can often go over flat, sound existing floors; carpet must be removed."
+   ],
+   [
+    "Does hardwood add value?",
+    "Yes — buyers consistently favor hardwood, and refinishing existing hardwood is a top pre-sale move."
+   ]
+  ],
+  "related": [
+   "interior-painting",
+   "kitchen-remodel",
+   "basement-finishing"
+  ],
+  "roi": "Hardwood refinishing recovers 100%+; new hardwood ~70–80%"
+ },
+ {
+  "slug": "interior-painting",
+  "name": "Interior Painting",
+  "cat": "interior",
+  "icon": "roller",
+  "service": "painting",
+  "low": 1500,
+  "high": 11000,
+  "avg": 4500,
+  "size_label": "Floor area painted",
+  "size_unit": "sq ft",
+  "size_min": 100,
+  "size_max": 5000,
+  "size_step": 50,
+  "default_size": 1500,
+  "unit_low": 1.8,
+  "unit_high": 4.5,
+  "fixed_low": 150,
+  "fixed_high": 400,
+  "min_job": 400,
+  "lifespan": "5–10 yrs",
+  "duration": "1–5 days",
+  "diy": "DIY-friendly",
+  "diy_text": "Interior painting is the classic DIY project: low risk and big payoff. Pros are worth it for high ceilings, stairwells, heavy drywall repair or lead paint in pre-1978 homes.",
+  "video": [
+   "OAchxAky8w4",
+   "How to paint like a pro"
+  ],
+  "intro": "Professional interior painting runs about $1.80–$4.50 per square foot of floor area, or $400–$1,200 per average room. Painting a whole 1,500-sq-ft home's walls typically costs $3,000–$7,000; adding ceilings, trim and doors increases the total.",
+  "rows": [
+   [
+    "Single room (walls)",
+    "$400 – $1,200"
+   ],
+   [
+    "Whole home walls (1,500 sq ft)",
+    "$3,000 – $7,000"
+   ],
+   [
+    "Ceilings",
+    "$1 – $2.50 / sq ft"
+   ],
+   [
+    "Trim and baseboards",
+    "$1 – $3 / linear ft"
+   ],
+   [
+    "Interior doors",
+    "$100 – $250 each"
+   ],
+   [
+    "Cabinet painting",
+    "$3,000 – $8,000"
+   ]
+  ],
+  "factors": [
+   [
+    "Prep and repairs",
+    "Patching, sanding and priming add time."
+   ],
+   [
+    "Ceiling height",
+    "Vaulted ceilings require scaffolding."
+   ],
+   [
+    "Color changes",
+    "Dark-to-light changes need primer and extra coats."
+   ],
+   [
+    "Trim detail",
+    "Crown molding and wainscoting are slow to cut in."
+   ],
+   [
+    "Occupied home",
+    "Moving furniture and protecting floors adds labor."
+   ]
+  ],
+  "signs": [
+   "Scuffs and stains that won't wash off",
+   "Peeling or cracking paint",
+   "Dated or dark colors",
+   "Patchwork touch-ups that don't match",
+   "Preparing to list your home"
+  ],
+  "tips": [
+   "Choose a scrubbable eggshell or satin finish for living areas.",
+   "Use the same white for all trim to simplify touch-ups.",
+   "Paint before new flooring goes in.",
+   "Neutral colors photograph best for listings."
+  ],
+  "questions": [
+   "How many coats are included?",
+   "What prep and repairs are included?",
+   "Which paint brand and line?",
+   "Is furniture moving and floor protection included?",
+   "Are ceilings and trim priced separately?"
+  ],
+  "faq": [
+   [
+    "How much paint do I need per room?",
+    "About one gallon per 350–400 sq ft of wall per coat; use our paint calculator."
+   ],
+   [
+    "How long does interior paint last?",
+    "Five to ten years, depending on traffic."
+   ],
+   [
+    "Is it cheaper to paint the whole house at once?",
+    "Yes — setup costs are shared and many painters discount larger jobs."
+   ]
+  ],
+  "related": [
+   "exterior-painting",
+   "flooring-installation",
+   "kitchen-remodel"
+  ],
+  "roi": "Neutral fresh paint is the cheapest pre-sale upgrade"
+ },
+ {
+  "slug": "basement-finishing",
+  "name": "Basement Finishing",
+  "cat": "interior",
+  "icon": "basement",
+  "service": "remodeling",
+  "low": 18000,
+  "high": 75000,
+  "avg": 35000,
+  "size_label": "Basement area",
+  "size_unit": "sq ft",
+  "size_min": 200,
+  "size_max": 2500,
+  "size_step": 25,
+  "default_size": 800,
+  "unit_low": 25,
+  "unit_high": 70,
+  "fixed_low": 1000,
+  "fixed_high": 3000,
+  "min_job": 8000,
+  "lifespan": "20+ yrs",
+  "duration": "4–10 weeks",
+  "diy": "Skilled DIY",
+  "diy_text": "Framing, insulating and painting can be DIY if you're experienced. Electrical, plumbing (especially a bathroom) and egress windows require permits and often licensed trades.",
+  "video": [
+   "i48Tdi4H1TY",
+   "How to frame out basement walls"
+  ],
+  "intro": "Finishing a basement costs about $25–$70 per square foot, or $20,000–$56,000 for 800 square feet. Adding a bathroom ($10,000–$25,000), wet bar or egress window for a legal bedroom pushes the total higher. Waterproofing must come first.",
+  "rows": [
+   [
+    "Basic finish (walls, ceiling, floor)",
+    "$25 – $40 / sq ft"
+   ],
+   [
+    "Midrange with lighting & trim",
+    "$40 – $55 / sq ft"
+   ],
+   [
+    "High-end with bath/bar",
+    "$55 – $100 / sq ft"
+   ],
+   [
+    "Basement bathroom",
+    "$10,000 – $25,000"
+   ],
+   [
+    "Egress window",
+    "$3,000 – $6,500"
+   ],
+   [
+    "Waterproofing (prerequisite)",
+    "$2,500 – $15,000"
+   ]
+  ],
+  "factors": [
+   [
+    "Moisture control",
+    "Waterproofing and vapor management are non-negotiable."
+   ],
+   [
+    "Ceiling height",
+    "Low ceilings or ducts may need soffits or drop ceilings."
+   ],
+   [
+    "Bathroom",
+    "Below-grade bathrooms may need an ejector pump."
+   ],
+   [
+    "Egress",
+    "Bedrooms require code-compliant egress windows."
+   ],
+   [
+    "HVAC",
+    "Extending ducts or adding mini-splits keeps the space comfortable."
+   ]
+  ],
+  "signs": [
+   "Need for a guest suite, office or rec room",
+   "Dry basement with 7+ ft ceiling height",
+   "Unused storage space",
+   "Growing family",
+   "Rental-unit potential (where zoning allows)"
+  ],
+  "tips": [
+   "Waterproof and run a dehumidifier for a season before framing.",
+   "Use rigid foam insulation against concrete, not fiberglass with plastic.",
+   "Plan electrical and data runs before drywall.",
+   "Check zoning before planning a rentable suite."
+  ],
+  "questions": [
+   "How will you handle moisture and insulation against concrete?",
+   "Are permits and inspections included?",
+   "How will HVAC be extended?",
+   "Is an egress window required for my plans?",
+   "What allowances are in the bid?"
+  ],
+  "faq": [
+   [
+    "Does a finished basement count as square footage?",
+    "Appraisers usually list below-grade space separately, but it still adds value."
+   ],
+   [
+    "How long does finishing take?",
+    "Four to ten weeks depending on scope."
+   ],
+   [
+    "Can I add a rental unit?",
+    "Possibly; it depends on zoning, egress, ceiling height and separate-entrance rules."
+   ]
+  ],
+  "related": [
+   "basement-waterproofing",
+   "flooring-installation",
+   "electrical-panel-upgrade"
+  ],
+  "roi": "Typically recovers ~70% of cost"
+ },
+ {
+  "slug": "insulation",
+  "name": "Attic Insulation",
+  "cat": "systems",
+  "icon": "home",
+  "service": "insulation",
+  "low": 1200,
+  "high": 6000,
+  "avg": 2400,
+  "size_label": "Attic floor area",
+  "size_unit": "sq ft",
+  "size_min": 200,
+  "size_max": 3000,
+  "size_step": 50,
+  "default_size": 1000,
+  "unit_low": 1.4,
+  "unit_high": 3.6,
+  "fixed_low": 200,
+  "fixed_high": 600,
+  "min_job": 600,
+  "lifespan": "20–80 yrs (material-dependent)",
+  "duration": "1 day",
+  "diy": "DIY-friendly",
+  "diy_text": "Blowing loose-fill insulation is a common DIY — many home centers lend the machine free with a bag purchase. Air sealing first is the step most DIYers skip; spray foam is pro-only.",
+  "video": [
+   "ZMPztvDUpjg",
+   "How to insulate an attic"
+  ],
+  "intro": "Adding blown-in attic insulation typically costs $1.40–$3.60 per square foot including air sealing, or $1,500–$3,500 for a 1,000-sq-ft attic. Spray foam on the roof deck costs more ($3–$7 per sq ft) but creates a conditioned attic. Note: the federal 25C insulation credit ended for work placed in service after December 31, 2025; many utilities still offer rebates.",
+  "rows": [
+   [
+    "Blown-in fiberglass or cellulose",
+    "$1.25 – $2.50 / sq ft"
+   ],
+   [
+    "Air sealing",
+    "$400 – $1,500"
+   ],
+   [
+    "Batt insulation",
+    "$1 – $2.50 / sq ft"
+   ],
+   [
+    "Spray foam (open cell)",
+    "$1.50 – $3.50 / board ft"
+   ],
+   [
+    "Spray foam (closed cell)",
+    "$3 – $7 / board ft"
+   ],
+   [
+    "Old insulation removal",
+    "$1 – $2.50 / sq ft"
+   ]
+  ],
+  "factors": [
+   [
+    "Target R-value",
+    "Cold climates need R-49 to R-60 in attics."
+   ],
+   [
+    "Air sealing",
+    "Sealing top plates and penetrations doubles the benefit."
+   ],
+   [
+    "Removal",
+    "Contaminated or rodent-damaged insulation must come out first."
+   ],
+   [
+    "Access",
+    "Tight attics and low slopes slow work."
+   ],
+   [
+    "Material",
+    "Spray foam costs more but air-seals and insulates in one step."
+   ]
+  ],
+  "signs": [
+   "Insulation level at or below the joists",
+   "Ice dams in winter",
+   "Hot upstairs rooms in summer",
+   "High energy bills",
+   "Drafts and uneven temperatures"
+  ],
+  "tips": [
+   "Air seal before adding insulation.",
+   "Keep baffles at the eaves so the roof can breathe.",
+   "Ask your utility for a home energy audit and rebates.",
+   "Measure depth: most homes need 14–18 inches of loose fill."
+  ],
+  "questions": [
+   "What R-value will I end up with?",
+   "Is air sealing included, and where?",
+   "Will you install baffles and dam the hatch?",
+   "Is old insulation removal needed?",
+   "Can you document depth for rebates?"
+  ],
+  "faq": [
+   [
+    "How much can insulation save?",
+    "Air sealing plus attic insulation commonly cuts heating and cooling costs by 10–15%."
+   ],
+   [
+    "Fiberglass or cellulose?",
+    "Both work; cellulose is denser and resists air movement slightly better."
+   ],
+   [
+    "Is there still a tax credit?",
+    "The federal 25C credit ended after December 31, 2025; check state and utility programs."
+   ]
+  ],
+  "related": [
+   "hvac-replacement",
+   "roof-replacement",
+   "window-replacement"
+  ],
+  "roi": "Among the fastest energy paybacks; strong resale appeal"
+ },
+ {
+  "slug": "garage-door-replacement",
+  "name": "Garage Door Replacement",
+  "cat": "exterior",
+  "icon": "garage",
+  "service": "garage-doors",
+  "low": 1000,
+  "high": 4500,
+  "avg": 2000,
+  "size_label": "Number of doors",
+  "size_unit": "doors",
+  "size_min": 1,
+  "size_max": 4,
+  "size_step": 1,
+  "default_size": 1,
+  "unit_low": 1100,
+  "unit_high": 3800,
+  "fixed_low": 100,
+  "fixed_high": 300,
+  "min_job": 800,
+  "lifespan": "15–30 yrs",
+  "duration": "Half day to 1 day",
+  "diy": "Pro only",
+  "diy_text": "Torsion springs store enough energy to cause serious injury. Opener swaps are DIY-friendly; full door and spring installation should be done by a pro.",
+  "video": [
+   "xZwHOdI0QLc",
+   "How to install a garage door"
+  ],
+  "intro": "A new garage door costs $1,000–$2,500 installed for a single steel door and $1,600–$4,500 for a double. Insulated, windowed, wood and custom carriage-house styles cost more. Garage doors consistently rank among the best resale-value upgrades.",
+  "rows": [
+   [
+    "Single steel (non-insulated)",
+    "$1,000 – $1,800"
+   ],
+   [
+    "Single steel (insulated)",
+    "$1,300 – $2,500"
+   ],
+   [
+    "Double steel",
+    "$1,600 – $4,500"
+   ],
+   [
+    "Wood or custom carriage",
+    "$3,500 – $10,000+"
+   ],
+   [
+    "New opener",
+    "$450 – $1,000"
+   ],
+   [
+    "Spring replacement",
+    "$200 – $450"
+   ]
+  ],
+  "factors": [
+   [
+    "Size",
+    "Double doors cost more but less than two singles."
+   ],
+   [
+    "Insulation",
+    "Insulated doors are quieter and help attached garages."
+   ],
+   [
+    "Style and windows",
+    "Decorative hardware and glass add cost."
+   ],
+   [
+    "Wind rating",
+    "Coastal areas may require wind-rated doors."
+   ],
+   [
+    "Opener",
+    "Smart, belt-drive and wall-mount openers cost more."
+   ]
+  ],
+  "signs": [
+   "Dents, rust or warping",
+   "Noisy, jerky operation",
+   "Broken springs or cables",
+   "Drafts in an attached garage",
+   "Dated look hurting curb appeal"
+  ],
+  "tips": [
+   "Match style to the home's architecture for maximum curb appeal.",
+   "Choose insulated (R-value 9+) for attached garages.",
+   "Replace opener at the same time if it's over 15 years old.",
+   "Ask about haul-away of the old door."
+  ],
+  "questions": [
+   "What gauge steel and R-value is quoted?",
+   "Are new tracks, springs and weather seals included?",
+   "Is haul-away included?",
+   "What warranties cover springs, hardware and panels?",
+   "Is the door wind-rated if required?"
+  ],
+  "faq": [
+   [
+    "How long does installation take?",
+    "Usually 4–8 hours for one door."
+   ],
+   [
+    "Does a garage door add value?",
+    "Yes — it's one of the highest-recovery exterior projects, often recouping most or all of its cost."
+   ],
+   [
+    "Can I keep my opener?",
+    "Often, if it's compatible and in good condition."
+   ]
+  ],
+  "related": [
+   "exterior-painting",
+   "concrete-driveway",
+   "siding-replacement"
+  ],
+  "roi": "Often recovers 90–100%+ at resale"
+ },
+ {
+  "slug": "tree-removal",
+  "name": "Tree Removal",
+  "cat": "outdoor",
+  "icon": "tree",
+  "service": "tree-service",
+  "low": 300,
+  "high": 2500,
+  "avg": 850,
+  "size_label": "Number of trees",
+  "size_unit": "trees",
+  "size_min": 1,
+  "size_max": 10,
+  "size_step": 1,
+  "default_size": 1,
+  "unit_low": 450,
+  "unit_high": 1500,
+  "fixed_low": 0,
+  "fixed_high": 300,
+  "min_job": 250,
+  "lifespan": "—",
+  "duration": "Half day to 1 day",
+  "diy": "Pro only",
+  "diy_text": "Small trees under about 15 feet in open areas can be DIY. Anything near structures, power lines or requiring climbing should be handled by an insured arborist.",
+  "video": [
+   "cPOWAkFx5Rc",
+   "How to remove a large tree"
+  ],
+  "intro": "Removing a tree costs $300–$2,500 depending on height, diameter and risk. A medium 30–60 ft tree typically costs $600–$1,500; large or hazardous trees near homes can exceed $2,500. Stump grinding is usually extra at $100–$400 per stump.",
+  "rows": [
+   [
+    "Small tree (under 30 ft)",
+    "$250 – $600"
+   ],
+   [
+    "Medium tree (30–60 ft)",
+    "$600 – $1,500"
+   ],
+   [
+    "Large tree (60–80+ ft)",
+    "$1,200 – $2,500+"
+   ],
+   [
+    "Emergency / storm removal",
+    "$1,000 – $5,000"
+   ],
+   [
+    "Stump grinding",
+    "$100 – $400 per stump"
+   ],
+   [
+    "Crane-assisted removal",
+    "+$500 – $2,500"
+   ]
+  ],
+  "factors": [
+   [
+    "Size",
+    "Height and trunk diameter drive time and equipment."
+   ],
+   [
+    "Location",
+    "Trees near houses or lines must be lowered piece by piece."
+   ],
+   [
+    "Condition",
+    "Dead or rotten trees are less predictable and riskier."
+   ],
+   [
+    "Access",
+    "Backyard trees may need cranes or hand-carrying debris."
+   ],
+   [
+    "Cleanup",
+    "Wood hauling and stump grinding are often priced separately."
+   ]
+  ],
+  "signs": [
+   "Dead branches or bare canopy",
+   "Leaning toward structures",
+   "Cracks or cavities in the trunk",
+   "Mushrooms or fungus at the base",
+   "Roots damaging foundations or pipes"
+  ],
+  "tips": [
+   "Hire an ISA-certified arborist for hazardous trees.",
+   "Ask if they will leave firewood to cut cost.",
+   "Check if your city requires a removal permit.",
+   "Combine multiple trees in one visit for a better rate."
+  ],
+  "questions": [
+   "Are you insured for liability and workers' comp?",
+   "Is stump grinding and debris removal included?",
+   "Will you need a crane?",
+   "Do you need a permit from the city?",
+   "How will you protect my lawn and structures?"
+  ],
+  "faq": [
+   [
+    "Does insurance cover tree removal?",
+    "Usually only when a tree falls on a covered structure."
+   ],
+   [
+    "Do I need a permit?",
+    "Many cities require permits for large or protected species."
+   ],
+   [
+    "Can I remove a neighbor's tree?",
+    "You can typically trim overhanging branches to the property line, but not remove a neighbor's tree."
+   ]
+  ],
+  "related": [
+   "fence-installation",
+   "deck-building",
+   "roof-replacement"
+  ],
+  "roi": "Prevents damage; improves light and curb appeal"
+ }
+]

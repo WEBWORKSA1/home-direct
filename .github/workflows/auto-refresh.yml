@@ -1,0 +1,52 @@
+name: Auto-refresh content
+
+# Pulls fresh mortgage rates (Freddie Mac PMMS via FRED), housing headlines (Google News RSS)
+# and the latest home-improvement videos (YouTube RSS), rebuilds every page and commits to main.
+# GitHub Pages republishes automatically after each commit. No API keys or secrets required.
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 hours
+  workflow_dispatch:          # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "data/sources.json"
+      - ".github/workflows/auto-refresh.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch rates, news and videos
+        run: python scripts/refresh.py
+
+      - name: Rebuild all pages, sitemap and search index
+        run: python scripts/build.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No content changes."
+            exit 0
+          fi
+          git commit -m "Auto-refresh: rates, news & videos ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          git push

@@ -1,0 +1,20 @@
+{
+ "name": "Home.Direct",
+ "short_name": "Home.Direct",
+ "start_url": "./index.html",
+ "display": "standalone",
+ "background_color": "#fbf8f3",
+ "theme_color": "#0d1b2a",
+ "icons": [
+  {
+   "src": "assets/img/logo-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/img/logo-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
