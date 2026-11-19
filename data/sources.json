@@ -1,21 +1,118 @@
 {
  "news_queries": [
-  {"q": "mortgage rates", "cat": "Mortgage"},
-  {"q": "housing market home prices", "cat": "Market"},
-  {"q": "home improvement renovation costs", "cat": "Home improvement"},
-  {"q": "homeowners insurance premiums", "cat": "Insurance"},
-  {"q": "selling a home sellers buyers", "cat": "Market"},
-  {"q": "Canada housing market mortgage", "cat": "Canada", "hl": "en-CA", "gl": "CA", "ceid": "CA:en"}
+  {
+   "q": "mortgage rates",
+   "cat": "Mortgage"
+  },
+  {
+   "q": "housing market home prices",
+   "cat": "Market"
+  },
+  {
+   "q": "home improvement renovation costs",
+   "cat": "Home improvement"
+  },
+  {
+   "q": "home renovation remodeling contractors",
+   "cat": "Home improvement"
+  },
+  {
+   "q": "homeowners insurance premiums",
+   "cat": "Insurance"
+  },
+  {
+   "q": "selling a home sellers buyers",
+   "cat": "Market"
+  },
+  {
+   "q": "Canada housing market mortgage",
+   "cat": "Canada",
+   "hl": "en-CA",
+   "gl": "CA",
+   "ceid": "CA:en"
+  }
  ],
- "news_block_words": ["sponsored", "casino", "betting", "crypto presale"],
+ "news_block_words": [
+  "sponsored",
+  "casino",
+  "betting",
+  "crypto presale",
+  "overview",
+  "rates chart",
+  "land registry",
+  "singapore",
+  "malaysia",
+  "philippines",
+  "nigeria",
+  "kenya",
+  "india",
+  "dubai",
+  "uae",
+  "australia",
+  "new zealand",
+  "rightmove",
+  "zoopla",
+  "horoscope",
+  "lottery",
+  "press release",
+  "webinar",
+  "podcast"
+ ],
  "youtube_channels": [
-  {"name": "This Old House", "handle": "@thisoldhouse", "id": "UCUtWNBWbFL9We-cdXkiAuJA", "max": 8},
-  {"name": "Home RenoVision DIY", "handle": "@HomeRenoVisionDIY", "max": 5},
-  {"name": "Essential Craftsman", "handle": "@EssentialCraftsman", "max": 4},
-  {"name": "Matt Risinger", "handle": "@MattRisinger", "max": 4},
-  {"name": "Family Handyman", "handle": "@familyhandyman", "max": 4},
-  {"name": "See Jane Drill", "handle": "@seejanedrill", "max": 3},
-  {"name": "Bob Vila", "handle": "@BobVila", "max": 3}
+  {
+   "name": "This Old House",
+   "handle": "@thisoldhouse",
+   "id": "UCUtWNBWbFL9We-cdXkiAuJA",
+   "max": 8
+  },
+  {
+   "name": "Home RenoVision DIY",
+   "handle": "@HomeRenoVisionDIY",
+   "max": 5
+  },
+  {
+   "name": "Essential Craftsman",
+   "handle": "@EssentialCraftsman",
+   "max": 4
+  },
+  {
+   "name": "Matt Risinger",
+   "handle": "@MattRisinger",
+   "max": 4
+  },
+  {
+   "name": "Family Handyman",
+   "handle": "@familyhandyman",
+   "max": 4
+  },
+  {
+   "name": "See Jane Drill",
+   "handle": "@seejanedrill",
+   "max": 3
+  },
+  {
+   "name": "Bob Vila",
+   "handle": "@BobVila",
+   "max": 3
+  }
  ],
- "video_skip_words": ["#shorts", "live stream", "livestream", "giveaway"]
+ "video_skip_words": [
+  "#shorts",
+  "live stream",
+  "livestream",
+  "giveaway"
+ ],
+ "news_block_sources": [
+  "demokratis",
+  "streetinsider",
+  "singapore",
+  "the negotiator",
+  "openpr",
+  "ein presswire",
+  "propertyguru",
+  "msn",
+  "benzinga"
+ ],
+ "news_cap_per_cat": 14,
+ "news_min_words": 6
 }

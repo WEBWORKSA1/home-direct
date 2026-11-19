@@ -78,9 +78,9 @@ def refresh_rates():
 # ---------------------------------------------------------------- news
 def refresh_news():
     print("news…")
-    items, seen = [], set()
+    items, seen, per_cat = [], set(), {}
     for q in SOURCES["news_queries"]:
-        url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": q["q"] + " when:7d", "hl": q.get("hl", "en-US"), "gl": q.get("gl", "US"), "ceid": q.get("ceid", "US:en")})
+        url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": q["q"] + " when:3d", "hl": q.get("hl", "en-US"), "gl": q.get("gl", "US"), "ceid": q.get("ceid", "US:en")})
         try:
             root = ET.fromstring(get(url))
         except Exception as e:
@@ -96,13 +96,21 @@ def refresh_news():
             key = re.sub(r"\W+", "", title.lower())[:80]
             if not title or not link or key in seen:
                 continue
-            if any(b.lower() in title.lower() for b in SOURCES.get("news_block_words", [])):
+            low = title.lower()
+            if "|" in title or len(title.split()) < SOURCES.get("news_min_words", 6):
+                continue  # SEO landing pages and fragments, not news
+            if any(b.lower() in low for b in SOURCES.get("news_block_words", [])):
+                continue
+            if any(b.lower() in source.lower() for b in SOURCES.get("news_block_sources", [])):
+                continue
+            if per_cat.get(q["cat"], 0) >= SOURCES.get("news_cap_per_cat", 14):
                 continue
             try:
                 pub = email.utils.parsedate_to_datetime(it.findtext("pubDate"))
             except Exception:
                 pub = NOW
             seen.add(key)
+            per_cat[q["cat"]] = per_cat.get(q["cat"], 0) + 1
             items.append({"title": title, "link": link, "source": source, "cat": q["cat"], "date": pub.isoformat(), "date_label": label(pub)})
     if len(items) >= 6:
         items.sort(key=lambda x: x["date"], reverse=True)
