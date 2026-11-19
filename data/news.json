@@ -1,126 +1,646 @@
 {
- "updated": "2026-11-19T08:30:00+00:00",
- "updated_label": "Nov 19, 2026 08:30 UTC",
+ "updated": "2026-11-19T09:14:54+00:00",
+ "updated_label": "Nov 19, 2026 09:14 UTC",
  "items": [
   {
-   "title": "October home sales down 10.6% from a year ago, but edge up from September: CREA",
-   "link": "https://www.bnnbloomberg.ca/business/real-estate/2026/11/17/october-home-sales-down-106-from-a-year-ago-but-edge-up-from-september-crea/",
-   "source": "BNN Bloomberg",
-   "cat": "Canada",
-   "date": "2026-11-17T12:00:00+00:00",
-   "date_label": "Nov 17, 2026"
+   "title": "US Home Sales Hit Record Low as Housing Market Slows",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xUUM0dU93R0s1RHN2Y2pGNnd0WDlhRmxZN3ZiU1JYSXFrM2N4aUdwdlZwS2NrTGZVaTVRMUlnTWlicGZzV3k4ejhnUHFXWGtDZWVQWmJFTlpxODFKR3dNRmFB?oc=5",
+   "source": "Demokratis.co.id",
+   "cat": "Market",
+   "date": "2026-11-19T08:42:17+00:00",
+   "date_label": "Nov 19, 2026"
   },
   {
-   "title": "Canada: October housing demand edged up while supply softened",
-   "link": "https://www.desjardins.com/en/savings-investment/economic-studies/canada-housing-starts-existing-home-sales-17-november-2026.html",
-   "source": "Desjardins Economic Studies",
-   "cat": "Canada",
-   "date": "2026-11-17T12:00:00+00:00",
-   "date_label": "Nov 17, 2026"
+   "title": "Mortgage rates today, Nov. 19, 2026, rates drop slightly",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MWTE4cWw4OHo4dklfYk45VVM3cU15cjhSd0h2bW1NNEVHMjZ6XzcxNjAxWm95OHV0LURWLUhZalNhZXVGNVQ5eC1rSW5vMi1ZelZZbk9oWVhJY0dZdWhacFhqRk5TZ0JWZ2g5TXBEWQ?oc=5",
+   "source": "Fortune",
+   "cat": "Mortgage",
+   "date": "2026-11-19T08:01:00+00:00",
+   "date_label": "Nov 19, 2026"
   },
   {
-   "title": "Mortgage rates ease in Freddie Mac's weekly average",
-   "link": "https://themortgagereports.com/71340/mortgage-and-refinance-rates-today-november-10-2020",
+   "title": "Today’s Refinance Mortgage Rates | Rates Chart",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fWlF1X1h3N25UOUQ2SXphbHpiZXlHb1l4eWdZOFhvT1FkTkNFNXVtc1pOVWhPRGNoYlJzcU1yZVp6NU83VUtoY3kzODItcDFIRWIta241QVFiNUc3dkdwOV9ydDlHWHhBWnBkeTlMQzlJM3YzY3c?oc=5",
+   "source": "NerdWallet",
+   "cat": "Mortgage",
+   "date": "2026-11-19T06:00:34+00:00",
+   "date_label": "Nov 19, 2026"
+  },
+  {
+   "title": "House price growth stalled in September, reveals Land Registry",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObzJORGlWVU5oYzF1aDZhZ2RQNFFHblN6Z3hySUVnbkNvTWwwLVBIS3BqZ1hTR3RfRGRabHV2YV8tZWdzR2JWd29nNGpXM3l1WV9FNXVRbHlfRlVpVGRnS1A2cFNadWE0OFFLbDlWbGI3WFUwamNKdjlIYXpKU0xtRmd5XzNtU2RCb2puNHhjbGhmcGR3QkFDMTJyYWQ?oc=5",
+   "source": "The Negotiator",
+   "cat": "Market",
+   "date": "2026-11-19T06:00:00+00:00",
+   "date_label": "Nov 19, 2026"
+  },
+  {
+   "title": "Realtor Phil Herman of RE/MAX Real Estate Specialists Nears 10,000 Home Sellers and Buyers Served Over His Career",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdWRfVm1KLV9TXzZlbE56WS1DdWVjaXZtU3BiX1hIdWJVbjNGYWpGZXpsZW1QMnB2Ymw5TzhUeVZtSHBHeUNreEktYkhpSGtuYXFTYVBPS2U5N0NUNE1aaGZKRVVVd2N6dWtXNXBiSEZGSF9QT1F5eDNaZ3NwUERVd25Zd2tSUFU1amd5enhETTc1cHVmQ183c2YyQjdXTGI3Tm9yY3Z4a0tHWkY3Q1NncmIxUGJUQlpRWTJOZlB4RkhLSnJ3djcxNEVZajMzTHBPNHlpN21rZW5wcGNYT1oxVi0yYm9ncjN3OTdaWEVnM2tlUU5FVU93cll2MzZyeld2RTRJ?oc=5",
+   "source": "StreetInsider",
+   "cat": "Market",
+   "date": "2026-11-19T05:37:30+00:00",
+   "date_label": "Nov 19, 2026"
+  },
+  {
+   "title": "Overview",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TOFFkcEpHRTl3NE95dTVkeUNjUHFzejZZd2hSV2hTTVpEUmQzYXdTX0hfaFBBaDRZQkZxUXlsQVVLNE1xVWhsaHJBSnZrT2ZhY0pjQ0NEdHpzMTN5bXFkRGtzUFB2MkVMbV9Ea0p3bzRac2V1dUhqT0N6MA?oc=5",
+   "source": "Singapore Land Authority",
+   "cat": "Market",
+   "date": "2026-11-19T03:35:32+00:00",
+   "date_label": "Nov 19, 2026"
+  },
+  {
+   "title": "Colorado housing market hits the brakes as October sales fall nearly 19 percent",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2E5d0NjN080c0ZHekdHY0dwVlVtWUR0ZlVVY2p0TW5qalRVaFplZ1FDLUJJNk5ObDhzcXdaOXlvd3l6MW9zVk5ZMnZ5YlBwT01UYTZkZmhIcTRFSW1PYl9wMHozTmtZYVpUcl9jSmlROW5hYWF6V3E3RDFoUGNzWElDaHB3QldUMVhTT044Q1JUVE1QaGxLYzkzN05id0JITERaYlZ2OUFkR1ZiSkdPT0ZxdjAxeVhWTzJhag?oc=5",
+   "source": "The Pagosa Springs Sun",
+   "cat": "Market",
+   "date": "2026-11-19T03:06:52+00:00",
+   "date_label": "Nov 19, 2026"
+  },
+  {
+   "title": "Vermont’s housing market cools with prices still a concern for prospective homebuyers",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmdybElwSXFaV1BwbHAtLWJpNUtQNTdMSXJ6NTdvelg0YmNHR1ZKSkhubDlEUkNtdXNGRHJ1VWpIbm1MNG45YjJVQ3lJbFFvdFJEa3ViTGI3c1ZEZi1qajVqc21GbkktemdNbWE0TzhYZGJWcTJDWDFZOWU3b2lGLXZySUxPby1hRXd3dGxidDFWRE1yZC1zN1V6RmFkeEZZUFM5UnkzeXdlbEZmYXN2alV3NndnNmoxaFE?oc=5",
+   "source": "WPTZ",
+   "cat": "Market",
+   "date": "2026-11-19T03:03:00+00:00",
+   "date_label": "Nov 19, 2026"
+  },
+  {
+   "title": "Lowe's Raises Full-Year Sales Outlook as Tariff Refunds Lift Profit, Though Cost Pressures Remain",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41eGd4OWp3SFFrQjJpRkRvdmhLdk9OU0JXcEJEeF9kRzlPQ0pCaWRTMWJSMjJfOUVOWGZUM3lmNHc0UERISjFDbU1zZ3RYVmhzSklJX0Y4ZXBTRGNRTWlQYlpZMWU3dW1VZmNqZkJ5SkV6eEhzU1E?oc=5",
+   "source": "BigGo Finance",
+   "cat": "Home improvement",
+   "date": "2026-11-19T01:56:00+00:00",
+   "date_label": "Nov 19, 2026"
+  },
+  {
+   "title": "As ski town housing markets face sinking sales, Colorado realtors hope a good snow year attracts homebuyers",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNkpjM1ZQelJIWk9mMGx1MXBBNEdsOEhyeFRHNkI1b1I4TW1RRzhGWFNuMzFTUmZCNmdELU9iSTJSMGxGWjNZSUdzXy1nekxXQUVDbW5yaFdwVlJTR1RCMWRleGtUX0tOQk5HbHBYZFhvNmlMRzE2Zm82ZXY0STZXODJwNkVLRGxKT21sRmNBRWg5V2VM?oc=5",
+   "source": "Post Independent",
+   "cat": "Market",
+   "date": "2026-11-19T00:47:06+00:00",
+   "date_label": "Nov 19, 2026"
+  },
+  {
+   "title": "‘Buyers market’ and lower home prices not a cause for concern, say experts",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZEpQTDhiQms3SExwLVdyRTkxdktnVEtZSGhnbVRCbl94cUtfUWZrU21JODBZVlBMQkktazNKY1hJSGxQWmk2aUsxMklkZ3JoQzEzTkFvNnJ2X3RVOWtwazF1cDd5cXFYUFhZSERtT3ZBSGhIODBOMXRDeXFRWHhaTm1Sd1EzZnpkcllYLTNrT1dIRllLZ2ktRjFabTAyZ0dTbXc?oc=5",
+   "source": "CHEK News",
+   "cat": "Market",
+   "date": "2026-11-19T00:35:13+00:00",
+   "date_label": "Nov 19, 2026"
+  },
+  {
+   "title": "WHEDA Loans: Wisconsin Low Down Payment Mortgages and Assistance",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JUEhqVUpidWRKclJqd0xnOWFVS3ZyN1BmTkkyeGg5LTVIT0o3VUdYX1lVdm8zVXNDeXFaMlc0MTBWTWJiM2QwZHVJZjJYMzZKVmUtejlZMGlzaFBqRUp5MEF2dl8tOFlwUHc?oc=5",
    "source": "The Mortgage Reports",
    "cat": "Mortgage",
-   "date": "2026-11-13T12:00:00+00:00",
-   "date_label": "Nov 13, 2026"
+   "date": "2026-11-18T23:12:57+00:00",
+   "date_label": "Nov 18, 2026"
   },
   {
-   "title": "Mortgage Rates Decline for Fourth Consecutive Week to 7.11%",
-   "link": "https://www.freddiemac.com/pmms",
-   "source": "Freddie Mac",
-   "cat": "Mortgage",
-   "date": "2026-11-12T12:00:00+00:00",
-   "date_label": "Nov 12, 2026"
-  },
-  {
-   "title": "Existing-home sales decreased 5.5% in October: NAR report",
-   "link": "https://www.nar.realtor/newsroom/existing-home-sales-decreased-5-5-percent-october-nar-report",
-   "source": "National Association of REALTORS",
+   "title": "Homebuilder confidence hits 14-year low as price cuts climb in sluggish housing market",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMmJDWG1SemFBVEZFQkVkaUhEZXFma2RPX0tobGt4dWZGREh1VGF5SXRremVDOFI4YkFKYnFoeFBqb25adng4Z1dSNDhybU9pZjFVUWFBRE5BS3NGVW54NWFQZjhBcWhpUnBwUVdTVXd3dFJqS3Q0VTJrX0ZfeFBTVUU3M2U2TmFtR2ZGSnJoVm5ldG5KNV91eXZYSkFTdXJBQ3o0QV9OMVkwYlRPUzRNTmlYeFBOM1ZCUDJQOUU4SnJmc2NTc01Ebw?oc=5",
+   "source": "WBFF",
    "cat": "Market",
-   "date": "2026-11-12T12:00:00+00:00",
-   "date_label": "Nov 12, 2026"
+   "date": "2026-11-18T22:47:57+00:00",
+   "date_label": "Nov 18, 2026"
   },
   {
-   "title": "October existing-home sales sink to 16-year low; rates only partly to blame",
-   "link": "https://www.rismedia.com/2026/11/12/october-existing-home-sales-sink-to-16-year-low-rates-only-partly-to-blame/",
-   "source": "RISMedia",
+   "title": "Zillow predicts grim housing market shifts for homeowners and renters",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzdyOGZsMXhXcWhsbzE5SkFoWFFXRjE4MmVwLUZJVHZTazlnWlBDYktwSi1ZWVZqZlJRbEFIR2Q2RF85WDJ4aFFRRmd4TU1XMUU2WE1jcjZiNGJ0ZmFpYk43eGkxa1B6ck8yaUlJSnNNTTJFd3o2RlkxSHlUN1lJSTRNMkVaVUpqVDJYdG1OMFhPWmdNcFk0dnQ3R2VkT1dq?oc=5",
+   "source": "TheStreet",
    "cat": "Market",
-   "date": "2026-11-12T12:00:00+00:00",
-   "date_label": "Nov 12, 2026"
+   "date": "2026-11-18T22:37:00+00:00",
+   "date_label": "Nov 18, 2026"
   },
   {
-   "title": "Redfin: monthly mortgage payments fall to lowest level in 6 weeks as home prices keep dipping",
-   "link": "https://finviz.com/news/421619/redfin-reports-monthly-mortgage-payments-fall-to-lowest-level-in-6-weeks-as-home-prices-keep-dipping",
-   "source": "PR Newswire",
+   "title": "South Florida home sales drop in October, but Miami-Dade and Broward markets show resilience in 2026",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX2ZidWY4S192VHBzY2RUVE1YbnFyNjdYalJITlpDVDJGRjQxTktTX0lUUWJnWkJZMGNRb1RSU0tDb1VrZTd6NXZqWHlqMVN0b0g2czhxWGliT1JLc0h6WHRFRlRoQzhHdHdZMlVWLXREYTBwSVJZQThKUXpjLXRSb2NZS0JkVjhPSlhoVzZ0VzdwY2hneHFtRGlad1k0REM4TnhfRDVqcUQ5ekxwai1YOEs3YzdLeEJfWmZIRElUQVBVcjI3dnlqNjNTUHN5a25lQ2lzaWotanZVT1dP0gHkAUFVX3lxTE00a3IyMVVNcy1CTThIUS1CalNMV3JZTnZaSndYOVBQV3VyRncyV0x5TXMxQlRIaHNkd3BOVUpBdk84MXg4dnNBWExFVGJGLUxTbm9pZHhiMUJvdU00NmVhcnVTUXZBcFFQMjhsejdOaVRNOWt2ZkZzYlp6d2Z2ZXd4U0ltM1NiXzN3Z2Mxei1EekdLTDVyUnVTNmcxbGh6THp4NE5iSDl0MHhfeDdVUUNLZmlFUG5IN01iWU1mR2RfVmJ0UmRTY3U3VjE1RWdOdDFQSTFza3NFQUR6akFfeldtVHdyYQ?oc=5",
+   "source": "NBC 6 South Florida",
    "cat": "Market",
-   "date": "2026-11-12T12:00:00+00:00",
-   "date_label": "Nov 12, 2026"
+   "date": "2026-11-18T22:26:52+00:00",
+   "date_label": "Nov 18, 2026"
   },
   {
-   "title": "NAHB reports flat remodeling spending across U.S. states in second quarter",
-   "link": "https://www.constructionowners.com/news/nahb-reports-flat-remodeling-spending-across-u-s-states-in-second-quarter",
-   "source": "Construction Owners",
+   "title": "Home Depot (NYSE:HD) Faces A Shift In Market Sentiment",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT0pWWGhwMHBkWUUwZGI1WURJeUc0b2tKN250THUzUTJNLWhLR2pBckVPUmtJbFV2LWhRVjdlVVhydlA1aUZ1bm9zbjBVWjROVjRGa1lTY1NURjFJWE5xQS1QVXhfRy1hRVpoOXZUX2pYdDlXWHBZbThGdzJtRE9ua1B0YkowdDdIWGo5VG5yZkZtYW1iSFM0VnhLRQ?oc=5",
+   "source": "Kalkine Media",
    "cat": "Home improvement",
-   "date": "2026-11-12T12:00:00+00:00",
-   "date_label": "Nov 12, 2026"
+   "date": "2026-11-18T22:24:00+00:00",
+   "date_label": "Nov 18, 2026"
   },
   {
-   "title": "Home prices slide for fourth straight week as mortgage payments ease",
-   "link": "https://www.mpamag.com/us/mortgage-industry/market-updates/home-prices-slide-for-fourth-straight-week-as-mortgage-payments-ease/597170",
+   "title": "Fix-and-flip margins tighten in Q3 as prices dip and costs rise",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JNkJjbHZpeFNwUVI0bExIeV93WDV1UzZzNFlUUHJnMFNUWGcyV0FFT0dtRHlJSk10bXhCdzJWSllpMTh6LVhFZ3BEemZETGpBamFmS3otUk5nbjlPWmxjOXZlZ2JUcjJjcy1fQ0t3?oc=5",
+   "source": "HousingWire",
+   "cat": "Mortgage",
+   "date": "2026-11-18T22:17:42+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Suze Orman has a sobering warning for older homeowners",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONUJjN1RISFI2Y0FFb3NMOUpFRHVYd1c0Y1h6cUpBazVWSzVaNkwxTnlDS2ZWRFpqNHBhMVBjcXVnbFZQSGpGQnpqRm1teU9TLVpSdTlWQlFETHQ5TWFRbXBqampEdDFlSjVrUXA2UkE1VjhYdldrWW5oaGdORXJJMVZR?oc=5",
+   "source": "TheStreet",
+   "cat": "Market",
+   "date": "2026-11-18T22:01:43+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Housing permits fall to COVID-era lows as mortgage rates top 7%",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03Tm1fNVNmYi1sTnUtN1hZUzA2dlZKcDA5SHRaODFqWlI1U0hWeTZ1RzN5d0RIdXNOcHRCMk04bnVNNVNRTy1aSTlRbVRYUy1QdlY4TE1wSVZJU201QWx6SjloSERCLXBQS2FaRVhBZjJSZw?oc=5",
+   "source": "HousingWire",
+   "cat": "Mortgage",
+   "date": "2026-11-18T21:57:40+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Mortgage Rates Move Back Towards 7.5%",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd0thVTZMeEFHTHotWGxpR1hENTZWak5vbThnamlOSlVuZUx2cFM3UkhwS1dORmZ3a29BU3BEbjNNRGpmRGZvcmZkTkhnbERXNjlkejBhYVVaUENLeDRGejRXUmZWLS1PNHMwNk9uZ0V6WUtCbFZhOGFibzdGZWVPdjlB?oc=5",
+   "source": "Bankrate",
+   "cat": "Mortgage",
+   "date": "2026-11-18T21:50:10+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Mortgage rate shock sends pending home sales into deeper slump",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcVMybENEdkMwY2hIcUZzTlNHNE14NF9QbFpYdXZERHlITVJUcUlBSEZ2S1Q2M3ktLVoycDZscEU0NHYyUnhCSlFIRzFpX1VTUVNhNGM4bW14MlVPUGFOMlRNVURlTnpmYjNRcGNBaVBCZm5sTHVCTFpUNjlzYV9GanMzRXZnUjJBQ3hZRUk1THEwR2JGUndQdVZhT0RxWWc?oc=5",
+   "source": "Scotsman Guide",
+   "cat": "Mortgage",
+   "date": "2026-11-18T21:36:40+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "7 Best Florida Cities to Retire on a Budget of $3,500 a Month",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZFdRcjk4bUFhNzRHbnpIa3paVlZfZ3d3MjZpSjItb1YzQ1NobXhyTVU5S3VmeEV3cmZNZUlqQjd2VkpDTTVUTmhzU1B3RjZJdlpXWG9yUkdJVUE4UUxfQzY1M3R3RzRnc096N05FOWYxemtKVXlnMWNmdWhyQXFiQnkyOUlnQQ?oc=5",
+   "source": "WLUK",
+   "cat": "Insurance",
+   "date": "2026-11-18T21:35:12+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Are we there yet? Pace of property downturn leaves economists divided",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaFpDN0NpaWR6Q1cwb1EzdmI5OUFPOGU1bllOdEhPT195RXZ4R2dIM3NneEdYcnFVS2lIbmdRVkZqM1NwTXpWdlVmRkFxb3BWVXhxaHAyb1RuMlQ0YmM2bjFmNHpwM1BIRFdqXzBycl9sc1U1TEc2Z2xLNy1oUDVCSGVjSWxkQXNZLThkYXRVT1FpRjB1eEJlSmRlUTN2Z21IOGtXYzNfbERPcndmQnZuODViUUUzTXo3QkVzRkozUmFqaUU?oc=5",
+   "source": "AFR",
+   "cat": "Market",
+   "date": "2026-11-18T21:10:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Mortgage Rates Move Slightly Lower",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SMEFPS0Q4dWg1RTczR0JnUmNNN3ByQ2ppajd6QW5LbEpPWjhURUFMYmphelBjbVhjcVAtTkhyY3RMR3dtREZ4ZFcxblpuZXdVTGtMU2lVUE53MFZSNnN4YlczdVR6WUZhUjB5WUhBQnY2Q1nSAXRBVV95cUxNV3ZpZFB3dnV6RmZBQV9JQzcyNjhfbXlaQmdFR1JZQms2Znc3OW41Z3BzLW9GTzdBWjR4Tlo2YkxOWTcyb0ZYY0VhcVRXVTRhMFV0aXJaMjkxYWxfbjRPYnN2aml2WXh2emhWdkpJREVpMGFWbw?oc=5",
+   "source": "Mortgage News Daily",
+   "cat": "Mortgage",
+   "date": "2026-11-18T20:59:30+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Home Buyer Programs for Teachers, Nurses and First Responders by State",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zekFpSGhkQU9qUzE4MllELTVxWnZpVU1kLU5SUzBZM1dldy1WSHBDMUYxQ1B3TlJGbFU5SE9ka25pS0FIdEpjdXBCY1k0aHRfMWh6bDc2QlJlNmh2SzVMaExuRlNaTmRIN2NRZjZnUWdacGlMU2lYbnJMVQ?oc=5",
+   "source": "The Mortgage Reports",
+   "cat": "Mortgage",
+   "date": "2026-11-18T20:57:04+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "MSHDA MI Home Loan and MI 10K DPA: Michigan Down Payment Help",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ISlg2Nkx4T3Y0UTZVWFhkZFFpWUN4ZFVMWURVT3V3V2gyazc0cjVQT09Ub3Q4bUp2Q0NUU0dvcHpyRDZLbmhSTlI1SDM0M2ZPYk80bjBXWTBTOVduMzRTVHdha0hEMkk?oc=5",
+   "source": "The Mortgage Reports",
+   "cat": "Mortgage",
+   "date": "2026-11-18T20:57:04+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Canadian Mortgage Awards: EQ Bank supports reverse mortgage excellence",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMm12Nm9CdTlhR0tYUTV5SmhXTzhpREdlT2dLU3FsMlNidGw3U0s5WlhOQzNIS1ZoUmgxRHk4Z25RYWljZXJsSUFsQ0xleXNuWldTYXBxTlF6dUFJenVvSzZmRFQ2QmVVMDV0ZWZLb0hfN3pHQW45ZFd2cnhPc1gtd2xVUFBvMDFRWlhpQUJzWWlmWUZQTU04cExmNjhRakRTVzJOdzk2eVVESmp3TkNuOV90VzlCQQ?oc=5",
    "source": "Mortgage Professional America",
-   "cat": "Market",
-   "date": "2026-11-11T12:00:00+00:00",
-   "date_label": "Nov 11, 2026"
-  },
-  {
-   "title": "NAHB: Remodeling activity holds flat in second quarter amid housing slowdown",
-   "link": "https://www.nahb.org/news-and-economics/press-releases/2026/11/remodeling-activity-holds-flat-in-second-quarter-amid-housing-slowdown",
-   "source": "NAHB",
-   "cat": "Home improvement",
-   "date": "2026-11-10T12:00:00+00:00",
-   "date_label": "Nov 10, 2026"
-  },
-  {
-   "title": "October 2026 housing market: contracts and listings fall further",
-   "link": "https://www.housecanary.com/blog/market-pulse-2026-october",
-   "source": "HouseCanary",
-   "cat": "Market",
-   "date": "2026-11-05T12:00:00+00:00",
-   "date_label": "Nov 5, 2026"
-  },
-  {
-   "title": "Redfin: homebuyers get some relief as prices decline for third straight week",
-   "link": "https://finviz.com/news/416866/redfin-reports-homebuyers-get-some-relief-as-prices-decline-for-third-straight-week-monthly-payments-dip",
-   "source": "PR Newswire",
-   "cat": "Market",
-   "date": "2026-11-05T12:00:00+00:00",
-   "date_label": "Nov 5, 2026"
-  },
-  {
-   "title": "Mortgage rates continue quick retreat",
-   "link": "https://www.wect.com/bankrate-article/2026/11/04/mortgage-rates-continue-quick-retreat/",
-   "source": "Bankrate via WECT",
-   "cat": "Mortgage",
-   "date": "2026-11-04T12:00:00+00:00",
-   "date_label": "Nov 4, 2026"
-  },
-  {
-   "title": "Active inventory grows as sellers keep homes on the market: Realtor.com October housing report",
-   "link": "https://finviz.com/news/415117/active-inventory-grows-as-sellers-keep-homes-on-the-market-realtorcom-october-housing-report",
-   "source": "PR Newswire",
-   "cat": "Market",
-   "date": "2026-11-04T12:00:00+00:00",
-   "date_label": "Nov 4, 2026"
-  },
-  {
-   "title": "Here's how much home sales fell last month in the Toronto area",
-   "link": "https://www.insauga.com/heres-how-much-home-sales-fell-last-month-in-the-toronto-area/",
-   "source": "insauga",
    "cat": "Canada",
-   "date": "2026-11-04T12:00:00+00:00",
-   "date_label": "Nov 4, 2026"
+   "date": "2026-11-18T20:56:19+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Why more metro Detroit home sellers are cutting asking prices",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRU5NRTJqMFZJWTEzcF9fTXVrM0pUR0VVSk05TUk2eGxoWHk2cjgtbWdnNFhoRzJEOHVKVEdIaG0xX0dITkZ0dDhBbDRjVU5UMWJ3Wms0M0hQdDVXZzVCc1VjLVBhbzB0TmxVVXFzb0VRdy1JTjE2MldDUWF0NVFZQ3FMQ3QzRGNTaWZBbUg5bmVMYThzRVAyQ2RsZ2Zfa2l0NHJVTFRZX2RCM1J1MGxmbmZYeHlJTGFIR0N6aDQ5NkVMZmp2dTgweEdTSHNxSFNMYm9tbQ?oc=5",
+   "source": "Detroit Free Press",
+   "cat": "Market",
+   "date": "2026-11-18T20:46:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "A historic crash in pending home sales is the latest dire data point for the struggling housing market",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdjhzM2h6NzZ0SE1MRTVVdmxmQm9lNWdXOUdVSlJjaWhGNGkyMnNhVFRjMG9Jd0N6U0Fma1RqM0lLbkZxVW1vSklGbDlKQkJLakJZd2pmbExhU2dWclQ4Q0hOX0Zsb3BHQkVrN0VqUVhzMzZRanpoSW9CQ3ZKNlQxSDJIREhYZjZSNDdvbDNIT1Z1UWk0bEFUUnpn?oc=5",
+   "source": "Business Insider",
+   "cat": "Market",
+   "date": "2026-11-18T20:41:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Home Sales Haven’t Been This Weak in 30 Years. ‘When Do We Snap Out of This?’",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYThDaXBUS0VCTHQ4NFgwQXVacXFsSEJnX1c0dGFYQ1NtS3V1SVNvQ2w1aUx1aVo5MUJtSGVTeE9EWmxpbmdkSGZpTzFMVHptTWlRVGlMYURuYjVBR3JWOG9kcU5qcHo2RUtsRmhwVVlNZjBKemNrbWZMdFdMYUxORjJwWjRfcU8xRFE?oc=5",
+   "source": "Barron's",
+   "cat": "Market",
+   "date": "2026-11-18T20:29:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Supersized December rate hike could be ahead: Fed governor",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPM3pNTWRldnFMS3YxUnptN0dmNHI2LW1iUnVLclE2c2xCUzVvdVhsbTU1YlhPQl9NSW9UVnNUNzV4VDltblR6cjFfUjhrdDNaX09mR3hWMmh2LVFMZF9ReUdYUGlURXFmZHBPTFhSWjVpSGdwcHJZMzhYY3ZlbkdvcGExT1hlY0JqZjRSbVU3cnVBSGE2T1AwelpuRkdZQnptNms1UFViOHNTU3o0eXh6ekg2V2hMQlE3OW1mT1hqWEIwdw?oc=5",
+   "source": "Mortgage Professional America",
+   "cat": "Mortgage",
+   "date": "2026-11-18T20:17:25+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "What Could Unlock the Housing Market’s Next Comeback?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS3UzMjRHQkVLRU1BZnI0WnZfazdkLXBidnE3LWNPdXVEcGNPV3U4cVJQT0NLbE1WSXJibHZ1dDYwcEIzMGp4d3hVMTlzSkQ3eEgyOHRQZG5TSzlqY1FfdTNZV3g1bEtFUF9WVTJoYTgyUlg2dGpROWdtREhFMmVPLTVPZGkxdGtodmhXc3VfYzRVNDZaM0xFVlEyZjlMdw?oc=5",
+   "source": "National Association of REALTORS®",
+   "cat": "Market",
+   "date": "2026-11-18T20:15:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Early data suggests transparent auction pricing is working",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmVPOGotLTZGaXYyUE50MHpkZ0w1WjZvSWNvOXREeERrSXpIWmRMM3EzWGl1ZGlUc2pYRGpCakk1c3VoTkJNSnFmc3RHUHVIajJYTm9Tai00UTViT0l3aXZpRzhKR0hSdnk0OEZSMFZoRGxQdmhQR2NJUGUyNHFyTGtXNjloMnlYSl8yNk94dlJZZmRjMWJyWVdLdnZ5VmNOVkczSDJESmRWYWs?oc=5",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "cat": "Market",
+   "date": "2026-11-18T19:59:09+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Home Sellers Seek Confidence, Price Validation, and Human Guidance in a Challenging Housing Market",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNldpNjNvaDFCczhkZGdlWFlDMmhGSmlfS1o4eUJ0R0l3eFFMOEk3eXFwQzNpazduNXJ5aEFycE1UQVlZSTliaWtCajV0dXZyYmN2NlB2QlA0RWpMVjdaeU1IRW1ITXNZT2ZqSFpkNWw1cUg3R0k5MTBZY3hYMkNQMmZfMUNhTDVyU0RWbUFIZ2hXRE85OUlXUVE4UmlvZUdSZmFHOE1SVXNOWGJ5ZThpaS1ZNlFwaXd3QXI4?oc=5",
+   "source": "Ipsos",
+   "cat": "Mortgage",
+   "date": "2026-11-18T19:58:33+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Mortgage Applications Dip as Rates Hit Three-Week High",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2M5aDBBRmpveTFkdndYZGx3aGx4ajFRWFVBcGpRWlE3ZlYxcU9DZWlNd0RJWlpCWklYLWhyLWFkRmNqenA2X2hmRHdCTGVCOFVfUGFlU0t1bmJnSk1jUEc5NURWVnZtY09oT3RzTk1BTzkxNVpIU2FiWG5ndmN2V0NsVnlWZmtSRzF4UHFaRFBQVHZKWXc?oc=5",
+   "source": "RISMedia",
+   "cat": "Mortgage",
+   "date": "2026-11-18T19:27:27+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Canadian consumer confidence stalls as homeowners grow more cautious",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQlBYSkIzNEtpVVh6d2JoVWhsS2dzUVQtalpOaDdWcDZqRTl3ZEt3OEpiQmlzejloWVZUYjNmMnQySXlNb25adU81WXZBTVR1QVJ3dEl3Nl9velozdUtXVVF2NHMtZjVncGtncXNZSmphUXBnZTBHVi1yLV9pOEY1WHVmeVhFY3RVOEtKTUtoS2VqdENDOHNFYjJ3aVZyWTJLMTItSXJFaG50NFlOVTFlZS1YbjdjQVoxS1JoNUFRSHFUOC1MZzRidlVWaENCcHMw?oc=5",
+   "source": "Mortgage Professional America",
+   "cat": "Canada",
+   "date": "2026-11-18T19:16:20+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "'Double-edged sword': House price rebound for Sydney after market downturn",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMHJ2azVXWTloRi1PM1AwQTd1dDVhdGpJakNjSTVKeUxCQ1V2Qy1EY3dwR1dBbGpmLUt3SkpqNGhWUnlGWDQ1by0tSERLQ0JJT0tuOVh3Vno5MF85SUpQNjQ0ZzRMMlNnd2o2S3ZNTG93MndmMnA2Q2RKenJaQ25NdHFOOGJybGFodjd6c1hPaTluTWs?oc=5",
+   "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+   "cat": "Market",
+   "date": "2026-11-18T18:59:04+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Canadian Mortgage Summit Vancouver returns for 2027",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWVQ4ODJSZlBENnFSY2R6VFZ2NVZzMThJZ0hSaEUtaTRwVnF4WTc0Slk2MHZUdVZkVjVkeUhHaFFOU0laU2hDb3dhUGRiTGg0NVlxQzFkaVZ5ZW5aMDFtLTlSZWk4clpIZURqREQwOVc0VEg0bGpQUDktanBrdEtkczBOVFlnVzFrVnNxaVhwVUZreUlKTlVxUzBhS3dVcC10THMxUkVJcWhBNlU2bDJoZEdvS0IyRUJuS3c?oc=5",
+   "source": "Mortgage Professional America",
+   "cat": "Canada",
+   "date": "2026-11-18T18:57:05+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "US single-family housing starts rebound, but trend remains subdued",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHNvWXhTdjFvTnd2ZWpsdjVvM29QLWdyUzZOMWFTTjdHUEdTazZZMGxPWFdtZk9TdVZ5WlhJb2FPbmtQbURFd1pTWUlnSS1LTk54Wk1RY2FSRWJ5cGdHOGl3NEVBaEZlcWlJVW1LblcySGxZVjUtdFNuMUlNbmhiNHJiM2tYZUZpdHg2LVdiS3dTZ1RmVjZqZzlhaXJua2JMc2FORFdFMTlNZTRSTUZpbWFIMExWdnM?oc=5",
+   "source": "Reuters",
+   "cat": "Market",
+   "date": "2026-11-18T18:51:20+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "How far property prices will fall – and when they will rebound",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzlQZUtYVDlyZlgzVVN5d2tUeXpEclYxNklOb0M2WGNNMUp5Q1J6RElCMVh0ZXBNS2dwZV9uU2dMMGpxcGNid2hXR29CUjVZbTBDSGlNMnk3YmhkaUhHa1B3NV9faHhzMHpjakllcTNFRGlGR3ZMOS1aZmtsOW85N1l1MGxuVFRyUzRlQXhZLUE3eGg3ZEt6cWRDendtLWQ4RGlsYkR1SnpZRWd1STdXemwyaUlQNDF3RGc?oc=5",
+   "source": "SMH.com.au",
+   "cat": "Market",
+   "date": "2026-11-18T18:00:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "OIM Group CEO on why the Canadian Mortgage Awards matter",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ2JJZ3NfbFdwbVdZTFIxTnV4OW13a3ZiUnJ6NW8zcXRLYzluVmtacVFaaDl5c2s2UUtpSDRiMlBySWx3NVRKU01jLTVTWmhESFJWdTBKa1V6cm5BX1ZTVHRCbFhkelQ3WHYyaWNuNTFwNW10SFl1cDFiRi1aYmFxdkp2U0poZ2VwalYyZVQ3ZmVTazRDbGhvSFl2eHlZQVFFcjQ2Q1B5YmotZ1ZXRHFJVHVXcDJnd3I3VWVQRHlybWo?oc=5",
+   "source": "Mortgage Professional America",
+   "cat": "Canada",
+   "date": "2026-11-18T17:59:46+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "America’s Affordability Crisis: Excess mortgage costs are holding down borrowers who can least afford it. Here’s what you can do",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qVGZpc2RQbGRWTHB1Q0tpYVIxVHhSWmZWTzVWWlRkbm9jSnhGT0lEMGNuT3lXVHFyNTZoaW4zMEdZWlVVcTJIbXNoUGk2VnNIVVJCYzZsSnVQVjd4WUluWXBlZng4RnVE?oc=5",
+   "source": "Bankrate",
+   "cat": "Mortgage",
+   "date": "2026-11-18T17:55:32+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Higher rates from Fed hike fears push mortgage demand lower",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNFFWSVE4MXZqT05YcUhPbjRUTHFFQkZGY1ZVVkNFQTZPVVZyRkJvQktXYmZUZjhBc3ZOTGRDYlNEZzViSktNek8tNlhQT3JLV3VDaEJCY1BTV1VHODZJSnZHV0xxNXdaQU5SN1VIOEo1dnphb3NPNzJ2MnBmQTJudDF2TWdfalBqc2pCREJSam5Fdjg0QktkbUM0dw?oc=5",
+   "source": "Scotsman Guide",
+   "cat": "Mortgage",
+   "date": "2026-11-18T17:52:26+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "How easy-to-clean bathrooms are changing home improvement priorities",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPY2ROUzdHZ0o0aWdYM2NIZUpfbkxPZXdvVXBiZ0JSaS1IdUpfUzhnRHFYVktBUDhkN2Q2cmtxM25adjJCVmtvN1BrME10dm5BeWtpVm1pTEE0eDRfdXFPaUFuNGFEaDNPZWZuOXhkTlEtWEQxc2RSMDdnaVM5eTVvTVBFY3lsT1dxamFSOTdRU3B3c1AwV182RkEzMmpIMzJ5cmNjRHd4WkpSYl84WGQ3cXhlN1lYbHZXaUhtZzE2dkxUb1ZrUmtQblFhRjJVVnNMWGE5aWxjYzBSOWw5eDdrbG5TRy1IQWs?oc=5",
+   "source": "KMVU FOX 26 Medford",
+   "cat": "Home improvement",
+   "date": "2026-11-18T17:30:09+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "California home sales slump to lowest level in nearly three years",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORGdrY1dOWEFFV3F4bWZDcUZrNFZEcU1GUzh1N0FtOGZOOHI0MkRWdUk2T05nU2pDVlNSR0dHZndBUUd2QnV3bmxJLVdBeThoUUFBcWh5TUZnNTIzdXUtTFpHQ255X05YSy1VZzhlczJkRHdFSWs1anFBRlpnRUVTV0VZUmt3UHVYUjdfdUhqSjVzc2htVW5yYzl2aXA4TzFpdHhGODhwSWJHMzJORmNVWGlwcUozeGFTek9mRVBvZEhHWm1NNzBVTmNBbw?oc=5",
+   "source": "Mortgage Professional America",
+   "cat": "Mortgage",
+   "date": "2026-11-18T17:16:57+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "DSCR Rates Climb as Lenders Report Weakening Investor Appetite",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS1RPUVFVSmRORTNpMGlTTzdla1lNNmNNR3FjbXZqX3pZOWUtYXNBaVBsUWF4bjFOUVBQQS00eGxqT3FFVGNfZm5GMTZiVWZVMVBsOU43bFpGdTZQRVZJUklMb3ZzSVFxRXVPT3h0SnZreW9QNjllSVB6UHA4eUJOYUdreEZXVXctVlJaMElUZ1RlWVM3ZzFkdTIydTEzR0d4bmVVM1hCaGc?oc=5",
+   "source": "National Mortgage Professional",
+   "cat": "Mortgage",
+   "date": "2026-11-18T17:16:18+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Pending Home Sales Hit Another Record Low As High Mortgage Rates Continue to Sting",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRkk4REplWjRSSjdkZFhEZGlfOTRDSjFYNjdST0UyV08zemFNQm5uQS1aeUk1b2VYUDJQSV9qZ0xZcEhjZE1LbU1fRHlXVGNwbFk0eWluZzlyNUtiSVRRelFpbFhfNkN4THFITnBYMFpQeTZILXNWdWxiSkN2eDVSSDIwZDBoQVl1NEc5UVNZbl9hUllIUnpFZ2VIMmVOV1ZWenpkckxKM096Q0pGbUppTExHeERmYVVNSllZTEFn?oc=5",
+   "source": "The Truth About Mortgage",
+   "cat": "Mortgage",
+   "date": "2026-11-18T17:14:49+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Nearly half of home builders are cutting prices and offering lower mortgage rates as they struggle to find buyers",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTZkTzlHS1IxUW5KYUtFTFhUbGpjQ0tYVVpseXVGSUVVVWNxekFWUS1tdGZIUTI3V3ZobUc3N1FKMk1sN3NBak5OYzd0VWZ3WmJXVW05YXZsUWNDeWZUNDdwZ1A4UUliSklxVmlkbWtCYzNuVG8yZjlqRG02OUktQVFlLV9BcGtWQ1Y5SnY1X3dkS1ktbWhkaEhTOA?oc=5",
+   "source": "Yahoo Finance",
+   "cat": "Mortgage",
+   "date": "2026-11-18T17:14:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Get Good Coverage Highlights Home Insurance Savings Opportunities Ahead of 2027",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPMkpIdndTc3NWblBxZUxFcWsyQUhaT1FUZXh5WEN5ZVlOX25DYTl6R2Rob3YzMUMyQWdFVURKUjJpMWUybUZWVmlNY1Y0ZlVNYnJmSmNjVFBrQThaU0RrRHFNYjR1akFlVTRudTJTS1h1UmpKUGdCei1YYTkxSUplMHIzd1NzcVhmNTRMNG9vd1VtbEhqUzh0Y0pxQ2tNLTVKSTBYR2xxV2pNMDB5QzEzMjB5enRDTFRqOThBSkxYM3NwVnVQbHh0X3hmeGRBcXJnTDJEY0ZJTFdJY0ZXcjFvcDhYOG9GWlNHUGJqaGZQaWM2YjFpTmVOUG82WFEwVVFsMVhuY2FMUVlLSnVfVm1aXw?oc=5",
+   "source": "mykxlg.com",
+   "cat": "Insurance",
+   "date": "2026-11-18T17:12:05+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Mortgage Rates Hit Three-Week High As Applications Fall, Purchase Demand Drops 18% From Year Ago",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNkkxM0d1NlM4dWZlZW1TUndpSWFKdHV3R2hSdTBkT2N4UEMtLUZtM3lPVGlYR3JVcTJ4US1qZ3l1YkwxNWdSd2xzOTlqWmlVTm8zWkpiRFpSbzd2eE91TGc4cENpX0dFZ2NFMXZpTkpzZVNkUVYzckltazRXUlJsdWp5QXRwNnRoczNVdE01SkgyWld2T1NIaGRzSVUtZVB3Uk41MGVvNV82MXRTdXowZDBjcjBvQjdNWnp2cm94QnpJRWtJUUZtQkpkYw?oc=5",
+   "source": "CUToday",
+   "cat": "Mortgage",
+   "date": "2026-11-18T17:09:52+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Metro Detroit's housing market is cooling as home sales decline, sellers reduce asking prices and buyers gain more negotiating power. See link below ⬇️ 📸 Provided by Nathan Taib, On Demand Pix",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZUpzeXRYN3JzWW0tdzhjdlRUMUl0ZlY1VUZ4bU1mU21KQWFrSXE0OU5pajdQdlQ2T0NzZU9sMV9ZT28zSjQ5LThfTTAyUXhraUNwNFBGM0NDTjY2RGt6ZlIzU2RZUWhySjhodFQ3VEJOZDdJQVlWekdwekpYbGxPUmNuN0Nmd2ZlazdJNTNLR2J6dXNYQkJQMUVtNTMtNVdxZnZoTXQzX2NKcjQtQ19sbHhBWmRmU3VfaU5Jc0M1elRLV2hTTHgxWUhiWnNzY0tieTRNcmxKSUxuMkRjNHA4?oc=5",
+   "source": "Facebook",
+   "cat": "Market",
+   "date": "2026-11-18T17:00:29+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Mortgage Rates Tick Up, Cooling Homebuying Rebound",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTTRSek1ObDJnXzZ2S3R2d1hSMHkyNkdZQ2YtMTFxWEFXdkRrZzFuamw5cTlnSXNTX3ZNUm5YNWpDdVo0VkQwTWpCTnp1VlpWVWxwRERmaXpUNjBHOTMxanFZSXRXc2lMcllFNHFKemZwOHJ2TWVRcF80OEpqSmQxQnpEN3ZvaE51UVBoU2pjZ0JFZw?oc=5",
+   "source": "Briefs Finance",
+   "cat": "Mortgage",
+   "date": "2026-11-18T16:45:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "The big interview: Where one CEO sees opportunities for brokers despite elevated rates",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS0liM0VJM2hNY2M5WXJoMzRORTRDcHpmd1dzRERRMUdDMWtQYW5LTDNOdXlRUk1qTzF3SUlpSV9JeHhrYzhlaXRVWE9oeFdQd2xEUGx0MDVsZldZbWpBQUhtX1RhcXdicWJQUmZ1LTAzSzIzb3lQWC1pMkp5RjhYZkI5YjNDNlA5cm1aUFRZaDBGMWs1a1g4SFRTZGJnNE04UFZmOU8xeDVKNm1QTFBzSmwzX1dub0NPekxvMUJCRnZSTUdOOFEzVW5XUDN6eW8yWldnbA?oc=5",
+   "source": "Mortgage Professional America",
+   "cat": "Mortgage",
+   "date": "2026-11-18T16:22:20+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Home contract signings hit multidecade low as buyers struggle with high rates and prices",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORktyVUNJUllNcThEanNpdUFpOWpNQ3dWUFlaSF9sYnY0UkhXaWNoWXNYX2dTRnowLWFqZURwS2pDU1RwdDUyTlItbDNua0NyQ1MzNTdwSEFTSk5ESlNWb1pPZ3czMm9abzJzQ0pkUkNNTXdxWGRLem55Y1RoVFBtSG5McG1UR2xYcXotMVhtbWVFN2w5Zi1rVUtDcFFvblBOcUVNMUJoTzJoMEMzbllrOWltNmprVVFaTlhRbU4tRW0td2p6bHRJN00wdFQwYldRVWtMUm4wOTRaM2o3U29rcllGbw?oc=5",
+   "source": "Yahoo Finance",
+   "cat": "Mortgage",
+   "date": "2026-11-18T16:02:02+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "MBA: Mortgage applications fall 5% as rates rise to 7.35%",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NUHpGOTlPcGNaRWlSZ3A1MWFlQlUzb3FZXzhkdEVpdUkydXpjamJkeGkweU1oSFBvZ3ZsUExONl9vWnFLT1ZBVDVrTlZyOFFYcFVLNnlUMk5NdW11RzdkaGRreE43cWE3QV9VTlNIWTFleDU5WDRnSzJpWVM?oc=5",
+   "source": "HousingWire",
+   "cat": "Mortgage",
+   "date": "2026-11-18T15:52:39+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Pending home sales hit another record low as rate fears linger",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSnJ0ZWw5a21ZRllGU1BpRktKbWZ1R241WnJGNXczS1h3bVhHaC0yZWQxUmNLWlFBM1pmNUpXUmhWb1llZ0tmbGZZUnpGWU9STlFfRlVIcVJDLUVkNHFNMkJYaGNnWHBOREtnR05FU0NRWWVBcEJxM0c0RVZDQ0txM0lPeGNJcDlvNVFxVTNWbnVTODBMbl9xU18zdFdNTHJZS0RPa2tZVS1iVjJEVE1OOFk4WG5OVDZ3RXlSVkQzaVNUSHlFMWpn?oc=5",
+   "source": "Mortgage Professional America",
+   "cat": "Mortgage",
+   "date": "2026-11-18T15:37:17+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Compare Today’s Mortgage Rates",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZWTRCWTZjV2FtYlpMOFBxWjVNRF9EbGN0QUJYRHVXY1VyMTdSdGc2blVoM2lFYkI0elJNRVY2VER1RTJZNGEwendkNEFGejdfZkNOVTRTa3FWSkdISHNTcmNfYlBTY3M?oc=5",
+   "source": "Forbes",
+   "cat": "Mortgage",
+   "date": "2026-11-18T15:19:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
+   "source": "Forbes",
+   "cat": "Mortgage",
+   "date": "2026-11-18T15:19:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Current Colorado Mortgage And Refinance Rates",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hVWQyUEJxYmcySk1UNWNNMnBRVFlBTGNYWndaYlozUjRFMnItSnVBZDA0UnRucGc1cGtpbS1BX05wWmtPTlpwTVN0UVhpQ01FdGpvSUJXSTB6X2ZFWmR5SVdCZ0xjUE0tYWpXbWI2WnBqdw?oc=5",
+   "source": "Forbes",
+   "cat": "Mortgage",
+   "date": "2026-11-18T15:19:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Current Georgia Mortgage And Refinance Rates",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xbGdsUk1DdG0xLXhoNERSSGxMUnVSYlN3SkRtR2VwdWFKWG96eTNJZDhJT0NneHVnNWctUnZLRnVQSHRldTgzR2RYMmUzR1ZjcC1Ma2h6YWs3SEpUR2tkWktlVTFfbWRrek5wdXMzbHY?oc=5",
+   "source": "Forbes",
+   "cat": "Mortgage",
+   "date": "2026-11-18T15:19:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Current New York Mortgage And Refinance Rates",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XLW83dVNhdGxxUkZhZ25RS3RtN0tFSkw0RWhScmVlLUQxMFdsQnRhMDlkcjRQaXJMa3duS0FhUzZhbFh2cmx1UVFoS1o2MjFQQXRwSThUaEZhZklIQ3I5WmJzXzRmV1FzYXNUdG8tS191Zw?oc=5",
+   "source": "Forbes",
+   "cat": "Mortgage",
+   "date": "2026-11-18T15:19:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Current Florida Mortgage And Refinance Rates",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZakpManpVZVNkM0JQdlV1T3RPWHdwYkUwVTRMQVh4UkVhajYtcl9SV2NrSkJSOHJZRWlQOHBoU0RCZ0RfMzdRcTNNWWRta2xTWjRyMUM3S1BZY2FwQTVFM2FuT1QtRTdhZkxjTE0tNjU?oc=5",
+   "source": "Forbes",
+   "cat": "Mortgage",
+   "date": "2026-11-18T15:19:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Current Texas Mortgage And Refinance Rates",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qcVFwQzloNjBLbjYwcmo2RVM4LXlycUtMZ2ZzLUtSWElicm1UTkJrRGFoYmxaSFBYcElsY21yOHljbF9YWms4cVF5ajQwS1pBS0xKZzlfN0lKc0ZvUHNFS0NBa2pibDhqZ2hiUHZn?oc=5",
+   "source": "Forbes",
+   "cat": "Mortgage",
+   "date": "2026-11-18T15:19:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Pending Home Sales Tumble to New Record Low as High Mortgage Rates Freeze Buyers",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUUY5TjV2VndIODJJXzJMTmNpS3ZFdDdkdWZ6Q3FucGlDNlpzT2haaDJ0Uk95dEM2Z2Fid3hvQ0Z4X3pSbVFXUVdQbDd0M3hSdDFLOEVlN1piZDh1aTlFN3pCSzlrSWtIcmNHUnR3SEJUVDNXOGNmamZLN3ZQMlVzX0RaaXkyU2pyeXVkcC1CUjhBQQ?oc=5",
+   "source": "Realtor.com",
+   "cat": "Mortgage",
+   "date": "2026-11-18T15:18:37+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Is the housing market headed for a crash? Experts weigh in.",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeEVQbGdRMlZLd0gwTnFjaUxRNHQzZV9hREJVVTl4NGVPS2xrWVNULWcxVWpIZS1RRVpybWNTalU5cDdBdFhQQWgzNk5BTXlaTzhuMHIyOEtocmZMVUFnT1I2TjVLQndWXzdLUnZXc2U2TzRzTlh4ODZ2OHV5Z2dZenpqOFN0YkFqN2dGT3Ywd0hYQ01Wdk5OTkpYM3RUNU00b2MwNVA3S3RPaUhWb0w1bWo1ZzAxWGMwS3lXRzJJNHdDdGVwSmljM0c0MUFRZw?oc=5",
+   "source": "Yahoo Finance",
+   "cat": "Mortgage",
+   "date": "2026-11-18T15:16:11+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "NEW CENTURY 21 BRAND RESEARCH FINDS 75% OF PROSPECTIVE SELLERS BELIEVE NOW IS THE RIGHT TIME TO MOVE DESPITE MORTGAGE RATE CONCERNS",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQUF9DODRtRkxoVi1tYnpPQnJpWFdlOWwzVE9HRkxweUtYcTU0VUFsQXY0MmlCQ2hkeW1uTmdNbG51X2JjSkNRWm05NFJmT0wtZWFpbUxzdkN4eTZVdnljUmpZaFZZOUI2ME55cTVGZk9sZEFaN0dfcFIwcjJDMC1ralFzM3plclAyX2VNNFoxREFfbjItZjJFdWdGUkZDcFM3cnhSMUNiREh5Mnp2cXlsaTJCQUthczQxbGhBVkVSVnlnZnNYbTlXYnVfeDVJVFJIeUlET2ppaGJwU0ZEbnptZTNCNjl2Y3h1X0tJUHVKQXg4bXJRNkZueks4c09BTUNaVUVlRng5ckFOcElTcnNwTk52MWU?oc=5",
+   "source": "PR Newswire",
+   "cat": "Market",
+   "date": "2026-11-18T15:15:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "US pending home sales tumble to record low in October",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS2txVmpEaE9Vd2VmWVdSbU9HQ2ZYZnNmamdSelVvQ3JLU0pDaDVTT0xVR0tBUi1EMDBBVlV0a0l5Nm44Skhfazc2bzNvQ1F4NWlnNEk4MDU1WXM2Ul94NlRVNVgxWUZ4Y0t2OXE1WnNzYUJlckV5WW4wb3NmczE2eG1YRUQyNmVGbmJhb2VsY2RSZk80?oc=5",
+   "source": "Yahoo Finance",
+   "cat": "Mortgage",
+   "date": "2026-11-18T15:08:50+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Misc Data: Mortgage Applications Weak, Inventory Up, NAHB Builder Confidence Plunges",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10enA1NFJ0a0ZPWlNwSWF1aUh3UVRIaVZCV1ZCdUM3N0dMLV95eTlEakZlWV9nQlJlcmU4ZnpScjJlMHBRVjM0WWxsUzhhRVNnWUdJRUd0Wjl3TUdoQVFSajlIQy1XbWdCejJGT2hnNGdOT0JvR0xBaEdSeG1jUmM?oc=5",
+   "source": "Substack",
+   "cat": "Mortgage",
+   "date": "2026-11-18T15:07:21+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Today's Mortgage Rates Inch Up to 7.506%: Nov. 18, 2026",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOVpDLVRyVjdyUjE0WUg5X0JoaWZuSGp3VnRhVmlTSUJoTmdtWko5T0lGRHRGV010aW9lSjVFRFdOUHZJbEtES0RmcjduQWF1eGZVZ2J0ckVHc1FoYVBmZWdaeHdGR2JZRmNlak5qUTl4UGRDLVNEcG8tWEFkSGIwV1UyM1h4aHlnQlE1QmhaeHg?oc=5",
+   "source": "US News Money",
+   "cat": "Mortgage",
+   "date": "2026-11-18T15:06:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Contract Signings Slip Again, Agents to Buyers: ‘Here’s Your Chance’",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY3JsZEcybkF6Z2psSktFRnMwalpESW5HakktVjlHWHJlNzBFRXlmaTM4NjlGZjdNRkRJRWFJNVMxRHlGWU1QWVpnUUpzNE9fQzdkU2Joc29YMERiNW9FMTBsYnQzbW92WEhJREt4M2VMOHRaUlJEaXlOUER3R2lOQ1lfVUlDazRTSjdOdEszUDdUN0pGQm4zZEdlTGZSMGlGd3VoaXBBaVZ2TUhrbzZXaElTeWVIQ3l6?oc=5",
+   "source": "National Association of REALTORS®",
+   "cat": "Mortgage",
+   "date": "2026-11-18T15:01:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Two new housing reports point to bleak winter ahead, with record low sales",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMVA5MW1lR2lRUjJWaGNzbU9SSmgxYUVheE1LWm5HVS1CNmR4WVYxc2Q5MUYyMjBIMm5DSEEyeXNGbWk3MzZPdzZ3U0p2Z2J0a0trTElad3NaRVIxaUhvanB3VHF4b0hraWtvenZMc3BKRDFuRFF1YXFiSC1iWTRKa3VPTERxOVh4NkZSbFA5Z2dEQdIBlwFBVV95cUxQUjhTUFpaMGdNcklGUGRyb2I4ekl2SHdIZ1J2a0FpYlBlYmtrT1dQbHRISWRqUnpBekdtRjYzNUZuM014V2Vua2RwSnJWVmhmRXRFd3lhWVRUZmFocnNvTV9nZldkc0M1WHpiRDdwdmN1Tkd5LTRBMnNEM0FXV3BaSjBXMGd3MG9DMHFwbGhHa0RJSjI0ZjdV?oc=5",
+   "source": "CNBC",
+   "cat": "Mortgage",
+   "date": "2026-11-18T15:00:46+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Forget double glazing and marble benchtops: The cheap fixes that actually sell homes",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV2lLMGNDMkk0WTJWUzJkaUd1dmVURnVwdlZ0OFYwWGExdmRnYThLTHpMUk80X05LanZQNUlXbGpDRHlsczdzdE5LSFlUQzJISnVDbE4zRGFrZ0tpSzJ6QlVpekhDQmlLVmFFTGFCVGdjVjRzZ1htNDNCRVNPVk9IdXZYSTFIUVBHQW5jNWFwaWVjUnlack1yME85WjY2UFlSUXczcDFjY24yNkwwM2N0eFNoX3dFSkJVakRMd3dZbw?oc=5",
+   "source": "Stuff",
+   "cat": "Market",
+   "date": "2026-11-18T15:00:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Mortgage Rates Today: 18 November 2026",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RNjQ3M0x3M1JqQ1BhbVFVRFlhWXpMMHhvVnBjWmdNY1RtdkhJeTBXSlpUOTUydnI2ZU5XMnd1d0RaM3FRX2lGaDV6NkxoX2FvMUtDUnFpRkhWNXFvUTkwSENQZnhxYUU2azFn?oc=5",
+   "source": "Forbes",
+   "cat": "Mortgage",
+   "date": "2026-11-18T14:49:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "New Construction Gives Mixed Signals in October",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94M3BUN2FWNVJLSGRoUkkxWFRMaEk1Ukg3cTV5b2RWRXJWR0VUZXJhbXJHa0l4emFwOS1iNzQwb29iWC1WekR2WU9LV3JwVVVoN2ItZXplY3Z6WktobWpyRVRyMEMzeUpoSjZRTUxSYTMwdWpIdEpr?oc=5",
+   "source": "Realtor.com",
+   "cat": "Home improvement",
+   "date": "2026-11-18T14:41:35+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Nearly 4 Million Americans Over 75 Are Still Paying a Mortgage, More Than Double 2010",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd05OTnF0c2dOT0FmZUtMaTR0VXVOREh5RlRWZ1hJT2pvQ0MtcFNkNm9McGpoRFp1TXJ2NU41QV9rcURCd2VlNzZFUEhlZmx5XzVFYzdKY1ZoaVpEZ3hSelpiZW41ZDVabVVENElPU3Q2dVpkMzQ4bU0yLXpHOE9LVFcwZ1V1MVBUcU9JZEhrOUU4eVJabVNtWg?oc=5",
+   "source": "Yahoo Finance",
+   "cat": "Mortgage",
+   "date": "2026-11-18T14:30:22+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "New Home Buyers Save 258 Dollars a Month With Builder Rate Discounts",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1M5Tm1SZG9OYVFtVUp5VmFZcG1ES2JSWkFoVjFiZFBVd25fNkxtMEQ0TENtd0huaC1RNks4d1FsLWl3QW54RVotamZMdnc5OURTWE9UT0NGTlViZmYyb1I3aHZkN0EyVEdBREpPSnRjZUFZTTRXZXZURm9kZk5EcERneDkzYUlKMk0tbS1BQmU2bS1WMHhBMmY3ZWh0Q3VNS1E?oc=5",
+   "source": "Norada Real Estate Investments",
+   "cat": "Market",
+   "date": "2026-11-18T14:28:25+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Mortgage Demand Falls 2.3% as Rates Resume Climbing After 4 Weeks of Declines",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0FfY2YydzBwRm9pSHNlV0lPVW9VaU1JMDRMQTRWNnhNcmhod2FfUzZNanluQWtqMTlpeFN3UXVhcVFtVnhkeElNbzZETnpBYXRfNjN1cndkWjlhYllKMU5vUmE5ZldLNktEZVJuUVk4TGM1VXVZNGM3TjljalhjNloxdEtjekpiU1FyR0VlSHdrTjd0T2Jj?oc=5",
+   "source": "Realtor.com",
+   "cat": "Mortgage",
+   "date": "2026-11-18T14:28:14+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Home Prices Post the Biggest Monthly Drop Since 2022",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdVBOemtfYkFzVHNXcFh0MWVER3QxSTJuemtPbFdXcEJLaThfM2F5NXBhXzNfcE1tQzFSZVpmbXIyYTFsUE13NjRITFRyY2ltN2NYbjZ6a1c1dzFqUmJvNjZVMnBwRjJjZEl0UTlhSjFkNHVyc2laTmRrekhWUDB0aC1BSEJ2Z2dBeWZaSk9YUVc?oc=5",
+   "source": "Norada Real Estate Investments",
+   "cat": "Market",
+   "date": "2026-11-18T14:23:25+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "Map Shows 5 States Where It Costs More than $30,000 a Year To Own a Home",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa1p1MENIZUZxcFpRYkN1S19CT24zZGxwVmVRQUhQTE1KNzNITVlHRjNoakxuYndWTGxYQTQ2UWZPemtaNTlYclNyRTdEekdLcF9FOFc3aVIxXzhvVW5Ua2xUQkVUenZYT3hmZEY2WWsyQkV1STNiU21Ibl92RDl3RjNZYkpLRmtJNjFLdHZsei1PZVZSaFJ1QTBFdVhTZHh4Q2ZlVUtzRQ?oc=5",
+   "source": "Newsweek",
+   "cat": "Insurance",
+   "date": "2026-11-18T14:14:00+00:00",
+   "date_label": "Nov 18, 2026"
+  },
+  {
+   "title": "London house prices suffer worst drop since financial crisis",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd2R5RVZ4S0NHVkpaOFFMWDhDeDZSY0VRTkVNRW84aE1heHV0RTJBZ1N3RnlRc3lVN2JyVS1STVRmdW5CR1k4bm1EdW5nWWtuT0dMc1RFNTh3eHk3T0VmdVRrNnNUY0FjV1BEVml6QU5lLWFzOHVMYlFhSXNRcmFLdTBUYWpfNW44VS1Sb2d6WmNPT19lZFd2VGJLSU8tSmhURUdERmpYREhNMWhr?oc=5",
+   "source": "The Telegraph",
+   "cat": "Market",
+   "date": "2026-11-18T13:37:00+00:00",
+   "date_label": "Nov 18, 2026"
   }
  ]
 }
