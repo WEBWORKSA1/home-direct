@@ -1,53 +1,405 @@
 {
- "updated": "2026-11-24T10:03:23+00:00",
- "updated_label": "Nov 24, 2026 10:03 UTC",
+ "updated": "2026-11-24T22:34:25+00:00",
+ "updated_label": "Nov 24, 2026 22:34 UTC",
  "items": [
   {
-   "title": "Ontario mortgage arrears are approaching their 2008 peak, reports warn",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYjFRcERDdnlnR29aNDc5NzVuQ3B0bUVYbHBDUXhfU0tQYzFUN2VXME1kZUc1MFluNjhFTlNzMFBGTFcydE53UDAtS0VhWHJ3TUp5ZW5YMEZvQzNsZ3MwX2Z1QVluT2NabFJmeHI2QnRaV0x4ZVltaE5kR0JOSDNJMllHN2dlZm44bGprcF9VcWt6Z0lzWjJHdVlobnhoWWxmb3VsTW1vVzdSTnJKV2RJeTc3cUhYWEt6Nk84MGFCbE4wOURKWmRlNHRQb3NPVlR3MFZwNXoxaUlBTU5PWW5fZGtUTGJ6NlRQa2lR?oc=5",
-   "source": "Toronto Star",
+   "title": "Mortgage deliquency rate up 31% in 3rd quarter, Equifax says",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04Q0cyeVRzWFVmNC0xZThQUkI4SkJ4Z2kyeU1OcFd4U0EyTnhVUVZCejV5eUlnR1ltN1cyNlhrZzlmb1ZDc3VTSUZVSm1TWnhGYXUwRWd1Wm16UQ?oc=5",
+   "source": "CBC",
    "cat": "Canada",
+   "date": "2026-11-24T21:24:55+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Here's how much the St. Louis region is paying in hidden housing costs",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQnJxVWtNWm1CS2RJcjV3cUJUMnF2Ym94S2YtSV9GcFh4UDlYSTdNUXlYNmgwLW5GZDRySEhaNWV1RUh5VVh0UWtJU0NlVWd0cUhqYVpJM19QVl9NalFIR3B6NDRCVk5vRnE4WTVIa0k1dEZvYnBMNTA0SS12T1ZrR3dTcnNoSW5LaldXTVE2bFVXdXk3TEFJUnd0V0RHb0h1b1N2ay1zUk4?oc=5",
+   "source": "The Business Journals",
+   "cat": "Insurance",
+   "date": "2026-11-24T21:15:00+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Canada Is Borrowing Like It’s In Crisis, Killing Hopes For Mortgage Relief",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOWtWT2Y4ZWxnQnZ5a3NyTm1EZUxIelV2R0ZUcUhwTmhONFpEcjM1NXhUaTVWdVhMWFVIaEhDc0tDVHZ4UGJtQUVsOHhYUDk0ZzBpN0dPdmdmNFh3U1A0VzdHT050VXpJeE1fOXVYMkVVb1VWc3BsLXBJQUxKeTIxYnFsSFhwdVZVclBFa1ExajN3LWRHQ09MNm52RFV1UVlnOFE?oc=5",
+   "source": "Better Dwelling",
+   "cat": "Canada",
+   "date": "2026-11-24T20:58:50+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Questions? We've Got Answers: Addressing Issues Impacting the Economic and Financial Outlook",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NUVQ3QnZWNzVOTERjb1BmTDJlT2h2OU5IMDRWLWhvOWVydFpST2NXd3g0TzFoN1d2dkVYQlNhQXBqeU9hYU1LaVpvQWhDUEtNN2djNWItVDQ?oc=5",
+   "source": "TD Economics",
+   "cat": "Canada",
+   "date": "2026-11-24T20:52:53+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "A cooling trend continues across the Pikes Peak region housing market",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3JadkJIbFY1a0FTODBxbUFia3lBeUVoVHdtQ1M0LThJaDJRM1pndm5wenp2X3U2MGVTN2t5NmdVSTBpODZ2Sm5nYWt6bzJ0eGhjRXRKVUxrS2RTbm9ra3VrWU9CSnRTazZBaVc0UnhDZXRvQjdFUkJ5bVpMUW5KTmF4WlUxNElrU1RjbDhGZUtXX0ozelVFdFBzd0NaSUU5eHFZ?oc=5",
+   "source": "Colorado Springs Gazette",
+   "cat": "Market",
+   "date": "2026-11-24T20:19:18+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Promising Home Improvement Stocks To Watch Today - November 24th",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSVhjRXBQVmlGem0xcjNKR0piUE9jNDBYakljdWVWNXJXM1h2Z0hfZVd1VTFjRjAtVEQ1a2YwRFVNWG9EVDItdGR0c0Fhc0xUWEw1SkhNQXh2Ym5icVI1WXc2aWNSUWE0Ry1KSjFhQl9aelY4VUZZRzBMMGpfV2NMNWRDQXFySVFNVTEtblRaN09QTVRsUHhMUHVRaE42SC1aMlZXbmlJTU5VRG9OU091VjBiU2NQWHFQaDJUTmFB?oc=5",
+   "source": "MarketBeat",
+   "cat": "Home improvement",
+   "date": "2026-11-24T20:15:32+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Mortgage Rates Trickle Down to 2-Week Lows",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yZGJvQ0lNdC1TbHNJdTF5YWdiUS1GYmNmTWNyLWVjdEJjTFhSbGNBSUdzNlI3djZXTDRSOGhGT2tBbWViYXYzNDVQSF9ZOGthLWdjRWJpNDlSbUluYkU3ZWJWVlVHaUkzS296cHJEcmlxaWvSAXRBVV95cUxONjZlNGJydWpRZTd1alM3ektULVdGcURobExaeDZocHl6b0tVMFdiQWVxbm8tZWxrbmFSSTJOcE0wb2N1SVNBWGVqeWZBc0V5WldRMEF5NTJWelBMSmgtbTRBNDdvUzVqZVlNYkFXQnlPSmlhMg?oc=5",
+   "source": "Mortgage News Daily",
+   "cat": "Mortgage",
+   "date": "2026-11-24T20:13:00+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Northern Virginia Housing Market Adjusts More Sharply Than National Market in October",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN3NVYTJ6YzZOSlhMUnlVLWdBY3I2Y2I1SWRBaFJQLVNSOURoRXZsQlpFdzl6aGphR0toaEEzOGpUcjhteFFyYkpqWUR1cWRKV1RtOHo3MzZaWmh0Z2pDd0c5RWhKU1RtTlUyTExwQkhsRTVPbUkxaEVncUVycnVvVk9fOU1ub1NqdFIwSVhqM052SFZVTDdNQmNLVGRfeERDdVhua1EyS0tsRGJGcGlFLW9XUERFM2p3Umo3Z3pZNjJsbVNIQlA0UUFhNDBudkxnSVRFaXhORTQ?oc=5",
+   "source": "PR Newswire",
+   "cat": "Market",
+   "date": "2026-11-24T20:11:00+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Retiring to a Beach Town Means Pricing Flood and Wind Insurance Every Year. A Few Miles Inland It Changes",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTzIwc1VGUUNqUVVYSkRBZHU2RThkQy00V2JfRWFMa1NfbUpCczllbllqc180bHVyMHQwdERaamRpazFOMlJuWG1hWEtwSlpBanRkY0NCUnRRTUtLMmxyYVhFdjFJblM2UGNmX3FEQVhCd2hKaG9XR2R2cFJmakFCR29tTDNZR2JHWWJDeDF1UFVKR1k2N0pUVWhDdEQ0NmZucTRqcTdVa1ZCdXRFZDNLSnc0cTZqWnhXU3E2U1AxdWRvOTdVRGJQc0hxdkZ0Zko2UExUamlGV0h5bzZoRGtNVUlhbmNIam5WNlVR?oc=5",
+   "source": "24/7 Wall St.",
+   "cat": "Insurance",
+   "date": "2026-11-24T20:03:00+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Latex Paint Brush Set Market To 2035: DIY and Pro Demand Drive Growth - News and Statistics",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUG83Z1E5REhscWZYMDVfd0NpT1M4bU9IRENnTHFYQjMxN0Zva1RJQ29uNUZtTzNFSVJaUnJkYi10dlJaRk04MG9PaXlXQ0w3S0RRakg5UzhCSmxKTW5NNGdNYkdJaDZPeWhNbzFja055VUR1cTJTOEJxOU1lbml5cHhpN3NoLWRiZnJlMmxPSU55YUZsc0hlaUwyb3F6c3NFWGl5bUEzRGVJbmJJR2JSbEdpZVEyRUJGWDNnUTJtc1hoQ1dsX3FN?oc=5",
+   "source": "IndexBox",
+   "cat": "Home improvement",
+   "date": "2026-11-24T20:01:04+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Anthropic’s New Millionaires Turbocharge San Francisco’s Red-Hot Housing Market",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11SHBETmFkYWF4Z3d4VEluVmI3bW1ReGhyNU9iSExzOUZZeGVLdGpBTUc0WEFkYXh4VXJYTmM0R01kWVY0bjJUYlhsRFJ2TlB5ZUMzZ3dQcXphelRvSDZ1UU4teW5ZdGRIWFpsRGZWWUxPT0cwN3kyclQwNHc?oc=5",
+   "source": "WSJ",
+   "cat": "Market",
+   "date": "2026-11-24T19:31:19+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Case-Shiller index: Home price growth holds steady amid surging mortgage rates",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcm43MXFSOHNtTjR4MVJqMkFjbmdzYzVGRXdMQndIVnRyeTVzM05uWHhjSi02X2pJZHV3Tk9RSmI5ZTJDcmpaRUtUcURtd3c4eV9RQ1owWEZYU2tlQ3RYd1hKbkUxR2RwRDVBTE8zVFd5Y1NaR25iaV90LU42NVZ6dTRBY192Si1OelA4dFA5QnQweW81VU9hZDdWMFdGS1ZTX1RxUkNBbEY1VGdqRzFxOVMzdw?oc=5",
+   "source": "Scotsman Guide",
+   "cat": "Mortgage",
+   "date": "2026-11-24T19:30:16+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Clear Under Sink Organizer Market To 2035: Renovation and Modular Demand Drive Growth - News and Statistics",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbDViendULXlTZXhkb1NucjFUQnVtd1FJTWM0YzdaU0xDRndlVmlFVnRnWW4xWXM1ZXJwX1dqTGkxc25qRlZMTmU0TkFXbjU2WVIzdTl0dndiM2ZfYndaODdHTDJCU1h1ZUdHMHFYY25XT0hhQmdieHo3aUdxc0JFUEJlNklKLWFaS0hfZnAxSUtYOVN5Y2d5Y0Nya19LLW4zTkFHeHV6WF9pOUFvTzhtbGp0djhFd09LTTZSMjdZSXFsNzFWcXRYa1BlMEkwZw?oc=5",
+   "source": "IndexBox",
+   "cat": "Home improvement",
+   "date": "2026-11-24T19:21:04+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Here's the real reason so many young Canadians can't move out",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZHhOU29CT2kwd3RtbmF0cXYwZmVoei1Sb3RlNEd3M0tCZk5ja3ZEc2N0QkJJanhEM1FMN3dKbnk4Tlg2ZHlBcUFLUWNRWFVEZnVVSERuMXpnbFl3QndyZ1hzaDhWa1F2UnlVaE1QV09jeDMweko0VG5jVWpBWEdleHRfLXBnNTBjX1U3aU5SQzgxZWp1SWlqdG5zM21sZ3BEdEZRQUV4NTcxNUViVHJpWUd0YkJGVHkzMUVTWWtzQ2Vic2s?oc=5",
+   "source": "Mortgage Professional America",
+   "cat": "Canada",
+   "date": "2026-11-24T19:13:36+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Struggling to keep up with your mortgage payments? You're not alone",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UWHlUUG9lbXlIM01rSXlrZW10V0FrLWZ4OXBSalAwWHhCbnVZV05IZWxORUNlbW5FNldDWm5TZWNDaUlWWTlOSm0tcVBKa08yWm9wTnE1VWw?oc=5",
+   "source": "CBC",
+   "cat": "Canada",
+   "date": "2026-11-24T18:46:23+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "House Prices Rise Year over Year, FHFA Index Shows",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUXNCS0NHOHJ3azJHSkdqWG4xOWhmSzIxdUpXTGNiMllicEpSVElxLU04NkFNUUI3NF9tbUhydVNsN2pTd3p0a3BMMmxOTmdaNkJJZWJpN25CR3QtRDROWmNITFJnUDdRWnVLRkprejFhZ3hieWdWa2VSS29hNkRUZ09GVDlsVm5XYmZNd0dLc2VIWlJx?oc=5",
+   "source": "themortgagepoint.com",
+   "cat": "Market",
+   "date": "2026-11-24T18:44:35+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Home-Price Growth Remains Outpaced as Inflation Continues to Rise",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaFFBUDM4X0FDb1d2WWplY2h1eVdmWlNJZVJLRkp1enc0V29PTXMwMWFyN0xhQlBkN09jekhWVkI4aTVVTTVja3EyaDY3SEhzM3pkV0pNTF8tQk1sbS1vdmJhOGVQTDRQakhyQVhlQTN1RjJoX2t2RUs1Z2tWc1BGR0R4QThOb2U4a2F3azZZTFI2dTFOREhpWDRyaDdjd0pOc1A1TA?oc=5",
+   "source": "RISMedia",
+   "cat": "Market",
+   "date": "2026-11-24T18:12:26+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Should you tap home equity? The risks versus rewards",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDNzWHNIZ0J0dnJrVG9ZUmdhYnJhejBOQTdvRmEwMGp4SS1lUkZiRi1yNXZzRG5oczBvWE16a0tBMHF3MjBRR3ZjVlVSSEd0RXFWOEl1aWtuWUdyQk9hem5oZ0gyakxqd09UdWgwVUtWei10c004UWJxQkhSamdvUjJwUUFhZE1LcU5vTDA1S0dUMVFHczZB?oc=5",
+   "source": "The Independent",
+   "cat": "Home improvement",
+   "date": "2026-11-24T18:05:00+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Mortgage delinquency rate up 31% in third quarter: Equifax report",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXNQcEF6MzBicXE5Z0NZUVdjYXR4d3EyeVB5QzEyekQ1dURFa3J3WWxRaTVzNWZTTEVsTy1uYm1qOWVBeld4TjhCN2E0VFlfUWRacHZsWDRUN3ZkdHZMeEVyVC00N2NoUlBMQnVPUTdtSkotNjVxV2FiY1R0SmVoVGtGckltTUNSbTZHa2xJUGMtWWV2VVo5V2E5WlpWVEJqandEYkV0bTlZTW00VnhxbQ?oc=5",
+   "source": "Radio-Canada",
+   "cat": "Canada",
+   "date": "2026-11-24T18:03:23+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Stuck in their tracks: fewer young Ontarians living on their own",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONkc0Yng1MzBGc0k3WkVPaHozZkl1R3pzRFJoYUktblNqQWJ1c0c4VXlZcFJ4NnlOcFR2aTdhbDdBbEcyeFRnOVJINmIya0hTTERTOHIzbTJ6NDRnNEJCUUpReE0wZ1BYdURrNVFoX0VzYUpUV1ZOeFpEZG5nNXI1cUdiV0xhODhsdjdIUzU1SFJzcjMtS1pHZGo1UU1ybGZ6Zi0zeXBFQl8?oc=5",
+   "source": "CMHC",
+   "cat": "Canada",
+   "date": "2026-11-24T17:57:26+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Ontario mortgage arrears near crisis peak as rates take toll",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNazU4bkZFN2pxWmgwX0lNWEJNVUE4Ukk0bjhYTUJaMExFZWJ1bm9DQmRnM1h1SDYtTFM2azFsZ21LRHNVbXRud2JrVnhYai1pd0EydXlxcVpIVEZKNFNscmRMTFBBOUJiRWJ4SjFSUUMxMXZrRDVUdjNqVXlYWGdsUEZKUTYtSEJqMHhqR1E3VU80MEZyTG56bkhYU3EzUnU2MG9nN2d0N3NTZmViYi1Wc1JXVEFjUXhTd1g4anRIMUNJUHdn?oc=5",
+   "source": "Mortgage Professional America",
+   "cat": "Canada",
+   "date": "2026-11-24T17:41:59+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Mortgage rates seesaw as conforming average slips to 7.53%",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ETXFMa1hhZHRvNlZ4WGRmb3BRLUZ3WVgyZ2lNZHExVk12QVF1QTRZTXd0ZEIwZWFOcjAxUEdkXy1Rb2RwenQybFI5NGNyaWExRk9kUDNBUDdZdV8ydUpZRFJxUGpESmZwTWFwMU80UGQ?oc=5",
+   "source": "HousingWire",
+   "cat": "Mortgage",
+   "date": "2026-11-24T17:26:33+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQng5LWk2YXZ4SWEzWnh3NVhwakpKYWprb1ZpcERSUDdFRHNRNkdnYWUtTV9ZTGlfcnhZNUgzNi13X1pMZVZzMEFWeC1tZWxvSVZxWDZraXZWRWtJTXhJX0pfRUdDUE5PZU4wd21RNEl6dEdEMlllaFB3LVpZbTB0R0N2U2l5RENCRy05SEFpamJMaDNsb0tmbU01WTBtOVJaOGJTdTZHbXBvZThOVnJn?oc=5",
+   "source": "MarketWatch",
+   "cat": "Market",
+   "date": "2026-11-24T17:10:00+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Palm Springs home prices hold steady, but a growing housing surplus is shifting power to buyers",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUpOU2M3ejNKdjRSOHdrcDVLSmxBTmlfSVVTVVZnR0FxcU5Taklscnd6blN4SlBNN1I2bm1jTW5nY2E5MWVzX1pMdUt5T0pRcmVxcUJfR2p6bl9JYmlVcHpNVmRvOVVzQ3JLQWNDWDEySktwQ0JyWWhwNzFOS3M1WkduMHVxM1VoREpYSFZrVUJ5aV9qeW9vRmtmQTZjQzNWb0RDTHM1R1BtdUVKV3YwU1A2YzNiSFZJMk9JczNxX1Jnb3Fs?oc=5",
+   "source": "The Palm Springs Post",
+   "cat": "Market",
+   "date": "2026-11-24T17:05:05+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "How Much Does It Cost to Demo a Bathroom? (2026)",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Zd2VLdHlvUlhfRmNkQk82bUZucG1pVlBDNmxpS1E0RmtSa2xFbkNlbjgxTzNONkhDdEQ2OXR1bGpjUUFTbEhZUWN2WDl2Sl8yN2JJRko1Mm5HUUYta3RtcVNFT3h4Q1RvcWc1azRyc3hHVTBNMFd2ZE9XR2E?oc=5",
+   "source": "ConsumerAffairs",
+   "cat": "Home improvement",
+   "date": "2026-11-24T16:51:15+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "2 Homebuilding Stocks Managing Through Housing Market Headwinds",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUtNQmtKS2NwUjJJM0p1a2JCSmJLOXBaZnFOQTNwVnRjNzZqV2FGMXNKRy1VTDdBRnRRLUJHRVAzcm0zVkZRMDRoY09JY2dsbjA3Ny1nNl9yS050Y1NUaDBGaHVlLWtoWThzcFNEOUJJOVY2SVVOMFRmSXN6LUppRU1fZGViQVAxOGhEYmh3VXdWMU5fSVFPaF8yQ1RVYTBBb1RiMXh5eTdVc1NucXdBLUVkT0JGWjE0Rl9F?oc=5",
+   "source": "TradingView",
+   "cat": "Market",
+   "date": "2026-11-24T16:46:00+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Lower mortgage rates could bring buyers back. What market will they return to?",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdFBEOGJRVUlpLUQwNTF2OFZ3eW84RkI4TGViamIybjh0ckMtRmpmbUx4QlNoaTJ4RDh3QWxBLTNJblBRY3VjTmhvRmF5NzdfLXpUWDhvTkZjZjB5Nk44YW4ya0ZRaFFzMTZGcnBMMER3X2pNeDVURWNQVlZRV2IyaTRMZ1ZmZThNVFkyQjRpbHhaUGdf?oc=5",
+   "source": "HousingWire",
+   "cat": "Market",
+   "date": "2026-11-24T16:42:34+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Mortgage Rate Forecast for the Next 5 Years (2027–2031)",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wd3BUT054OThjdkI3M1J6NWVtOVA5cHZZQkIwQl93ZEZiWENEN0VlOGZodXVMM1VBWWVEWnIxNmc0eGZCU2tHZDhoRm1GTmh6eEpHWUlINlg4NG11d21lZlZhcmJJZDNDOGVjMnlUdVdrbWJ0NklDRVNCUm1YQQ?oc=5",
+   "source": "The Mortgage Reports",
+   "cat": "Mortgage",
+   "date": "2026-11-24T16:11:23+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Insurance Expert Jeremy Fitzsimmons Explains Homeowners Insurance Coverage in HelloNation",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOUJQQ004ZUpDcUhQWVJ1bkdaRFNySHBqQ1lZc3NEV1RHMHB1MU1kWTBaZ3UwNXdXSm5tX3FuSVNFUncwOXhoeHZhdTZid0E3c2lNTnF4Q0FzNVh3cF9kVW5uR1B4OHFjYTE3SS01Qmd1bzZqY3FfTV96Zm9WLVRWN09RZGdjYzRaTDdxTmc5b25la21sbFkwUUpKamVGUWhvcVV5YjhSX0Jfdw?oc=5",
+   "source": "Yahoo Finance",
+   "cat": "Insurance",
+   "date": "2026-11-24T16:00:00+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Is the housing market headed for a crash? Conditions look steady.",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY2NTN0tTNWIwZVV1eU9CRFFPZ2JSS3RhZk55T0o5akpRMGxrM0VMYzNZNlNiTDVsNERxQUZHdDdlQ0lWdThjaF85NDNKcWRrRWpjUGoxeHptNDRrSjF2WE93blE3N2s5RFNyUi1LX0NLX2I3M2puTzBZSjZsYXNqdkNLZ0drR0pXWS1hYmk3ckRiWHhod3B3a0VxZDFfN1ZYVERsdmxMNVJyanFRU09mSTdmY3NBcTBaZlhRNndlcmNCQi1LQUFHSnVGMm16ZE5MRFJZc0N3?oc=5",
+   "source": "Yahoo Finance",
+   "cat": "Market",
+   "date": "2026-11-24T15:52:39+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Home prices rose 2.6% in September even as mortgage rates moved higher",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMF9YdGdQM2IxZ3RYSVo1VTNqZzFLTDZjNXhjamRvMGRTQVNtNkpicDdnLVpmR1F1TmZTWGhsLTJyUGtLbTZKdFZJWDItZUpSZkRaZy1HVmNYZkhxdEtNVmxfLTR5V25yWDFUTkpCNV9LeHZqek5ZaDdGVVJFcEllNGlYVGhtekFBeUpVMGl5anRaMTJfaGdab1FqNzRQTVJEZC1ZcVlWS3oxU2FzN2d2eXV4MHBrVnVwUzl1Skl6eWhKeVFCX3ZpTw?oc=5",
+   "source": "Yahoo Finance",
+   "cat": "Mortgage",
+   "date": "2026-11-24T15:26:54+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Today's Mortgage Rates Hold Steady at 7.366%: Nov. 24, 2026",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaVp5SWNYREstUE9jRmwwWEppLVNXOGtjWDJ2OUVub3hVWHpHbTROZF9ZTmg0elF1bjlpOVVwTWFvandmZGI2bXY0TnR3MDVhb2xOM21VdXlkZUlDRzlfdzNrZEpueGMzVHFBanpWanctZVRNMWtlUE0wbFNQZGdMY2x3RUthbzdCOFdMRzJZdEc?oc=5",
+   "source": "US News Money",
+   "cat": "Mortgage",
+   "date": "2026-11-24T15:22:00+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "US house prices rise 2.5% as higher mortgage rates cool demand",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNTFZeW1IVm5IaGNPbnBieVhGeUM4c3M3dk1DUHdJTmpXeGdGbmduZVg0cTlWNlRBd2tQMVJ1OGFqRnVXMG9WUWNVbC05M2pNOHJDVFB5X0g3bDd2cmxRRnhmX1h5dzFSUUJYV0I2R2pVaUZBZlZSZFhCemRnTXA3VjdkQ0FkaDY3RWkwQUdKLTQybTd6WXpPbmFJc2NaUi1Vd1BmYVE0bUpGMVVGdW04N1BKNUlTMWdRSjd4dmlXUG8tUDlr?oc=5",
+   "source": "Mortgage Professional America",
+   "cat": "Mortgage",
+   "date": "2026-11-24T15:07:40+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "High housing costs reduce household formation for young Canadians: CMHC",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0RlOE9KS2l1UWNFMHBFZkNJQlJUYUxqRTVXZVAtakR1MEJGcDg1Vk1tY1dGMy1jM2RSNmFrbC1FUENNcnBYenBxU05WYVFoc29uLUhCVndvZG9yNzZxSzhNeVRwdGVieUtkR0d2Qmk2WG94c1lSS0ttSDBkVDVsSE55SFpvWDA1WDcta21BdHBKWW1XVTZoalE4VDd3SW93Rkt5M0c4b3pIeGxCVXdwUTU0amJiVW9RYzhZaUNwZFk?oc=5",
+   "source": "PR Newswire Canada",
+   "cat": "Canada",
+   "date": "2026-11-24T15:00:00+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Mortgage Rates Today: 24 November 2026",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RNjQ3M0x3M1JqQ1BhbVFVRFlhWXpMMHhvVnBjWmdNY1RtdkhJeTBXSlpUOTUydnI2ZU5XMnd1d0RaM3FRX2lGaDV6NkxoX2FvMUtDUnFpRkhWNXFvUTkwSENQZnhxYUU2azFn?oc=5",
+   "source": "Forbes",
+   "cat": "Mortgage",
+   "date": "2026-11-24T14:52:00+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "When Will Mortgage Rates Go Down? What Forecasters Expect",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JdXhKRjEyR25zMkUySHJjMzNfVzdBbzY1RTE1QU83N29NbmgxNXZaanU2RDl1aUZwUkcxa1BHY3pMdkllX2RjM2xENl9XbS14YjlVUnF3ZmlJbWZxTl95ckR3LTdzS1JrVnhWVXJHZEZFVTZRTlpweEd3?oc=5",
+   "source": "The Mortgage Reports",
+   "cat": "Mortgage",
+   "date": "2026-11-24T14:46:23+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Housing Market Predictions 2027: Prices, Sales, Rates and Inventory",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zUGg0MldIdU1Ma0dJa1FmLUNaTE1zRlU0OEpMRFFXSzJmNWVvX0dYcDZLSktnU216bkhvX2JrelRZTnNsdkR0RDQtY0JJYVdOWjUwUnJlbUpHZjRzTlpiM3doQlNTT2REeTk3Q0xSa0VOcmlLR2hMYw?oc=5",
+   "source": "The Mortgage Reports",
+   "cat": "Market",
+   "date": "2026-11-24T14:46:23+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Mortgage Delinquencies In Canada Hit Record High",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd2NoUmJtc0N6bzBjbnU1aHk2M0M5Q05XN1p3eEZfYlllNVFaVkFwZmdNNm42OER2d2RxZm1vaXk4TFg1a0JLUmtJa09MWlVuTHdXSGVmdDhrd2FHcERrV1RtRUtzZDFlZXFRRWlCekNvVWl0YVFMczA2bDl5VXNrRTlLazFRYkVqeHYzZGpidk5BVTRaR1lubjhLNHFqdW1oVWhGRUk3UUw2Rk43?oc=5",
+   "source": "TradingView",
+   "cat": "Canada",
+   "date": "2026-11-24T14:15:00+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Mortgage Rates Today, Tuesday, November 24: Lower, But …",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2ZTQ2ZQMm1DZ2RQOHB0UlE4UVZQc2pCdHVqZG9QVURZYWJNODVHOF9yYjlBdDEwVWJicVIteFZIT19Hcm1fR0JfUXlWSV91RGJta1NjWUJ5YnpoNjZEbjdMUmFUN0FIRDlLVU52ZHM4anBWQU51dUJGa1Uwa0xSZkVGM0swNzNIZVYxc2tIbmM?oc=5",
+   "source": "NerdWallet",
+   "cat": "Mortgage",
+   "date": "2026-11-24T14:08:29+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Mortgage Rates Today, November 24, 2026: 30-Year Rates Climb to 7.42%",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3JtNHhpa2pOeXZ0SWdOam9QaDhHeFE0LURXUmZ2WkxJcEN5YXFxTmtLaVhmOTdqbkc3a1F3dUtYR2RlLW1YMnhfYlc0SXNsVkFUVjlfckNQMjJaZjBVWVNweEFSZHQ2RnRIQi1QLWZWMDlEbzU5MTdwSEJIbFJlOFB6WlhteVVnNW54NkVB?oc=5",
+   "source": "WSJ",
+   "cat": "Mortgage",
+   "date": "2026-11-24T14:00:27+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "US September CaseShiller 20-city house price index +2.6 vs +2.7% expected",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU1N1SzBPQTY0RkpRS2RSWF95ejI5VEJUaTAtRFppTk1pUzlRRXdxX2dkekdpOUdiNjczUm5kWGEtakhhQk40VU5LZ0ZwbkJwV1ZFVnZjd2RhMGNSTExmSmVtdGhZTTdCdlNUMjlTdjgwN2YxRm1KaHVtb3FmaXl4ZWctNHZwdjhBQWpCdWt0cUFwLVV4dE9EZUtETDBZT3dieHB3QQ?oc=5",
+   "source": "investingLive",
+   "cat": "Market",
+   "date": "2026-11-24T14:00:10+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "One in four mortgages held by younger Ontarians may be underwater: Equifax",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnYydVdKTjJpc2VRMFBjVlNQdUJ6WTUwaG9RbUVBRVZ6ZFU0WWx3SXVid1RUT2JkQ19OZ18wOFh5elFZZVlOb1Z3eFVWckhuaU9yS2dPLU90RzFjYkt2VXhydDctZE83MV9VYXBOcUx5YkZRTTFpMTlXVHJVa1FPSDZIVW1pR2JuYWR3UFROcnFHT0lUZFBGelZtN3l1VTUyM1JMOUdnaw?oc=5",
+   "source": "Real Estate Magazine Canada",
+   "cat": "Canada",
+   "date": "2026-11-24T13:57:04+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Can Builders Capital Mortgage Corp. (TSXV:BCF) Keep Its Quarterly Distribution Steady Through a Cooling Construction Market?",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeTlDTWNXaFUzLTR2UWZhSG9XSGRKcUJtSENLNXRmbzVqU2ptOHlrV29FYjdmNXdlMnZGZ0NHV3pOdjNwN2VfUzZIc2lVOEhwVVBldGFqb2x4YldPMEhfOTFFQmNRaU01QjAzZU9oME1IMEhMWGhweTcwNHZ4dVZsbVpJVUNEb3RuTlVxOWRGcWpHd2I5OFRpeF81eDBBWTRGWVhxamVkWWl1SEhRcUJfUjVjRTRYUnFULTVHRngxanVDUWJlX2x2YzQtN0IxbEpPSHV5amFHbG1aVEtsbkFHRGtJYlF3TFlTOUhxMDRkTWc?oc=5",
+   "source": "kalkine.ca",
+   "cat": "Canada",
+   "date": "2026-11-24T13:02:00+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Today's Mortgage Rates: November 24, 2026",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rdmpsVUwtTnZNcjlIbUQ5a0oyZDlUSV9IV1ZYQy0yOHViOEttMVlsTXlfUVEwcXBibVcycFRJZTY2WEhfM2Voby0xbVpIVUtMZ05j?oc=5",
+   "source": "MONEY",
+   "cat": "Mortgage",
+   "date": "2026-11-24T12:35:00+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Home Insurance Premiums Soar While Nearly 1 in 3 Claims Close Without Payment",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPODR2eFZoS0EtRXBnbDRpMUpPX3pmd2hqTzl5VlU0OVpZRmQ5dUdhbkNDOU05dEt2aGdXazZPUUpGX21zYk1PaTBuRm1FcmxiNmE5SlAwUlNLdFhSTTAwREpaZHVmTk0wYzJvcGdqWUI5LUxaclZRYnpSWlhJODYteHhjUmlScTV2WXl1VnBDQ1RBRlpMVTBsQnBSSzM?oc=5",
+   "source": "Yahoo Finance",
+   "cat": "Insurance",
+   "date": "2026-11-24T12:00:49+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Canadian mortgage delinquencies hit 13-year high",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSXJ6dU5FQU43cTA2MXctTUNNM2lLM3otVmFNSmFfS08tYW9iXzVNWGpZNGtvWXBBbkppdzY3czZ5bHZFVEhXZTduY1BSN3lhTVgzeU5yTWJ4amtYSHNmeVMzazVFMnJxNExqY3lKdEdtYlk2dWg3WWlzRDczcC05RzItUEl5WlYzOUhod0VmR2M?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "cat": "Canada",
+   "date": "2026-11-24T11:46:18+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Mortgage and refinance interest rates today, Tuesday, November 24, 2026: Rates down substantially from yesterday and last week",
+   "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOWk9hS2NWeHBSM1E4OGRpLU1MTkFvR2hoU3MxQzhVc1BwTW9qOVR2V25aZWR0U0ZBR3AyX2NEczRWdE5YTGNzWHZNWWFNVXUzUXdkMW5fUW1tWXliLWlmc2N3OV9OdDg3d3J0Z3JQeFZNZEtpMi00UkkwbF9nS0dlR1ZMdi1jWk8wRE9ZbzgyX3VHb3NQNnhzbDB3dUhqQUFhRW5Nd0Vtbk5XMlB1cWZ2TkYwa0VFczJNX3FVLU9NRVlNSklzNFViXy1ncHpQMWZkSVJwMHAyUUZZNlhMeWpsZ29oS0p5UEZhYVc4aWU2S3RZZzU2VkVWUVk1OGwwYS1ubDVLQzdUNmRoMGFfQ1RMQXk3U0hfeUJoWUY4VUNPUEdtdk5r?oc=5",
+   "source": "Yahoo Finance",
+   "cat": "Mortgage",
+   "date": "2026-11-24T11:00:00+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "Current New Jersey Mortgage And Refinance Rates",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HYjNhaW5VclE5MXRMNHRqd2ZsVHBWWkxNM1ZRbHBZRkR2dHBwRGpQNXY0ZXNpVDliTjM1YjEta2FURnhiSmNJNVpDcVlDVm5vWTNGSW9ld0JsbEotVkxKODNNa0I2ck5venhFWk54dnZtN2Y2?oc=5",
+   "source": "Forbes",
+   "cat": "Mortgage",
+   "date": "2026-11-24T10:09:00+00:00",
+   "date_label": "Nov 24, 2026"
+  },
+  {
+   "title": "As Wildfires Stress Montana’s Insurance Market, the State is Getting Harder to Call Home",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT21lNUFyTnVYRzVMTnlKUzk2Ymt4Q19lN2c4QTI2d2VoaTQ4MGlRTDdTUlpPZmdWVjBPbklZQXJvUzZCVTl2VHNOOEg1eXNhMm5obW9mMFY4SDhKeTJFYjhBLXlXQ3k3RVp4YXcwaWpaLWJoeDh1bGRUakFzMGlMck0xMA?oc=5",
+   "source": "Inside Climate News",
+   "cat": "Insurance",
    "date": "2026-11-24T10:00:00+00:00",
    "date_label": "Nov 24, 2026"
   },
   {
-   "title": "Customers say S'pore renovation firm JM & Sons uncontactable, 1 family left without usable kitchen after paying over S$20,000",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hd3pMSFV2YzlRdUN4RTRhaUhfeThvUFg2allnMFY1TlRDTVdnV0ZnajBDOHcxLWk5VlpTaFVwMGlaVkI4U0hBalFMcnZEbDZsRVVocFBIM0wxa2dYRENpZzJKblc?oc=5",
-   "source": "Mothership",
+   "title": "Home improvement scam cost West Hartford residents $40,500, warrant says",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS3lZNnQzX3NadE1veEJ1eE5sVUpZSmQxTzNwQ3lCcE44RXNZZnF5U1VrSjRZbUhXVWJIU2c2dllVZElRQzJlSzNzeWVWWkJFVEJlRnZrdEIyaUZoei1jdGNHTmxEVXRfTDlrb19DbmlWQXp3aVpyZG94bVJNSkM3dkJaMXhtbUI0SkNxMmIxT3MwSVN4SnlwQTNtbW96YnZHQktPdjhIR0JaTVA3UkE?oc=5",
+   "source": "CT Insider",
    "cat": "Home improvement",
-   "date": "2026-11-24T08:57:39+00:00",
-   "date_label": "Nov 24, 2026"
-  },
-  {
-   "title": "Mortgage rates today, Nov. 24, 2026",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFLVMwV3lXcFk5WWlCNkEzbFJzVmRvcFhlMUQ4ZkxYZTkweW9IclRqT3JPcUhZWS01UG5kZ19NSzd5LXUyRWxWaENlX1p5YUtMaTNWUHE0V1ZUU1h6c0VnLV9fOUlvQ29ydWFiQm1Wdw?oc=5",
-   "source": "Fortune",
-   "cat": "Mortgage",
-   "date": "2026-11-24T08:01:00+00:00",
-   "date_label": "Nov 24, 2026"
-  },
-  {
-   "title": "Current refi mortgage rates report for Nov. 24, 2026",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wUGR0dW52aTBudzlHYWpCeDEyTjhac3FSQ0FuczBvcG1HYnBKUkIzb0xxX3JZUEhwSjc3eHp4WEMxemJQRnJLR0VVeW9kZ1NzNGs5NjBVMEhCZkZ0c3h1cmVxMElJYl8wQVI5cVdRX2YydVE1?oc=5",
-   "source": "Fortune",
-   "cat": "Mortgage",
-   "date": "2026-11-24T08:01:00+00:00",
-   "date_label": "Nov 24, 2026"
-  },
-  {
-   "title": "Today’s home equity loan and HELOC rates, Nov. 24, 2026",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RY1hBNnA5WWVURTlFRTh1RU92VkhiWHF1Tk50SkloUlhCaGVIa0FIM3F4X016aWs2WC1uQXlzQkxtRUhld2RucVp1VUkxR2Z1LXlLN19xVGxBNTYwVnFCNEFfdWZhNWh5?oc=5",
-   "source": "Fortune",
-   "cat": "Mortgage",
-   "date": "2026-11-24T08:01:00+00:00",
-   "date_label": "Nov 24, 2026"
-  },
-  {
-   "title": "FHA borrowers may be released from monthly insurance premiums",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZm84ZVhSSDFHUHhvZ2tHOUE0U3RYWVIzTERKa2xXdlJkY2NMYS1DQzVTaWNLOUN6RTFVSFQyNDJZTzBnb3lGamhNMVdnSDFERl9tTWVnaTBpbS10S3hJWWtKNm4zVkFCVEVzTVlUeGVpWU5ISmtGWUxaQzl3NFNaYXI4WEdtaGJMMVNIVHRqWDZVZEVtTDVyZ9IBngFBVV95cUxQbFVrSThRbnRqWTJBVk9wYnYtXzdWQzFLTGZKMjUzVmxUSHFURmxiSTJSUGlLOFdyNHRyNzFuaDhxV1EtNTRnMkNaZV9BWHVBUTZjWkJkMTBHTDFGblFjbHhiM3Q0R3M5MDRqMjFTV3kxcnVYSEhQNWxvZEZNUGpsbTZTYmtleVAxUW1UdE5US1dua2lxdmJEeS10Rk01dw?oc=5",
-   "source": "ABC27",
-   "cat": "Insurance",
-   "date": "2026-11-24T07:17:09+00:00",
+   "date": "2026-11-24T09:06:01+00:00",
    "date_label": "Nov 24, 2026"
   },
   {
@@ -59,27 +411,11 @@
    "date_label": "Nov 24, 2026"
   },
   {
-   "title": "10 Largest Mortgage Lenders In The U.S.",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05OVpmV1hlb01SZ21oN3ZhUWhwdV9VSVBjSDVxRGN3RXhIRkVjcHdqVTFLUjJFRm1zTHpSclpaa2pja1dMYkp6MGg2YmtqUFllZWtsX1BBbFU1Z3RVNVRRTnB1d1ZEM1VDdTBENg?oc=5",
-   "source": "Bankrate",
-   "cat": "Mortgage",
-   "date": "2026-11-24T05:28:33+00:00",
-   "date_label": "Nov 24, 2026"
-  },
-  {
-   "title": "Canadian mortgage delinquency rate reaches 13 year high, report shows",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc1ZOckpPa0pWVHpGY2xfaXlCQjRIZHVhV3E5Ukc4UTBHa2dtX19DUFo4YWQ4RWJDMXJTaFZ6R0xSZ3ZTT0FWNm41YXRGZkRkc0ttZ01NZFVObXA5VXhDQ0FJeFl4eGJINEdWVHRMbUN1RGd5OFZrZEQ0cEc5Mi1SUl9ma0hSTDk5X29iZENJaWRGcldrQ2JiOWlGQjZQa1pocWlhQklMUzl1XzdjMGVzdzVyRHoyNFNuY2F3?oc=5",
-   "source": "The Globe and Mail",
-   "cat": "Canada",
-   "date": "2026-11-24T05:01:00+00:00",
-   "date_label": "Nov 24, 2026"
-  },
-  {
-   "title": "Taiwan Housing Market Stabilises, but Inflation and Unsold Homes Weigh",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZFRoZC1jdDlLSWdtcnJMLUJMclBWZ0hKNDdIWlJLdmxxa2ZSOURLbm9MNm1RU0VDZnlJNS01R2pNY0tJYng3c1E4cDlFMlBOTVhBS2ttZE51c0RPYzNWQVpXQ0N2ajVMbE9GUzVNZ3lWV2NoRjJzaERSeGFzamVZNVJRU0RibkFpNG81OWp3VXZZVkNuUExsa2tKOEdINnAtOU9IVElZYjMzQ05JRlJWZzdMM3k1aXQ2U3hqRkJ3?oc=5",
-   "source": "Realty Plus Magazine",
-   "cat": "Market",
-   "date": "2026-11-24T03:53:52+00:00",
+   "title": "FHA borrowers may be released from monthly insurance premiums",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ29tMXJSbnRnajJydVBuaEhxTXFjd1BYM0ZFU3U0QmlYT1Z6X1VwdEVhSDJ6QUNnaV91UDE2MURSQURuTHE5T1hnMVFoekQ4aHk0VU9jYnN4STQ0YXNpNmoxdTAyR21xM1BrdGRuUEtMY3VzMHJuS3k0OURhVUhld1NRNnVSbkFqLVgtOFAwMVVkZ09CM05YeFRZaE_SAZwBQVVfeXFMTkNvbTFyUm50Z2oycnVQbmhIcU1xY3dQWDNGRVN1NEJpWE9Wel9VcHRFYUgyekFDZ2lfdVAxNjFEUkFEbkxxOU9YZzFRaHpEOGh5NFVPY2JzeEk0NGFzaTZqMXUwMkdtcTNQa3RkblBLTGN1czBybkt5NDlEYVVIZXdTUTZ1Um5Bai1YLThQMDFVZGdPQjNOWHhUWWhP?oc=5",
+   "source": "FOX 5 San Diego & KUSI News",
+   "cat": "Insurance",
+   "date": "2026-11-24T06:17:09+00:00",
    "date_label": "Nov 24, 2026"
   },
   {
@@ -88,38 +424,6 @@
    "source": "themortgagepoint.com",
    "cat": "Insurance",
    "date": "2026-11-24T02:46:33+00:00",
-   "date_label": "Nov 24, 2026"
-  },
-  {
-   "title": "Lee Warns of Both Price Spikes and Crashes in Housing Market",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzcyejVxZjdveWdwU0NMVWlOMml4N2t4NFhmTEFBU19lUm4tc2lUZUN3cFI0bW8tMUxsemo5eHhKamQ1Qk1zaFRET1poWWMzSXFEdC0tV1Z5c2F4cTRreWlNNUtGalhKbmtZRV9aMUZ4dU5mMTRRc2dUVTh1XzJLYkVnd1RhVkREOThoWlFFbXNQNzVPNzNpUkthaDNkcng2X21NakpB?oc=5",
-   "source": "Seoul Economic Daily",
-   "cat": "Market",
-   "date": "2026-11-24T02:04:55+00:00",
-   "date_label": "Nov 24, 2026"
-  },
-  {
-   "title": "Seoul’s Home Prices Keep Rising. So Why Does Buying a Home Look Easier?",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3o5MTN4QW5RT09RWmxFT0NuZHNLcHQ4SU1ZaWV0SU0yZnAtbmt0WjN2dzlkVmNoODZyTG01blNEWExqLUQxOGgxcFgxREhsc0pab21HS0VaSDYzaGlHWFFPcUk2bXdGOHE3R1lEU2JvQndjeXJoQTdxSHM0SXpKcjktcTRDT0FhZlp4U3Q3cjR5QmpuQkh2QTB3eExMSlhH?oc=5",
-   "source": "Koreabizwire",
-   "cat": "Market",
-   "date": "2026-11-24T01:28:58+00:00",
-   "date_label": "Nov 24, 2026"
-  },
-  {
-   "title": "Home Prices Also Jump as Medical Schools Move In... Housing Market on Alert Over New National Medical Schools",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92ZEtVOXVXQjNKeFBKOGdJSEI0U1loaS1sRHVFQzJMdURhUVFiNGN6bjNZRklYRFhRbmNLSnA0Vi00TE84ZlpLRFZ4UGpnVDAzamxqOU9mMnU?oc=5",
-   "source": "파이낸셜뉴스",
-   "cat": "Market",
-   "date": "2026-11-24T01:18:01+00:00",
-   "date_label": "Nov 24, 2026"
-  },
-  {
-   "title": "Home Builders Diversify Into Remodeling as Sluggish Housing Market Persists - News and Statistics",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdjFWcHlNNVhWOVY2d2Z0d0poWXJLb1g0T2xfdE0yZTl3SVc1TjlobGJzc3ZobkxMSVpMMjNDdjVlNFFwUEs0X0ZrU1VoZjJ3TXIxRkJscFRvTlJVUWhzcDI3Vks0N2RXTjd6WTFmUG1ic3dnOFBlb0JpWEVWb0xwWmR3cVRGVGlIWGw1RzdBNFJ6VzI3ZU44dHZrNktZXzk2YVlGZ0s0NDBiZXdmd2hWNktn?oc=5",
-   "source": "IndexBox",
-   "cat": "Home improvement",
-   "date": "2026-11-24T00:01:07+00:00",
    "date_label": "Nov 24, 2026"
   },
   {
@@ -139,14 +443,6 @@
    "date_label": "Nov 23, 2026"
   },
   {
-   "title": "Canadian Mortgage Growth Hits 2001 Low, Distress Borrowing Rises",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQWRoSjF6MklQdE8xS3EwbWFpQTdtQ29qemZ5bmdZZXM2QjNBejgtNTlRU2NnMVdsWWZTYnZ2b0ZYSWtNaDRTX0dzTDJEaTZ3Z0NCdy1taXpVOUVfb1FKWWFlNnVsSE9ieVRmTUk0dlo1a2pLQ3hnM3ZxcXlJSFFIMUZNVTlMcG9laEo4UkZvZkpqMmRZVFE?oc=5",
-   "source": "Better Dwelling",
-   "cat": "Canada",
-   "date": "2026-11-23T21:56:37+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
    "title": "Stand launches Colorado home insurance with wildfire mitigation discounts",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN3FBamJpVHNlWlVrTk5tSl84LXg3aHVkQXZneHJCU0MzWlpWS1NvMU5iWDJPWG9yRmFwRV9mTFRabHJaQlhPQUJUTVBLVUVXbmk3S2Q3UUduN3YzZUNBLUxtSHZkNC1HNjEzVTJXVG53VlFYR0RfNEtzcDl1dFJENll1QUZzbUtCclQtWQ?oc=5",
    "source": "ColoradoBiz",
@@ -163,83 +459,11 @@
    "date_label": "Nov 23, 2026"
   },
   {
-   "title": "The Relationship Between Fed Monetary Policy and the Housing Market Is More Complex Than You Think",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2lDZUVGSGhEOFNXS29oUFRobDhjSWZnTzN3eTltaVJqNEZNcnJscm4tTjJrRTloN1psd1JPaUpCaGQ4b0ZCMzM4LWthMFl1aFZFUE1YY0FRWExHcGF4TXRMRkFCdVcwenlVWDJkOE5BcXZOdm1uQ3RmMmtoVGRjT2h3eENNejJjRXYzbXJzaWNJTUtPZHp4RGs0QmY4VHR1S2NRX3Z2VmNvZGFsclY0UmhnS2Y4bFJTSmJlY0h6ZDA5U0dSWnB3ekRqR1NGTEVWejdyQnJTbw?oc=5",
-   "source": "Darden Report",
-   "cat": "Mortgage",
-   "date": "2026-11-23T21:28:48+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Mortgage Rates Just a Hair Higher Despite Early Volatility",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vTDdwc3J6dWcwQmxpdHVndEx1LWpuTGV1RlUxWGxERXF5UzJkZ25LelFxWDZyTTlIMmRob0kycF9sOTdJZmV4eGFMbWNzcG5XbEJITlJBZEwwYTZmWTRrYXlvVmtSNE5IWnZPdEdJRWFibXfSAXRBVV95cUxOVzlEdGM2VzJlX3ZhR3ZVQThwcnNYRVFQa1JoOGdxdjQyUFpLWDVJYTI0MWIxOThHNXQ2U2VwSDQxNS01OTlyd1ZtQXZzRUJISFpTdzJyVW5QM2VqOVhsN2F3WE9rYjQ3MGktVXpNZG16VFg5Zg?oc=5",
-   "source": "Mortgage News Daily",
-   "cat": "Mortgage",
-   "date": "2026-11-23T21:15:37+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Canada Housing Starts Fall 2.2% in October",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdnBTdVF1MFhCT1c5ckI1a3d4S1pJbVhqSUhsSUdtUmMzaGZ4LXNDZGpHaDJ0R0NQUUJZSndEU0VkQTRRblZfcGtmR3NJdkZvNm03NGpycGN6WVZSVVlEU0FKZ2pSSlhFVmFrYlZXVnQ2Qmg1VGc2bFZ0VDB6YWhmbFF5WFk2aGZSSjdONHdPYw?oc=5",
-   "source": "WSJ",
-   "cat": "Canada",
-   "date": "2026-11-23T21:00:44+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "What's Keeping Mortgage Rates So High? Numbers To Know",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rdXFsTXlmTU9SN1V5NUFGaW50cEJKU0pueE4wYWlIVXFkUE5JcUthOUNnLXhfaWlaZlVoVW9WZlFZTUlnM2V3ZHJVQ2R5N3NIN0F3SVJZZFFMRGcwYXJmeUs5T18tLXZyNjc5bS1Wc3JzQQ?oc=5",
-   "source": "Inman Real Estate News",
-   "cat": "Mortgage",
-   "date": "2026-11-23T20:55:32+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Las Vegas ranks among nation’s most expensive housing markets as prices cool",
-   "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQR0RXVWtuNllUZTZ1a2s1cXZVeTBEVmJZNW01b3Q1ZHpHQm1wM3ZqOU5xTzFUNkQwWnpNVUNxVUpRYnlQRnRGajFUbHJFRjdhVHE1cUZILXBERm1RS2duWTJFbVljUk9wR3B2RTNtVHFSSERrNG9rT0xJcTlrSmhBc0RSQ1lYSC1FbE8yYlludlp6R1pZcnFEdHBxZnMzYjdKQ1dONzZJSUNlWE8wUWZELUlyd1BtdHVHbm9fajd6bFRFbjBqZjV1Mk5CZFl2Q2xVT3M1Wl8xNG5MUE54Z1pvQXVzS2t0alVTMGNsMHVob2RidTllb3gzM0tZTW5oU3JmYXZzbjd5OUlWOHJoYjZ1NWpEdVBySmw2UFpaZmxEU0tPd3F6WVdfVTY1ZEEzNkFjWlh0YjFsYXVqNVE0TVhRZ0pXYVZfN1FrclFPNk9yT1RmLVV0Y0xhWDBuSFVFLXNEeElKaU1vd2xMUnVHaEFiUHRuSzBFTThmWkw2a01XaEV5QlNSMkgxT2YtVlFRb1VnSkVVWjE0aWs1M3pSYmJYR1dxZnF2a2ladV9mUV9IdmxSNkVLWVA0LQ?oc=5",
-   "source": "Las Vegas Review-Journal",
-   "cat": "Market",
-   "date": "2026-11-23T20:37:15+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Longleaf Pine REALTORS® releases October 2026 Housing Market Update: Inventory expands as sales slow",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUjJpc0RBeThUZTlURGg1TzlzT3RiLXdqUk9HN2pOcG91WDlFY0ZlekZIa2Q1QVRBb2w1RGpuY0JpaThhU0VWLW5DeXlkMmtNazM4c09oTnRTTmlRQlBYNDFfZEZvUmlNWVNjWWhVN0xLeHNmVDV5VG1GYlptZVFHRkh6bEpuYTBXeXZlVEdFMFBMTGRxYWdhcG02WFVBVV9vYlFVWDhKU2dFX3pFWkw1UjdVd2V2ZkxpNmlvQlhEa1M2VG5DS1VqT3g3OHdfZEZwTXB3UFAwYTRFR0dBUUdUY0RpeGZ4ZzVmWkRwOGFGeUZxbDhIejM2YWpn?oc=5",
-   "source": "Greater Fayetteville Business Journal",
-   "cat": "Market",
-   "date": "2026-11-23T20:36:11+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Cost cutting is not cost reduction; builders and trades face a test",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYX2E4MlF4M3E3Z2FUdlBMMlFtclZMYmNPV1ZxTi03ZWQyY1ZuM0hSQllMaGtaZkxmdzA0eUZCdEtzYUt1ZUFrVS1YQU9yb3lwdmJrLXZ3eXpEVDhqVHBGX1U3amdRTGlzaUtxV1hBbUtaUHBtY0ItU3FxY1c5Y0k?oc=5",
-   "source": "HousingWire",
+   "title": "USRI finds High Costs, Weak Demand",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wY2E5RHVLNHhPYllZTW5EbHRmWkVfTkVLaVVKeDZDc1JHd2xweUg5ZlJBWWZEUTU5eEdabWJYb2ZhZTlsRnhKLVhneVRheTNzTTQzU2RDMHZDQXhzQl9BbjhYUG94ckdsdkQtWElQSW1TZHJmQk1Ncw?oc=5",
+   "source": "Qualified Remodeler",
    "cat": "Home improvement",
-   "date": "2026-11-23T20:31:41+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Dominion Lending Centres (TSX:DLCG): What Does Its Quarterly Dividend Mean?",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmhyZnJpZmdUQTh1N2lKcGE0M2xWZjNvTmczb3JPYkxKdDdYc054NnBZYTNLUVYzNFVwVWxQTktTc0haSTFWR3R4eS1POFZDNmdDemJFZ2dpOUZwaEpSSTZJb2dwLV9WV0pPVVAtWmpIZUpkTnBtSm1MdjZsdHVPZTBPaGFhYVhydlNlQkdBNXkxeERQLWVBeHBrSjdyQUpHNGxRT3NWcmd1WE45azBXQ1duMFVXQQ?oc=5",
-   "source": "Kalkine Media",
-   "cat": "Canada",
-   "date": "2026-11-23T20:13:00+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "M3’s Bernard talks CMAs, importance of recognizing top performers",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOUo0eUU4YWZMSFNaTk1zVkZib0lVMU9aVnMzaWZyVU1HU3ItdFBSZUNaZ2tWczgwT1IteTRrVnhBT3p2dnJKT1dqelZLdWxiYnpWWUV3dFAxYjVHS3p2VWRfemh6YkhLSU1makFqOG1Cc2RjRVRzQkdUQktKNlBHVW0wRFZSbzRXSHJUZ3cyRS1XZzc1NnZyMFJheGJ3SVZCZkpYVmsxNUdjNjdNNlJneGQzMWhFSnZvc0pWOExhM3BLSzQySUpGQVVB?oc=5",
-   "source": "Mortgage Professional America",
-   "cat": "Canada",
-   "date": "2026-11-23T20:07:43+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Water main break at Greenfield Gardens",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGxweG9zeldmb1dVQmxiZkJtWUdRUEI5ODl4OE9WQUlYeW44UWFxTlZnWTJrcW9SaUF4YWFTNExjN0ZhT2ZQcEdZNWZrUGh5cmVBSDVOT1VRdUM3MkVJTnVYd2hEZFMwSHppc3NUNVNPWGRwQlc0V1VMaGgxeFUyZWhRRVZzQndy?oc=5",
-   "source": "Franklin County Now",
-   "cat": "Market",
-   "date": "2026-11-23T20:04:47+00:00",
+   "date": "2026-11-23T21:25:57+00:00",
    "date_label": "Nov 23, 2026"
   },
   {
@@ -251,43 +475,11 @@
    "date_label": "Nov 23, 2026"
   },
   {
-   "title": "Ontario mortgage arrears near financial crisis peak: TD",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSWJNbHk0Qjh5VkJaUlN6TWRQYWlnYzBZTDMtbjRRTEl6S1VJbUp2d3h1X1d4Ri1XODRDSHNSQ0NrektFcXg4TmtlMU4yNWE5Q3ZNRGdTcm9ramgzS0pJUk85Q1dKOTd2S0RINHQzOElLbXFEWHNWcXJ3Z2xMVGg4R0RsemFiQXVwa0Z5VDNmRGI0eFlUdk43YTMxUkFNRDlWYlBCWA?oc=5",
-   "source": "Canadian Mortgage Trends",
-   "cat": "Canada",
-   "date": "2026-11-23T18:20:42+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
    "title": "New Homes Are Now $40K Cheaper Than Existing Homes",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY3YwTmUzNFMzaElWRjJDT1l0QXpkMENwWVBLNkFFQmhtc0J3ekYwU0ZLZHlsQzlvZXBpRVVfRzVhX2p1NUI2a2lDZWFaTXR6a05CSnZyWWxEc3VNNjZGMnhweWxNaWNSVDNqd3l0MGFiWVphTU4wZ0JROWxxRThjZlZtZEZfa2JEQnNKNEdUTQ?oc=5",
    "source": "Realtor.com",
    "cat": "Market",
    "date": "2026-11-23T17:54:33+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "FinancialContent - Five Minutes, No Cost, One Public Record: Phoenix Home Remodeling Shows Valley Homeowners How to Check a Contractor’s Arizona ROC License Before Signing",
-   "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNMUFvWGdmWFRWQ08zSmc4TVdva1JWUG9lX21yeUFSd2pGM2t0N09ya1ZvRzZSNmRZTzQ0S2VrMm5KRmlndC10bVhiU0Yta3BFeHI0TFh4d2xhYTFFdW1tZjF5T0ZHQjdvbGRlU1ExbG9GWTRoQjBxU3VCUjBmSV9CeHBYQTU2Q0dNMXdIQXh3dVNERk5wRWt4eFBxZVk4bE0tV0Y2VGVZQ3JwdXp1eXN1MGVTNkJYOE02VXR0MFBLWGNLd19lOXVGZGhIdlpfY0dOdlljV2Y0WGRZNmw3eG5xVjNZNjNnekROWGlnUXNpRXc3eGpVYk50R1hJbmVubVo0aTZ3TU9FUGo0R1NDaTdVQUMyUTJET0FvWm53eDNsSlVuTWk2WVBKVE1JUDRwMU1nOThickdrd1lZd3dQZTJvSmJPXzQySEN4REE?oc=5",
-   "source": "FinancialContent",
-   "cat": "Home improvement",
-   "date": "2026-11-23T17:50:00+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "UK property market is ripe for disruption, Cotality MD says",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeng1a2pqNDY4TVZCTHZjNlBocEozd0lPZUdqT0U0aG9vRFBCUElMRkVXSnZGOXRFOXRpRV9nZUprdk96aGlVUTI0YU5kNjFHWjBERTA1dy1rZDc0MlFwbGlvVzkxUTNxUGlaWEh2ekU1c0NHUmUwTExNZ214TWEtYWVhbVBnR21RWWE2VHZQQkJtUDdyOWxQRUNSOEFKTkF0LW5aSUJuZ3dQbk8tdFVBVDNINFBrM1paWXc?oc=5",
-   "source": "Mortgage Professional America",
-   "cat": "Canada",
-   "date": "2026-11-23T17:15:22+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Erie and Kenosha Are America’s Hottest Housing Markets",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN01FRnNBRTZYdGlfMkFmQ0tzcV9NRXBBSjRBWEVZWXMxV2xXQ3UyVnBFYy1WcUpHY2tBd0EzLV92OG55Z0JXUC1uNWNhOC1HX0pGZFhQYVRhaVRPcVpublJqTVMya2htYW9GMU1BWEtOWndROFUya2tCSkpQNHEtVktjdWIyRVE4NHNfZXBZY2dpVm50aEhlTnBxdTJuUQ?oc=5",
-   "source": "24/7 Wall St.",
-   "cat": "Market",
-   "date": "2026-11-23T16:38:00+00:00",
    "date_label": "Nov 23, 2026"
   },
   {
@@ -299,35 +491,11 @@
    "date_label": "Nov 23, 2026"
   },
   {
-   "title": "Examining the Contribution of Building and Technical Codes to Texas’ Housing Affordability Challenges",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVzl5Mkh1dzhqalg5ejYwanVBbUlGQnU1XzZlV0Q4TDZhSXhUODhOeHdUWnFKRU9oTnFPM3hYOXp3SThpN1F4VXJveGFaVFppcHNYMFpSaWdiTkVTS2ZmOVhjVm0yQUZLWGxmeGpLYUowd0ljeFI0czUzS1czSndlTVdSM0tkZTFvWTJsamtwTW9VempWSGRyU0Z5ckFPbHR4TE5pQm8zelBzZVRJYXRqRVV5YURvdmFHdWtSVHMtdU1nVGZ2MTRFWg?oc=5",
-   "source": "Texas Public Policy Foundation",
-   "cat": "Market",
-   "date": "2026-11-23T16:20:25+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Luxury home sales slump in Toronto, Vancouver, but top-end properties buck trend",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMkZoTG02MjE2dDV4VzJkcVJzSjB3REZQM3RheFRCMkpxcUV5dG4zNUlRdUVzMTNNU05zQUItYms0UmJWSkpkblRoeFRFbVRmbTFKejlzbFJLNTZuN0dJeGxmZ2RSYWF1SENlMWZrdUFSNUswb0N3UlppUlFmZms0TkdBb01MekJVekJLTklnOGFncHFxdW1YdTc5RURueFlBV1kwQm9pX1RYYjlKTjZ2MDQ0V21vdkNqbFUzaFdacEtDaVBm?oc=5",
-   "source": "Canadian Mortgage Trends",
-   "cat": "Canada",
-   "date": "2026-11-23T15:41:19+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
    "title": "Rising Insurance Costs Are Reshaping Residential Real Estate",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMzdJaVJ2Rk9td21tNnltUnZxeWlSRUFWRXZPbVpEM0xZZDlVRnd4dFNQSmtnTE9jbEpXSWZSczVHbGZuOFVaN3lLc19DRHVqcmlXa2t5MEIwZDFyWVN5RWNsTWg0N3pFODNmU1ZqMFczbmM2X2s4MExnQVVLaDVkNFNtNjJmRTE1MzczT19kUXM1bng1RFU5N0hVYVlXdjdj?oc=5",
    "source": "citybiz",
    "cat": "Insurance",
    "date": "2026-11-23T15:27:45+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Mortgage Rates Today: 23 November 2026",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RNjQ3M0x3M1JqQ1BhbVFVRFlhWXpMMHhvVnBjWmdNY1RtdkhJeTBXSlpUOTUydnI2ZU5XMnd1d0RaM3FRX2lGaDV6NkxoX2FvMUtDUnFpRkhWNXFvUTkwSENQZnhxYUU2azFn?oc=5",
-   "source": "Forbes",
-   "cat": "Mortgage",
-   "date": "2026-11-23T15:10:00+00:00",
    "date_label": "Nov 23, 2026"
   },
   {
@@ -339,107 +507,11 @@
    "date_label": "Nov 23, 2026"
   },
   {
-   "title": "Mortgage Rates Today, Monday, November 23: Decidedly Higher",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObFZrTGpya245VUl5WjI1V3JXenVvUl9uY1A0WWtIekE4LVZzanRSOWdRbGRyY29RTERXcmlTempXTldWUlhDMWNfUVZ3THlFWF9LemkzdzVIaEppWmMtbS03ZXNLUFpWdHFucC1zRUt6ZVpKZHBsOEtvNmFiM0REV1REZWtHcHQ0WmtJWmRlaw?oc=5",
-   "source": "NerdWallet",
-   "cat": "Mortgage",
-   "date": "2026-11-23T15:02:14+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Inflation-linked bonds face extinction in Canada as prices spike",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM003M2M5eEVlVkU4bVM3eFU3Vk1UaVM0Q0xTWmhseHhjZXhJNm5CZkE2Z0ZFbzZXQ3NTNUl1VkxQSmJZeW9LejU2eXZqLWQ3X0w0b3gzM0pIU0JRTmpwb0pPdDVNSzRBOVZXZXNRUWMtUzZZcW8xQXhDUUNhTXJVcW43RTNrVVZtaWdvNlNMN2s1Wm9abU5JN3BzeGdmY2R1V00xMWp1X0dxNEtQRU9UcmhR?oc=5",
-   "source": "Canadian Mortgage Trends",
-   "cat": "Canada",
-   "date": "2026-11-23T15:00:00+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Home Depot (NYSE:HD) Stock Price Target Lowered at Guggenheim",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSTc2dXl0ZUN4eEFoSlFxTzFRbzFZZzU3UDI5QVB2QmZsQ1lwR3ROUUpfQ0VZUzJ6Nk5ZMGhRZzNJb2JFN0ItYmd5bUVjWjRGdjRUSS1VLXZWQ3ZScllLOGhWMTVRMkdpeGRRQk5CNTlHZE1rQW9WTjY3dFhyRzF0RUpDdl9qcG01YWtyMkRmNkFDTVE1SHRsYWxZQlRBWGI4RkJ4NlUwQUZGRmRhNm1PV3ZnM0tKZ0tnU3Z0OTRB?oc=5",
-   "source": "MarketBeat",
-   "cat": "Home improvement",
-   "date": "2026-11-23T14:48:31+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "El Niño flood risks expose US insurance coverage gaps ahead of winter",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV2tPY3VtWDhvdlI3MlBuUTk2Qnh6OG9oZmoyem8yQm53OVJ4dHVMcWpQa1NhSHgwdzJCNWw5Y0N4MW5sTWJ3elMtQnRMSEN0TW15VnBzZElFYUFscDU1T3NLNXRBa3BoZnExZ2ctU1pvUm9wcWhqUXJQVUhsbmY5ckNQMjZZdFU?oc=5",
-   "source": "Beinsure",
-   "cat": "Insurance",
-   "date": "2026-11-23T14:33:17+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Mortgage Rates Today, November 23, 2026: 30-Year Rates Climb to 7.40%",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPem9XRUFYSmx4TkdHYk9Qa1FsMW5fakR6cHl2MmtPTFd5bE1NZjNpU1FicW1QUEdEVG1PaXNWS1U1c0h6VEtURUt5VVpldkhndi11X0F5cFozM2ZiZmdVeUI2UzREODVRSnJFMk1OMzFoY0hsMk93NWUyMkFMOElOd256MFVobDh5RFA1eHV3?oc=5",
-   "source": "WSJ",
-   "cat": "Mortgage",
-   "date": "2026-11-23T14:05:20+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "In HelloNation, Insurance Expert Chris Callahan Highlights What Greenville Homeowners Should Know About Wind & Storm Deductibles",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSDZaUy0xS1RncWloRHhNd3gycG9lY1NCMEVqN28yelJSYUFmY0xuMG9uQkFna0dkYUlWU2NlUGl6SGFnXzNSR3RJLWZ4NnFFVlRiN3dack1FbFFoOUdUemxna2d0WHMtU0Q4NnhzZG9mZ0lEQlVXVzYxUHZUaVVqMldveVhUOC1VNUo1WjZVQTJLY1EyTms0aUNjaGgzNjY1WV9kMUROejQ?oc=5",
-   "source": "Yahoo Finance",
-   "cat": "Insurance",
-   "date": "2026-11-23T13:51:00+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
    "title": "Mortgage Rates Forecast For 2026: Experts Predict Whether Interest Rates Will Drop",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kMlJHRWhRY2owbnpsZWhWOHVVZFR1ZmM3NzhqTUVEVnpHR2xlMHp0QnR2eXFwV2wzQ2FMbXZTN3lTLUJ5OHgxdnk0S3Z2Q3hEQ2pEYW9xcWhrRktVS3B0RXB0NkdnM0hPMzBReG5neWZ1TTdvVWs4bWgxdWFNUkk?oc=5",
    "source": "Forbes",
-   "cat": "Mortgage",
-   "date": "2026-11-23T12:32:00+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Current New Jersey Mortgage And Refinance Rates",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HYjNhaW5VclE5MXRMNHRqd2ZsVHBWWkxNM1ZRbHBZRkR2dHBwRGpQNXY0ZXNpVDliTjM1YjEta2FURnhiSmNJNVpDcVlDVm5vWTNGSW9ld0JsbEotVkxKODNNa0I2ck5venhFWk54dnZtN2Y2?oc=5",
-   "source": "Forbes",
-   "cat": "Mortgage",
-   "date": "2026-11-23T12:32:00+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Current Georgia Mortgage And Refinance Rates",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xbGdsUk1DdG0xLXhoNERSSGxMUnVSYlN3SkRtR2VwdWFKWG96eTNJZDhJT0NneHVnNWctUnZLRnVQSHRldTgzR2RYMmUzR1ZjcC1Ma2h6YWs3SEpUR2tkWktlVTFfbWRrek5wdXMzbHY?oc=5",
-   "source": "Forbes",
-   "cat": "Mortgage",
-   "date": "2026-11-23T12:32:00+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Today's Mortgage Rates: November 23, 2026",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rdmpsVUwtTnZNcjlIbUQ5a0oyZDlUSV9IV1ZYQy0yOHViOEttMVlsTXlfUVEwcXBibVcycFRJZTY2WEhfM2Voby0xbVpIVUtMZ05j?oc=5",
-   "source": "MONEY",
-   "cat": "Mortgage",
-   "date": "2026-11-23T12:15:00+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Pacific Palisades fire survivors face home insurance gaps and soaring rebuilding costs",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSGVZQUVGNkJQTVdBcFJGMnpIWkxGcXBmY2VFX1hnZXpvR1NWUzFURXdNTzVWY016SmhSd2xBYWpEdWtGUFVVRkJQNlluQjhyQ2Z4MUxoaVk1Slp1MzR2cTJQRmtPVk5UY2ZDdHExMzlpcUJBNnJFWmhmVVRiMWJkRWszeFVVQQ?oc=5",
-   "source": "Beinsure",
    "cat": "Canada",
-   "date": "2026-11-23T11:58:15+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Mortgage arrears in Ontario approaching levels last seen in 2008 financial crisis",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWlRLYkc2Vko4M01iUGMtc3NrMjBjUVFYX0p2bjZBTkdCTWdoUDRfdHBEcnhuZllkcUNlV0FmVHZoako0NExWT3VMWjBaZThXdlY0UDBDSUN3d2FOdVY0TzF2NmJfZWg5MjlhY1BtZVpPNHBvNHpGeVR0dENER1A5aElCVi1yeUJNMG5TUFg1d25xQzRzS1RFOHgza29hcUZfQUpsWW9ZcExYT2xpS1g1dXd0dVdMenZMUTdWY1djQ2RkZUlHSDJVZlRCaFZqdw?oc=5",
-   "source": "The Globe and Mail",
-   "cat": "Canada",
-   "date": "2026-11-23T11:00:00+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "U.S. housing market slowdown deepens as mortgage rates freeze sales and construction",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3VUZ1daRFFOdFlEeDZQSEZjZmxMd2syVFpUOGxkVzJNYnJ4VXROZFBVME93ODZXc3g1MXlXc3hIMkZYanpJeFNCVXFkc1pPWF93Z2ZPUm43Tm9sVlFXUWFfTlk5TnpiZ2MtdzExemJNWDNyRGRqRzl1U1EtTnRNU2syOGlORnFJWUlXQ3FrNkNVZkdpUE02aEtacmJMMDVj?oc=5",
-   "source": "Traders Union",
-   "cat": "Canada",
-   "date": "2026-11-23T10:31:25+00:00",
+   "date": "2026-11-23T12:32:00+00:00",
    "date_label": "Nov 23, 2026"
   },
   {
@@ -451,35 +523,11 @@
    "date_label": "Nov 23, 2026"
   },
   {
-   "title": "Pennsylvania housing market holds steady in October",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcmZISy1PTUk0QTdHeUp6bTZ1eERxUVg1ZUd3QTllZUl2LS1UdTRBcGZNMDJiaU5tQ2VTNTJ6YTRnVGhXNkt3ZXZvMkI0ZWlFbGVOYURrMGJObGNJOFQ2endSazdvZHFuV1FrdG90WDVLc1AzcmNld2t2LTdyOWNRMzh0WklMaDB0eFJJ0gGLAUFVX3lxTE9yZkhLLU9NSTRBN0d5SnptNnV4RHFRWDVlR3dBOWVlSXYtLVR1NEFwZk0wMmJpTm1DZVM1MnphNGdUaFc2S3dldm8yQjRlaUVsZU5hRGswYk5sY0k4VDZ6d1JrN29kcW5XUWt0b3RYNUtzUDNyY2V3a3YtN3I5Y1EzOHRaSUxoMHR4Ukk?oc=5",
-   "source": "ABC27",
-   "cat": "Market",
-   "date": "2026-11-23T09:40:33+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Housing Week Ahead: International Demand, Home Prices, and New-Home Sales",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbElHeHdwcEtLQ2RpQlBpRHM4c1c4VktrT21BcTBqTUJ5bGNGVGV0WFhPNkxxRDk4eDVZYi1jS2xYaWkxRlNrNTc2YnA5dnFFVnVWbTFfX0Fmd3Nmc2lkLXJ6VmplY1ZGU1dDV0hxdmU4V0R5OWoyeUZ0dFh4Wmo3REcxckZwdDIwZF9aRFFpQU90RzNlRUE?oc=5",
-   "source": "Realtor.com",
-   "cat": "Market",
-   "date": "2026-11-23T09:06:00+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Best Home Warranty Companies For HVAC Of 2026",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTTVSd09qOUdGMVg2ajJrdmo4QzFrRVVDTFhCS1V0RS0xXzh0OVZMWENYYmNyRkFvazl1UXlzb01HXy1CNWJNVXJ4NlVyVnluSVp2Y1M3S0pyLWFfSElNY3BrOHNVaWxYVTZfMkNkSVVyV0FYN2pSN19Oa1RJenNRTVd3?oc=5",
-   "source": "Forbes",
+   "title": "Most high-risk US properties have no flood coverage this winter",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcDcyVFVld2JJRG1sVzFjTlNrVEdwOHRKTWtfM3JEdnNDNENJcmtROFlMU2M4bXkzU0thZFk1NTVmNm1GZk1ad1p6N2tUak5qRGZaZnVkaFNnczdKVEVZcFF3X1RSY2xlU2YzRkNsSG5CeExHcmpJM18wenZaOUpiWTllR2xlWG1YN0xHVk5YcnlLRkdtaWo1VW10MWx6VldZM2ZBTTF3NDBiZWNrX3NsTnhYVFliTTBzbXFFdEVKb0ZmV3pGWlNKeHl5UQ?oc=5",
+   "source": "Insurance Business",
    "cat": "Insurance",
-   "date": "2026-11-23T06:21:00+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
-   "title": "Select Home Warranty Vs. American Home Shield: Comparison 2026",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPckdxQ3RncDV1Q215S3RRUzBnY3BiaHRhTVE0cFFOY0Ruc0NSSmUtbjJ5M0pXNmhGY21nam1FWFNqTGx0ZThsMTBDWFZ4X05idVk2UDhOWUxVeG9VUk5pVUJhV0QzUldiX3plV0RuRVBGYXkwUFFmTW1iWm1jeGVHZF9fLWpDNzBKUzdJWU5RaElQWU1kNGd5VzlJZXN5Zw?oc=5",
-   "source": "Forbes",
-   "cat": "Insurance",
-   "date": "2026-11-23T06:14:00+00:00",
+   "date": "2026-11-23T06:11:23+00:00",
    "date_label": "Nov 23, 2026"
   },
   {
@@ -491,14 +539,6 @@
    "date_label": "Nov 23, 2026"
   },
   {
-   "title": "Saving to buy a home in New Jersey? Don't forget the hidden costs",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOWl3NVlNcmVfQWl3RDZlVHFVdnhCc29JTXFXNzVMUFNkVDFyYjgwSC1Nemt5dVd5OFBSUm1fYTlkNm1IcmF2NkNSSXBsV3FOZVVrd0s4X2Z6NEhrbVY1eFhndzU5QWhXTzI2MC1RQnlKcjRmRjhVdDNMaVNrT2JZelVuYnJXb0JBbkVha2JnR0NCTUgwX2NkcXRwNnAxZHhqT0tOakc5NllOYmY5X24xYjlQMFhGTXZkdlNfeGh5eU5NU3dIWnIwaXBfMWw1Q0YyeFlhMHhRRDFqaXpr?oc=5",
-   "source": "Bergen Record",
-   "cat": "Insurance",
-   "date": "2026-11-23T03:21:00+00:00",
-   "date_label": "Nov 23, 2026"
-  },
-  {
    "title": "Battered Home Builders Turn to Remodeling and Repair Work to Pay the Bills",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFFLd0NKSmpibGtvU2hIVGdNM1JPZy1ZS2p6RzdsbWZPYzE3WFRoOVZnVFE5WGxtRDZSZklqT190WFdiTDdMVlFTV3c3bDhFRVBLQ0VMZEE4bVc4YXp2R1JrVmo4R1dYOU80OVNnSHBnMXR5NFF0VzREQUUwVFJlWmFVclV5Z0ZrTkdlZF9HMV9vX2QzSUxES3NQYlRCNHRFSnBDZ3JOWWhxeEYtSkR2SmZ3b3pMLTMyTmVj?oc=5",
    "source": "WSJ",
@@ -507,60 +547,20 @@
    "date_label": "Nov 23, 2026"
   },
   {
-   "title": "Wood Screws Set Market To 2035: Growth Driven by DIY and Light Construction Demand - News and Statistics",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWUJ1aU0xUTk2cEJCaUZLdE4tSWhwMFN2Ym5fTXA3Z3R1eDRGcURLbFRKNWpzV3RjVWtaM3BVM2FrLUlTak9lOGJVSk1aZTE3RDRLZ3BLZV9BZE5FWFpNeDRSNzFzNklVT0RSbjR3Tk81Y0RLZGY4VjRFa0xYb2c1cDVYNm9LWVJ5TlpGdkhXcFNBS3NUR0lBUUt5bWV4YnVDN1pyRnZvSEVXc3BSVVJVLVRzdzFwdXVEa3pKTzNnWDNlLS04N0U3NHlud0l5bWhPZUFLbg?oc=5",
-   "source": "IndexBox",
+   "title": "Millennials Would Rather Pay More for a Home Than Tackle These 5 Renovations",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRnE5TmhndUV3b2o0cnlJazcwN1FWdEhZNVhGN1FsRmRGVU5pWVp5a281S0NYR2M4dXlMWF9iaGpfSXhmeHR1YzNuMjFaSloxMjNOdm8zdXFNcmtjLWZPYnI2bEJzc2U2R01zZ2Y0SzBpTEt4dC1OWWhLdHZkVmtReVRlM2hSRXpDdVljMFZFR3lBdndKc2s4WWVycVlIS01pcGpKdVpyeHVBRlhJdjR4Wnln?oc=5",
+   "source": "Yahoo",
    "cat": "Home improvement",
-   "date": "2026-11-22T23:06:05+00:00",
+   "date": "2026-11-22T12:00:00+00:00",
    "date_label": "Nov 22, 2026"
   },
   {
-   "title": "How to make your small house larger without an addition",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFJ4ZUdaU1ZHRWNtalJKSDhZQUVuRDBVTElkUy1YTWR2THVrYkdwaDUzZ2FxUDhYYkY1cHBIMDg0bkhOejlmUVBESjF1dGh1RnBmdlJPeGExd180S2VITWpaNDgyaHEtR29Dc21EUlNHeHl2T2tnOEpYS0xjanczc05LcDMxQXZkQnIyNDZOWVB3QkdaZS16d3NZUjhBcGJlaFE?oc=5",
-   "source": "The Washington Post",
-   "cat": "Home improvement",
-   "date": "2026-11-22T18:00:00+00:00",
-   "date_label": "Nov 22, 2026"
-  },
-  {
-   "title": "This Week's Top Stories: Canada's Borrowing Spree Is A Crisis Risk, Home Prices Stall Until 2030",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOME94UUlOWFNXRnBxSThBd1ozSUVQWDdOUENNeVVKUzVwcXg1TUhpVWM4VFR0SEdGVTVmMjJORjRzNnkyS09nUzNDVDRsdXFRcGYwZkZUNTczTlFtbWNSU2t3azlsajNKVXNzaVAtU0taeFd3cjBTc0F0dVJxWGx1WjRTYi1Dc282M1c3Qk9WM0pzYWJzeDBpWFVDVDA3UkNTRDZBUFFOa0FPVUhFMXJqMFBlclplM1FRTTVuMg?oc=5",
-   "source": "Better Dwelling",
-   "cat": "Canada",
-   "date": "2026-11-22T17:42:53+00:00",
-   "date_label": "Nov 22, 2026"
-  },
-  {
-   "title": "She Will Take a Reverse Mortgage on Her $500,000 House at 74 to Pay for In-Home Care amid Louder Calls to Cut FHA's Insurance Premiums. Before She Sees a Dollar, FHA Will Charge a $10,000 Upfront Premium",
-   "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQY2Y2X2FscFNCTW52SVlEUGRIM2pPaGFJekVHZm1ZRV9RWjAtVWhZWXNCQjFLdlktSGhNUUR5a3l1SmlzaWdtME1uVXozMTN5YjZwNUpscUtTZjBERzNSWDZ0c3RMYWY3b09TQ1FacXJaa2lzQ0dieENsemJpcmdiWHBDblc3blFqMFhGaEJXQVBORGM4Rm9ZY1YzaWdvNzlqaWxiVTF5NjJuYjA1dVppa0VWcUNzY3pwQkNUcjl4UXo1eEVCa3I0a0NQNEZzeTRtendhajFaVXJWVTVYeG1tSjIxNjhvNUhPTmMzUVZjc2VhZXdUdjRvUUVUQlIzV0NmempWUVVDWU1CZHZ6LUhINlN3YUNOcDNuc3p1VEtJYU1YNHktcXM0aTlRaF96MEgzRndrMFl0c1RyTkJmVEpfSHFXaWo2V2FReVBJNmZ5dkdkeG1hYzMya2tJTVRVMS1R?oc=5",
-   "source": "24/7 Wall St.",
+   "title": "How Much Is Homeowners Insurance on a $400,000 House? (2026)",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbkxLclYwcWI3cmJENk9DQ0N5LXhza1VvWkllNnlTQnFldEt5SjFLQVNrMkdqUGtFV2F3N1RqeTJhb1l3Z3cxWDJjNDU1Z1FwR3pDcENyVHBBeEUyMmYtTmxtbEdyRGlqMElXakt3c2t0Vk1sUEJPZ2VhaDVsTVBVOGFR?oc=5",
+   "source": "Insurify",
    "cat": "Insurance",
-   "date": "2026-11-22T12:39:00+00:00",
+   "date": "2026-11-22T08:00:00+00:00",
    "date_label": "Nov 22, 2026"
-  },
-  {
-   "title": "Does homeowners insurance cover Florida flood damage? Usually not. What St. Johns River flood victims can do",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3pJOGg4dHZUSXBmS3pfRHdnV2YteWhoMDN3MkdYNld1c19Id1lNM1gtTVlzdE9zYjFpWlc2R2FqTkdxWmhtTDlfX3VoOWVEQktCbHJxNWVUejUxa1lURmxmblNyVDVDOUtHU3d2RmNXdmppM3ZVeGRHdWE0T2pwc2dzMEVVbzNrS3pRUTZTcG9najVNSEpCOVViUUxmYkp1THNDTGlJdHI3S0pQOXlQRFFaYjBpZw?oc=5",
-   "source": "Nacionale",
-   "cat": "Insurance",
-   "date": "2026-11-22T04:46:23+00:00",
-   "date_label": "Nov 22, 2026"
-  },
-  {
-   "title": "Tempe Homeowners Are Prioritizing Function Over Aesthetics in Bathroom Remodels, Contractor Reports",
-   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOMlZPOEtfdlU5YVgyeVp2MThLTzdQc2lRVDd1elh6TEhfQzdiWkNGU19CcGZJbmJNMVotZmpqSThlNmJCeVJPUTc0V256YUljY2JWdmliSXJ3dmpIa0lUSnEtQnN0d1UzMVVSZklVR0trSU5EeU1HY29SdXZfamt0QmFEY0JOSFdWRTA3VU5xalNpUnpweTdmOXoxbVNhaVZ3X09BUi11aVRkTkdlUmpwREVpRlpCc3QwbnhRQlQ1NFRCV0NqQ0wwdi1mYjYxcmQ3ZkVySU9rTW4yMzBLby1qZjFtQVpfc2dzVFNuNDRCUXl6NjMtd3hyWHZWZmVCN1BvZTd0aUc2amRfQlQ2cG5YbnBXSm9qYXItbzJZS05EQmdyRWViSlRYZklR?oc=5",
-   "source": "mykxlg.com",
-   "cat": "Home improvement",
-   "date": "2026-11-21T16:25:01+00:00",
-   "date_label": "Nov 21, 2026"
-  },
-  {
-   "title": "Housing market shift: 76 metros where home prices are falling",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLXRodVcydGxlMl85YzVPeEJUSGlTb2NvNWdvVFFLT2M5VWcyWC14SENoS2hxeGFJMkNuUlBqdi1CTFlUUjhiQXRfS2kwQnN1Vl9sUGFKVzc3dXk4WmdqSGhTOHpoNkZXeWVLZk5LU2FWYXFGdEdsZklid3FzVC1qRkVMeVJiQQ?oc=5",
-   "source": "Fast Company",
-   "cat": "Market",
-   "date": "2026-11-21T11:01:44+00:00",
-   "date_label": "Nov 21, 2026"
   }
  ]
 }
